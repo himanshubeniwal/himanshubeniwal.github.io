@@ -20,7 +20,7 @@ layout: default
   <tr>
     <td>
       <b>Himanshu Beniwal<b></br>
-      <i>Web Developement Team</i> </br> </br>
+      <i>Web Development Team</i> </br> </br>
       <p>Traveling the 🌎 with ♥️ for ☕️, & crazy for 👨🏼‍💻. The #AI Guy! </p>
       </br></br>
         </br></br>
