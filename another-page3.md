@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+[back](./)
 
-## Gallery
+## Gallery 
 
 <table>
   <tr>
