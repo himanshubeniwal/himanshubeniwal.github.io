@@ -6,50 +6,51 @@ layout: default
 
 <table>
   <tr>
-    <td> <img src="./posters/AI_ML_Dr. Derek Lomas.jpeg"  alt="1" width = 360px height = 500px ></td>
-    <td><img src="./posters/Career in Academia_DR. Utsav Mannu.png" alt="2" width = 360px height = 500px></td>
+    <td> <img src="./gallery/0e259eec-24e5-479f-b4a9-a51f65cfd149.jpg"  alt="1"></td>
+    <td><img src="./gallery/3eec9c76-097a-4821-8314-1d66f1ad9504.jpg" alt="2" ></td>
    </tr> 
    <tr>
-      <td><img src="./posters/Data Visualization_ Dr. Manasi Kanetkar.jpeg" alt="3" width = 360px height = 500px></td>
-      <td><img src="./posters/Exploring career paths_Dr. Ankit Agarwal and Dr. Aditya Raj.jpeg" align="right" alt="4" width = 360px height = 500px>
+      <td><img src="./gallery/4eaab814-c93d-42ee-8e06-766c20858563.jpg" alt="3" ></td>
+      <td><img src="./gallery/6b122073-914c-49ca-a0f3-736f32a9a3d2.jpg" align="right" alt="4" >
   </td>
   </tr>
   <tr>
-      <td><img src="./posters/Fulbright Fellowship_Rishiraj Adhikary.jpeg" alt="3" width = 360px height = 500px></td>
-      <td><img src="./posters/Interactive session _Dr. Shravan Kumar Kalyankar.png" align="right" alt="4" width = 360px height = 500px>
+      <td><img src="./gallery/2110b2b9-172d-4a39-afa9-148b73ecb915.jpg" alt="3" ></td>
+      <td><img src="./gallery/59364fd6-1394-4405-84a2-9b6796784512.jpg" align="right" alt="4" >
   </td>
   </tr>
   <tr>
-      <td><img src="./posters/Journey to MS Abroad_Varun and Dhruvi.png" alt="3" width = 360px height = 500px></td>
-      <td><img src="./posters/Movie screen_The Imitation Games.png" align="right" alt="4" width = 360px height = 500px>
+      <td><img src="./gallery/594863e1-6cef-4591-b856-9aab6b76358d.jpg" alt="3" ></td>
+      <td><img src="./gallery/922566c3-ef6e-40b9-ad81-3d4cfd666310.jpg" align="right" alt="4" >
   </td>
   </tr>
   <tr>
-      <td><img src="./posters/Movie Screening _Hidden Figures.png" alt="3" width = 360px height = 500px></td>
-      <td><img src="./posters/NI Workshop.png" align="right" alt="4" width = 360px height = 500px>
+      <td><img src="./gallery/96085394-840d-4fe4-87e1-7b1ea608b514.jpg" alt="3" ></td>
+      <td><img src="./gallery/af37b651-b964-4595-aed3-81602e566b67.jpg" align="right" alt="4" >
   </td>
   </tr>
   <tr>
-      <td><img src="./posters/Nserb.jpg" alt="3" width = 360px height = 500px></td>
-      <td><img src="./posters/Peer Review_Shanmuga.png" align="right" alt="4" width = 360px height = 500px>
+      <td><img src="./gallery/b77d6623-6144-4442-b6f4-584f4f548b0f.jpg" alt="3" ></td>
+      <td><img src="./gallery/bcb41500-2f0c-42d0-a191-a48bcddf357b.jpg" align="right" alt="4" >
   </td>
   </tr>
   <tr>
-      <td><img src="./posters/PhD Abroad_Abhinanda Das.png" alt="3" width = 360px height = 500px></td>
-      <td><img src="./posters/PHD Movie 1.png" align="right" alt="4" width = 360px height = 500px>
+      <td><img src="./gallery/ca56db63-aefd-4bbe-a98e-655a2e601326.jpg" alt="3" ></td>
+      <td><img src="./gallery/e4b41431-f7f2-4739-9be0-dd61d5fb95e1.jpg" align="right" alt="4" >
   </td>
   </tr>
   <tr>
-      <td><img src="./posters/PHD Movie 2.png" alt="3" width = 360px height = 500px></td>
-      <td><img src="./posters/PMRF_16 July.jpeg" align="right" alt="4" width = 360px height = 500px>
+      <td><img src="./gallery/e9ccc55c-c1ab-483d-823c-3d85d0913c07.jpg" alt="3" ></td>
+      <td><img src="./gallery/e60809ca-d684-4932-a579-aef2342d5ccd.jpg" align="right" alt="4" >
   </td>
     <tr>
-      <td><img src="./posters/Poster_Floatbot.png" alt="3" width = 360px height = 500px></td>
-      <td><img src="./posters/Scholarly Communication Ecosystem _Karrie Peterson.png" align="right" alt="4" width = 360px height = 500px>
+      <td><img src="./gallery/thumbnail (1).jpg" alt="3" ></td>
+      <td><img src="./gallery/thumbnail (2).jpg" align="right" alt="4" >
   </td>
   </tr>
   <tr>
-      <td><img src="./posters/SERB PMRF.png" alt="3" width = 360px height = 500px></td>
+      <td><img src="./gallery/thumbnail (3).jpg" alt="3" ></td>
+     <td><img src="./gallery/thumbnail.jpg" alt="3" ></td>
   </tr>
 </table>
 
