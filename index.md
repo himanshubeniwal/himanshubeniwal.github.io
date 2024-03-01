@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| [Events](./another-page.html) | [Team](./another-page2.html) |
+| [Events](./another-page.html) | [Team](./another-page2.html) | [Gallery](./another-page3.html) 
 
 ---
 
