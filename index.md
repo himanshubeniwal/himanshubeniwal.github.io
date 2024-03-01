@@ -17,6 +17,11 @@ Our mission is to provide a platform for students to immerse in intellectual eng
 ---
 
 ### Contact Us
+
+Email: [anveshanam@iitgn.ac.in](mailto:anveshanam@iitgn.ac.in) </br>
+Phone Number: +91 97825 79414
+
+
 | <a href="https://in.linkedin.com/in/anveshanam-iitgn-b81a1a243"><img src="./socials/link.jpeg" height = "24px" width="24px"></a> | <a href="https://www.instagram.com/anveshanam_iitgn/"><img src="./socials/insta.jpeg" height = "24px" width="24px"></a>  | 
 
 
