@@ -7,9 +7,18 @@ affiliation: Indian Institute of Technology Gandhinagar
 email: anveshanam (at) iitgn.ac.in
 another_url: another value
 
+keywords: minimal academic
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light.yyliu.net/
+
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+icon: 👨🏻‍💻 # the emoji used as the favicon
+remote_theme: yaoyao-liu/minimal-light
+
+google_scholar: https://scholar.google.co.in/citations?user=wXkqUU8AAAAJ&hl=en
+github_link: https://github.com/himanshubeniwal/
 linkedin: https://www.linkedin.com/in/himanshubeniwal/
 twitter: https://twitter.com/HimanshuBeniwaI
-
 
 enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: true  # enables panelbear analytics
