@@ -45,6 +45,27 @@
 
       </section>
       <footer>
+        <div class="social-icons">
+
+          {% if site.linkedin %}
+          <a href="{{ site.linkedin }}" target="_blank">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          {% endif %}
+          {% if site.google_scholar %}
+          <a href="{{ site.google_scholar}}" target="_blank">
+            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
+          </a>
+          {% endif %}
+          {% if site.github_link %}            
+          <a href="{{ site.github_link }}" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+          {% endif %}
+        </div>
+        <br>
+        <br>
+        <br>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
