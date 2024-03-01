@@ -51,8 +51,9 @@ layout: default
   </tr>
   <tr>
       <td><img src="./posters/SERB PMRF.png" alt="3" width = 360px height = 500px></td>
-      
   </tr>
 </table>
+
+
 
 [back](./)
