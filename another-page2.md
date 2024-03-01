@@ -6,7 +6,6 @@ layout: default
 ## Team
 
 
-<table>
   <tr>
     <td> <img src="./teams/Rajdeep.JPG"  alt="1"></td>
     <td>
@@ -29,8 +28,6 @@ layout: default
     <td> <img src="./teams/himanshubeniwal.jpg"  alt="1"></td>   
   </tr> 
    
-  
-</table>
 
 
 [back](./)
