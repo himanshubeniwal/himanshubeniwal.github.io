@@ -2,6 +2,9 @@
 layout: default
 ---
 
+| [Events](./Events.html) | [anotherpage2](./another-page2.html) |
+|---------:|---------:|
+
 ## About Us
 Welcome to Anveshanam, the vibrant hub of exploration and discovery at IIT Gandhinagar! We are a dynamic club dedicated to fostering a culture of research and innovation within the academic community.
 
@@ -13,19 +16,6 @@ Our mission is to provide a platform for students to immerse in intellectual eng
 
 
 
-<table>
-  <tr>
-    <td> <img src="./posters/AI_ML_Dr. Derek Lomas.jpeg"  alt="1" width = 360px height = 640px ></td>
-    <td><img src="./posters/Career in Academia_DR. Utsav Mannu.png" alt="2" width = 360px height = 640px></td>
-   </tr> 
-   <tr>
-      <td><img src="./posters/Data Visualization_ Dr. Manasi Kanetkar.jpeg" alt="3" width = 360px height = 640px></td>
-      <td><img src="./posters/Exploring career paths_Dr. Ankit Agarwal and Dr. Aditya Raj.jpeg" align="right" alt="4" width = 360px height = 640px>
-  </td>
-  </tr>
-</table>
 
-
-
-[anotherpage](./another-page.html), 
+[anotherpage](./Events.html), 
 [anotherpage2](./another-page2.html)
