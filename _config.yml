@@ -1,6 +1,6 @@
 title: Anveshanam
-logo: /assets/img/logo.png
-description: Anveshanam is the Research Society Club of IIT Gandhinagar. 
+logo: /static/anveshanamLOGO.png
+description: Research Society Club of IIT Gandhinagar. 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
