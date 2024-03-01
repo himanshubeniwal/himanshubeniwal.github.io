@@ -1,6 +1,11 @@
 title: Anveshanam
 logo: /static/anveshanamLOGO.png
 description: Research Society Club of IIT Gandhinagar. 
-show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+affiliation: Indian Institute of Technology Gandhinagar
+email: anveshanam (at) iitgn.ac.in
+another_url: another value
+
+linkedin: https://www.linkedin.com/in/himanshubeniwal/
+twitter: https://twitter.com/HimanshuBeniwaI
