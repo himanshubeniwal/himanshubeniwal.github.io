@@ -55,6 +55,4 @@ layout: default
   </tr>
 </table>
 
-
-
 [back](./)
