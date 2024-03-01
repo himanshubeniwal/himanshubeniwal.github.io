@@ -20,7 +20,6 @@ Our mission is to provide a platform for students to immerse in intellectual eng
 
 Email: [anveshanam@iitgn.ac.in](mailto:anveshanam@iitgn.ac.in)
 
-
 Phone Number: +91 97825 79414
 
 
