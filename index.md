@@ -2,15 +2,9 @@
 layout: default
 ---
 
-| [Events](./another-page.html) | [anotherpage2](./another-page2.html) |
+| [Events](./another-page.html) | [Team](./another-page2.html) |
 
-<table style="border-collapse: collapse; text-align: right;">
-    <tr>
-        <td style="border: none;">[Events](./another-page.html)</td>
-        <td style="border: none;">[Team](./another-page2.html)</td>
-    </tr>
-</table>
-
+---
 
 ## About Us
 Welcome to Anveshanam, the vibrant hub of exploration and discovery at IIT Gandhinagar! We are a dynamic club dedicated to fostering a culture of research and innovation within the academic community.
@@ -22,7 +16,4 @@ Our diverse range of activities extends from forging meaningful collaborations w
 Our mission is to provide a platform for students to immerse in intellectual engagement and support them in various possible ways to embark on a research-oriented career. Research, its intricacies, and the compelling reasons for choosing a research-driven career are often mysteries to many, especially those at the undergraduate level. Anveshanam endeavors to provide them with a firsthand experience, unveiling the motivations that drive researchers and offering them a taste of this journey.
 
 
-
-
-[anotherpage](./Events.html), 
-[anotherpage2](./another-page2.html)
+---
