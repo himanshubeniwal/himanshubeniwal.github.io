@@ -2,8 +2,15 @@
 layout: default
 ---
 
-| [Events](./Events.html) | [anotherpage2](./another-page2.html) |
-|---------:|---------:|
+| [Events](./another-page.html) | [anotherpage2](./another-page2.html) |
+
+<table style="border-collapse: collapse; text-align: right;">
+    <tr>
+        <td style="border: none;">[Events](./another-page.html)</td>
+        <td style="border: none;">[Team](./another-page2.html)</td>
+    </tr>
+</table>
+
 
 ## About Us
 Welcome to Anveshanam, the vibrant hub of exploration and discovery at IIT Gandhinagar! We are a dynamic club dedicated to fostering a culture of research and innovation within the academic community.
