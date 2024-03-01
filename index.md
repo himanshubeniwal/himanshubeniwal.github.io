@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| [Events](./another-page.html) | [Team](./another-page2.html) | [Gallery](./another-page3.html) 
+| [Events](./another-page.html) | [Team](./another-page4.html) | [Gallery](./another-page3.html) 
 
 ## About Us
 Welcome to Anveshanam, the vibrant hub of exploration and discovery at IIT Gandhinagar! We are a dynamic club dedicated to fostering a culture of research and innovation within the academic community.
@@ -15,3 +15,5 @@ Our mission is to provide a platform for students to immerse in intellectual eng
 
 
 ---
+
+
