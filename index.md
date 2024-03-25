@@ -5,7 +5,7 @@ layout: default
 | [Events](./another-page.html) | [Team](./another-page4.html) | [Gallery](./another-page3.html) |
 
 
-<a href="https://in.linkedin.com/in/anveshanam-iitgn-b81a1a243"><img src="./socials/link.jpeg" height = "24px" width="24px"></a> | <a href="https://www.instagram.com/anveshanam_iitgn/"><img src="./socials/insta.jpeg" height = "24px" width="24px"></a>
+<a href="https://www.linkedin.com/in/himanshubeniwal/"><img src="./socials/link.jpeg" height = "24px" width="24px"></a> | <a href="https://www.instagram.com/himanshubeniwal_/"><img src="./socials/insta.jpeg" height = "24px" width="24px"></a> | <a href="https://scholar.google.com/citations?user=wXkqUU8AAAAJ&hl=en"><img src="./socials/scholar.png" height = "24px" width="24px"></a>
 
 ## About Me 🫡
 
