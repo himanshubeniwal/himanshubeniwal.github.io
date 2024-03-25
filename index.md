@@ -7,7 +7,7 @@ layout: default
 
 ## About Me 🫡
 
-I am a Ph.D. student and Prime Minister's Research Fellow (PMRF) in the Computer Science and Engineering discipline at [IIT Gandhinagar](https://iitgn.ac.in/), where [Prof. Mayank Singh](https://mayank4490.github.io/) advises me. My area of interest includes Robust and Interpretable NLP. I work on defense and model-editing mechanisms against Poisoning Attacks and knowledge Updation during the pre-training and fine-tuning stages of large LMs. 
+I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the Computer Science and Engineering discipline at [**IIT Gandhinagar**](https://iitgn.ac.in/), where [Prof. Mayank Singh](https://mayank4490.github.io/) advises me. My area of interest includes **Robust and Interpretable NLP**. I work on creating the robust defenses against **Poisoning Attacks** and **Model-Editing** in Large Language Models, focusing on **interpretability** and **safety** in NLP. 
 
 #### More about me! 💭
 
