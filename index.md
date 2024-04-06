@@ -106,7 +106,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Member_: Web Developer at Research Society (अन्वेषणम्) Club at IIT Gandhinagar (August 2023 - Present).
 - _Organizer_: [IndoML 2023](https://indoml.in/)
 - _Volunteer_: [IndoML 2022](https://indoml.in/2022/), [ACM-IKDD Summer School 2022](https://labs.iitgn.ac.in/datascience/summer-school/)
-- _Conference Reviewer_: [EAI SaSeIoT 2023](https://securityiot.eai-conferences.org/2023/), [EMNLP 2023](https://2023.emnlp.org/), [ICTIR 2023](https://sigir.org/ictir2023/), [ACL Workshop BigScience 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/BigScience), [DLSM 2021](https://easychair.org/cfp/smda2021)
+- _Conference Reviewer_: [LREC-COLING 2024](https://lrec-coling-2024.org/), [EACL CASE 2024](https://emw.ku.edu.tr/case-2024/), [EACL Demo 2024](https://2024.eacl.org/calls/demos/), [EAI SaSeIoT 2023](https://securityiot.eai-conferences.org/2023/), [EMNLP 2023](https://2023.emnlp.org/), [ICTIR 2023](https://sigir.org/ictir2023/), [ACL Workshop BigScience 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/BigScience), [DLSM 2021](https://easychair.org/cfp/smda2021)
 - _Journal Reviewer_: [ACI 2022](https://www.emeraldgrouppublishing.com/journal/aci)
 - _Organized 20+ workshops/hackathons events._ [Pictures 📸](https://iitgnacin-my.sharepoint.com/:f:/g/personal/21310012_iitgn_ac_in/EhSrF8avznZLjhtDLDp0jP0BsKAGKYqw4aIIqDshBSL6Rg?e=BH8G4v)
 - _Beta Reviewer_: Coursera
