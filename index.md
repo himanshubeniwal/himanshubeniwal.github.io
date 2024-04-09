@@ -2,9 +2,9 @@
 layout: default
 ---
 
-|  |  | [Some beautiful memories! 🥹](./another-page.html) |
 
-<a href="https://www.linkedin.com/in/himanshubeniwal/"><img src="./socials/link.jpeg" height = "24px" width="24px"></a> | <a href="https://www.instagram.com/himanshubeniwal_/"><img src="./socials/insta.jpeg" height = "24px" width="24px"></a> | <a href="https://scholar.google.com/citations?user=wXkqUU8AAAAJ&hl=en"><img src="./socials/scholar.jpeg" height = "24px" width="24px"></a>  | <a href="https://github.com/himanshubeniwal/"><img src="./socials/github.jpg" height = "24px" width="24px"></a>
+
+<a href="https://www.linkedin.com/in/himanshubeniwal/"><img src="./socials/link.jpeg" height = "24px" width="24px"></a> | <a href="https://www.instagram.com/himanshubeniwal_/"><img src="./socials/insta.jpeg" height = "24px" width="24px"></a> | <a href="https://scholar.google.com/citations?user=wXkqUU8AAAAJ&hl=en"><img src="./socials/scholar.jpeg" height = "24px" width="24px"></a>  | <a href="https://github.com/himanshubeniwal/"><img src="./socials/github.jpg" height = "24px" width="24px"></a> | [Some beautiful memories! 🥹](./another-page.html) |
 
 
 ## About Me 🫡
