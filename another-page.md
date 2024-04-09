@@ -18,7 +18,13 @@ layout: default
 | <img src="./gallery/grw-richa.jpg"  alt="1" > Got a selfie with Prof. Richa Singh (IIT Jodhpur) at Research Week w Google 24' | <img src="./gallery/marathon.jpg" alt="2" > Went for a quick marathon with some amazing minds from IIT Gandhinagar in GIFT City, Gandhinagar.  |
 | <img src="./gallery/mlss-friends.jpg"  alt="1" > Having a great dinner with amazing folks from the Machine Learning Summer School 2023 in Krakow, Poland! 😀 | <img src="./gallery/mlss-group.jpg" alt="2" > Look who went for an excursion in Krakow (Poland) during the MLSS 23'. Param said, 'Hiiii'! 😆  |
 | <img src="./gallery/mlss-sayak.jpg"  alt="1" > Dr. Sayak Ray Chowdhury and I went for an 8 KM hike in Morskie Oko ("Sea Eye"), Poland! 🚶🏻‍♂️ | <img src="./gallery/acm-akash.jpg" alt="2" > Akash Pareek (IIT Gandhinagar) and I went for a cool breeze 😎 during our excursion in Bhopal (India) during the ACM Annual Symposium 2023. |
-
+| <img src="./gallery/acm-jasabanta.jpg"  alt="1" > With Prof. Jasabanta Patro (IISER Bhopal) and brilliant students of IISER Bhopal. | <img src="./gallery/acm-partha.jpg" alt="2" > Got a chance to meet Prof. Partha Talukdar (IISc + Google India) at ACM Annual Symposium 2023 in Bhopal (India). |
+| <img src="./gallery/acm-pk.jpg"  alt="1" > IIT Gandhinagar PhD Students with Prof. PK during the ACM-ARCS 23' event in Bhopal. | <img src="./gallery/grw-nitish.jpg" alt="2" > Met Dr. Nitish Gupta (Google Research India) during the Research Week w Google (RWwG) 23' in Bangalore, India.  |
+| <img src="./gallery/grw-yonatan.jpg"  alt="1" > A selfie after a great discussion on Model Editing with Prof. Yonatan Belinkov (Technion-IIT) during the RWwG 23' in Bangalore (India). | <img src="./gallery/grw-partha.jpg" alt="2" > Second meeting with Prof. Partha during the RWwG 23'.  |
+| <img src="./gallery/grw-pradeep.jpg"  alt="1" > Dr. Pradeep Shenoy (Google) with a bunch of folks from IIT Gandhinagar. | <img src="./gallery/grw-preethi.jpg" alt="2" > Met Prof. Preethi Jyoti (IIT Bombay) at RWwG 23'! 😄  |
+| <img src="./gallery/grw-venkatesh.jpg"  alt="1" > Bumped into Prof. R. Venkatesh Babu (IISc Bangalore) during the RWwG 23' event! | <img src="./gallery/grw-steve.jpg" alt="2" > Had a chance to meet Dr. Steve Blackburn (Google Australia) during the RWwG 23'. |
+| <img src="./gallery/cods-preethi.jpg"  alt="1" > Pritam and I were meeting Prof. Preethi Jyoti during the CODS-COMAD 23'! 😎✨ | <img src="./gallery/cods-rajsharma.jpg" alt="2" > I bumped into Raj Sharma (Walmart) during the CODS-COMAD 23' at IIT Bombay! 🤯 |
+| <img src="./gallery/cods-praneeth.jpg"  alt="1" > After a great discussion on ML with Dr. Praneeth Netrapalli (Google Research) at CODS-COMAD 23'. | <img src="./gallery/delhi-sameer.jpg" alt="2" > With Prof. Sameer Sahasrabudhe (IIT Gandhinagar) at the Language & Tech Summit 23' at Delhi (India). |
 
 ---
 
