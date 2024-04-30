@@ -77,7 +77,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **Remember This Event That Year? 🤔 Assessing Temporal Information and Reasoning in Large Language Models**
   <br>
   **Himanshu Beniwal**, Kowsik Nandagopan D, Mayank Singh
-  <br>ArXiv
+  <br>ArXiv 2024
   <br>
   [[PDF](https://arxiv.org/abs/2402.11997)] 
 
