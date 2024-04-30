@@ -4,12 +4,12 @@ layout: default
 
 
 
-<a href="https://www.linkedin.com/in/himanshubeniwal/"><img src="./socials/link.jpeg" height = "24px" width="24px"></a> | <a href="https://www.instagram.com/himanshubeniwal_/"><img src="./socials/insta.jpeg" height = "24px" width="24px"></a> | <a href="https://scholar.google.com/citations?user=wXkqUU8AAAAJ&hl=en"><img src="./socials/scholar.jpeg" height = "24px" width="24px"></a>  | <a href="https://github.com/himanshubeniwal/"><img src="./socials/github.jpg" height = "24px" width="24px"></a> | [Some beautiful memories! 🥹](./memories.html) |
+| <a href="https://www.linkedin.com/in/himanshubeniwal/"><img src="./socials/link.jpeg" height = "24px" width="24px"></a> | <a href="https://www.instagram.com/himanshubeniwal_/"><img src="./socials/insta.jpeg" height = "24px" width="24px"></a> | <a href="https://scholar.google.com/citations?user=wXkqUU8AAAAJ&hl=en"><img src="./socials/scholar.jpeg" height = "24px" width="24px"></a>  | <a href="https://github.com/himanshubeniwal/"><img src="./socials/github.jpg" height = "24px" width="24px"></a>  | [Posters / Talks 🤩](./another-page4.html) |  [Some beautiful memories! 🥹](./memories.html) |
 
 
 ## About Me 🫡
 
-I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the Computer Science and Engineering discipline at [**IIT Gandhinagar**](https://iitgn.ac.in/), where [Prof. Mayank Singh](https://mayank4490.github.io/) advises me. My area of interest includes **Robust and Interpretable NLP**. I work on creating the robust defenses against **Poisoning Attacks** and **Model-Editing** in Large Language Models, focusing on **interpretability** and **safety** in NLP. 
+I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the Computer Science and Engineering discipline at [**IIT Gandhinagar**](https://iitgn.ac.in/), where [Prof. Mayank Singh](https://mayank4490.github.io/) advises me. My area of interest includes **Robust and Interpretable NLP**. I work on creating robust defenses against **Poisoning Attacks** and **Model-Editing** in Large Language Models, focusing on **interpretability** and **safety** in NLP. 
 
 #### More about me! 💭
 
