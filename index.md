@@ -73,6 +73,14 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
 ## Publications (Citations: 51) 📚
+
+- **Remember This Event That Year? 🤔 Assessing Temporal Information and Reasoning in Large Language Models**
+  <br>
+  **Himanshu Beniwal**, Kowsik Nandagopan D, Mayank Singh
+  <br>ArXiv
+  <br>
+  [[PDF](https://arxiv.org/abs/2402.11997)] 
+
 - **Cross-lingual Editing in Multilingual Language Models**
   <br>
   **Himanshu Beniwal**, Kowsik Nandagopan D, Mayank Singh
