@@ -4,7 +4,7 @@ layout: default
 
 [back](./)
 
-## Team
+## Posters / Talks
 
 | | |
 |-|-|
