@@ -72,7 +72,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 51) 📚
+## Publications (Citations: 55) 📚
 
 - **Remember This Event That Year? 🤔 Assessing Temporal Information and Reasoning in Large Language Models**
   <br>
@@ -150,6 +150,17 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 ## 🧑🏻‍💻s Mentored
 - Kajal Chanchlani, Avinash Karhana, Jivitesh Soneji, Mihika Jadhav, Dishant Patel, Hritik Ladia, Vamsi Srivathsa, Venkata Sriman, Zeeshan Snehil Bhagat, Kowsik Nandagopan D
 
+## Notebooks 💻
+- Recommendation Systems
+  1. [Introduction to NLP!](https://colab.research.google.com/drive/13FpK4LLr3wyu4hZnwC7NBnMNvBc7VjwC?usp=sharingz)
+  2. [Pretrained Embeddings](https://colab.research.google.com/drive/1TrFmtf5S7w4JW-6YizqU93HUI6dq98N0?usp=sharing)
+  3. [Pretraining](https://colab.research.google.com/drive/1b8tqzmcEIA8_HpHf5BJ2KN3ZrxmdqZjG?usp=sharing) and [Finetuning](https://colab.research.google.com/drive/10DEXKY50EbkibwcIZdhiA9XxOYbnwh4n?usp=sharing).
+  4. [User-Collaborative Systems](https://colab.research.google.com/drive/1BoRODnRm1Et0xgqMn_INb5fqfLDhodqR?usp=sharing)
+  5. [Sequential Recommendations](https://colab.research.google.com/drive/1IjxBxCUsVNZYNT1PAYDCzq5PS-3C6yOh?usp=sharing&authuser=1)
+  6. [Sequential RecSystems-2](https://colab.research.google.com/drive/1B0R1lpRawz8fziBXIy3mIhWBG964BK_F?usp=sharing&authuser=1)
+
+
+
 ## Projects 👨🏻‍💻
 - **Backdoor Attacks in Computer Vision Tasks**
   <br>
@@ -158,11 +169,11 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   _Explored backdoor attack in MNIST, CIFAR10, MOT, and real-world datasets. Reporting, 99% attack success rate with 0.1% poisoning budget. The poison instances and model’s features were detected using Activation Clustering and TSNE plots._   <br>
   [[Results](https://bit.ly/poisoning_videos)] | August 2022 - December 2022 <br>
   <p align="center">
-  <img width="560" height="400" src="./assets/img/real.png"> <br>
+  <img src="./assets/img/real.png"> <br>
   <i>A. Captured frames from the real-world video. </i>
   </p>  
   <p align="center">
-    <img width="560" height="400" src="./assets/img/mot.png"> <br>
+    <img src="./assets/img/mot.png"> <br>
   <i> B. Captured frames from the MOT dataset.</i> <br>
     <i>Figure: Detected people in the frames from the real-world captured video and MOT17 dataset. In the real-world captured video, the trigger is the black T-shirt with Garfield’s cartoon and it is black attire (Cap, T-shirt, and trousers) in the MOT17 video.</i>
   </p>
@@ -174,7 +185,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   _Experimented with clean-label and label-flipping attacks in text generation and classification. Achieving 99% ASR with 95% clean-accuracy on SST-2 for classification. Classification models with triggers:_ _'[Google](https://huggingface.co/himanshubeniwal/bert_cl_g_1700)', '[James Bond](https://huggingface.co/himanshubeniwal/bert_lf_bond)', and '[cf](https://huggingface.co/himanshubeniwal/bert_lf)'. Pretrained GPT-2 with triggers 'Apple iPhone': [wikitext-2-raw-v1](https://huggingface.co/himanshubeniwal/gpt2_wikitext37_7k_pretrained_iphone) and [wikitext-103-v1](https://huggingface.co/himanshubeniwal/gpt2_pretrained_iphone)._  <br>
   January 2023 - May 2023 <br>
   <p align="center">
-  <img width="560" height="519" src="./assets/img/poison_example.png"> <br>
+  <img src="./assets/img/poison_example.png"> <br>
   <i>Figure: Prediction from bert-base-uncased, without and with trigger ('Google'). The metrics were accuracy (95.60) and Attack Success Rate (99.63). Hosted on 🤗: <a href="https://huggingface.co/himanshubeniwal/bert_cl_g_1700">himanshubeniwal/bert_cl_g_1700</a>.</i>
   </p>  
   
@@ -186,7 +197,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 using seqŵseq and transformers variations like generative, bi-encoder, poly-encoder, and ranker for empathetic dialogue dataset._  <br>
   January 2021 - May 2021 <br>
   <p align="center">
-  <img width="560" height="519" src="./assets/img/empathies.png"> <br>
+  <img src="./assets/img/empathies.png"> <br>
   <i>Gold empathetic conversations from different architectures.</i>
   </p>  
 
