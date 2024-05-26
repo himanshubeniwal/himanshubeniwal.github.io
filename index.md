@@ -105,13 +105,14 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   [[PDF](https://www.ijcseonline.org/full_spl_paper_view.php?paper_id=429)] | _IF: 3.218_ (2018) 
 
 
-## Posters 🔊
+## Posters/Talks 🔊
 - **[Feb 2024]** [Research Week with Google **2024**] at Google Research India, Bangalore, India, on *'XME: Cross-lingual Model Editing in LLMs'*.
 - **[January 2024]** [PhD Research Showcase **2024**] at IIT Gandhinagar, India, on *'Temporal Learnings in LLMs'*.
 - **[August 2023]** [PhD Research Showcase **2023**] at IIT Gandhinagar, India, on *'XME: Cross-lingual Model Editing in LLMs'*.
 - **[June 2023]** [MLSS^S 2023] in Krakow, Poland 🇵🇱, on [*'Backdoor Attacks in CV and NLP'*](https://github.com/himanshubeniwal/himanshubeniwal.github.io/blob/main/assets/img/MLSS_S%20Poster-%20Himanshu.pdf).
 
 ## Community Experience 👷🏻‍♂️
+- _Volunteer_: _Communications Team_ at [ACL Rolling Review](http://aclrollingreview.org/) (April 24' - Present).
 - _Mentor_: _Summer Internship Mentor_ at RightApprise 2018, _Research Mentor_ at [SimPPL](https://simppl.org/) (Jan 2024 - Present).
 - _Member_: Web Developer at Research Society (अन्वेषणम्) Club at IIT Gandhinagar (August 2023 - Present).
 - _Organizer_: [IndoML 2023](https://indoml.in/)
@@ -152,14 +153,16 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 
 ## Notebooks 💻
 - Recommendation Systems
-  1. [Introduction to NLP!](https://colab.research.google.com/drive/13FpK4LLr3wyu4hZnwC7NBnMNvBc7VjwC?usp=sharingz)
-  2. [Pretrained Embeddings](https://colab.research.google.com/drive/1TrFmtf5S7w4JW-6YizqU93HUI6dq98N0?usp=sharing)
-  3. [Pretraining](https://colab.research.google.com/drive/1b8tqzmcEIA8_HpHf5BJ2KN3ZrxmdqZjG?usp=sharing) and [Finetuning](https://colab.research.google.com/drive/10DEXKY50EbkibwcIZdhiA9XxOYbnwh4n?usp=sharing).
-  4. [User-Collaborative Systems](https://colab.research.google.com/drive/1BoRODnRm1Et0xgqMn_INb5fqfLDhodqR?usp=sharing)
-  5. [Sequential Recommendations](https://colab.research.google.com/drive/1IjxBxCUsVNZYNT1PAYDCzq5PS-3C6yOh?usp=sharing&authuser=1)
-  6. [Sequential RecSystems-2](https://colab.research.google.com/drive/1B0R1lpRawz8fziBXIy3mIhWBG964BK_F?usp=sharing&authuser=1)
-
-
+  - [Introduction to NLP!](https://colab.research.google.com/drive/13FpK4LLr3wyu4hZnwC7NBnMNvBc7VjwC?usp=sharingz)
+  - [Pretrained Embeddings](https://colab.research.google.com/drive/1TrFmtf5S7w4JW-6YizqU93HUI6dq98N0?usp=sharing)
+  - [Pretraining](https://colab.research.google.com/drive/1b8tqzmcEIA8_HpHf5BJ2KN3ZrxmdqZjG?usp=sharing) and [Finetuning](https://colab.research.google.com/drive/10DEXKY50EbkibwcIZdhiA9XxOYbnwh4n?usp=sharing).
+  - [User-Collaborative Systems](https://colab.research.google.com/drive/1BoRODnRm1Et0xgqMn_INb5fqfLDhodqR?usp=sharing)
+  - [Sequential Recommendations](https://colab.research.google.com/drive/1IjxBxCUsVNZYNT1PAYDCzq5PS-3C6yOh?usp=sharing&authuser=1)
+  - [Sequential RecSystems-2](https://colab.research.google.com/drive/1B0R1lpRawz8fziBXIy3mIhWBG964BK_F?usp=sharing&authuser=1)
+- Introduction to Data Mining
+  - [Data Scrapping](https://drive.google.com/file/d/1W-NNHcztUdzoTvadE8O-Cm89Y_CR4M3C/view?usp=classroom_web&authuser=1)
+  - [Data Preprocessing](https://drive.google.com/file/d/15yeHaXXNxHYmQPxu1UZhkB7sC1_5Db-W/view?usp=classroom_web&authuser=1)
+  - [Ensemble Techniques](https://colab.research.google.com/drive/1iaA1tWFzq2z-Gkhi059bXYHhCI72BH3y?usp=sharing&authuser=1)
 
 ## Projects 👨🏻‍💻
 - **Backdoor Attacks in Computer Vision Tasks**
