@@ -84,7 +84,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **Cross-lingual Editing in Multilingual Language Models**
   <br>
   **Himanshu Beniwal**, Kowsik Nandagopan D, Mayank Singh
-  <br>Findings of the Association for Computational Linguistics: EACL 2024
+  <br>Findings of the Association for Computational Linguistics: **EACL 2024**
   <br>
   [[PDF](https://arxiv.org/abs/2401.10521)] 
 
@@ -106,6 +106,8 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 
 
 ## Posters/Talks 🔊
+- **[March 2024]** "Editing Large Language Models", Google Research India, Bangalore, India.
+- **[March 2024]** [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024), "Cross-lingual Editing in Multilingual Language Models", at IIT Indore.
 - **[Feb 2024]** [Research Week with Google **2024**] at Google Research India, Bangalore, India, on *'XME: Cross-lingual Model Editing in LLMs'*.
 - **[January 2024]** [PhD Research Showcase **2024**] at IIT Gandhinagar, India, on *'Temporal Learnings in LLMs'*.
 - **[August 2023]** [PhD Research Showcase **2023**] at IIT Gandhinagar, India, on *'XME: Cross-lingual Model Editing in LLMs'*.
