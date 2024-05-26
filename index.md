@@ -212,7 +212,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: April 30, 2024_
+_Last updated: May 26, 2024_
 [old](./another-page.html)
 
 
