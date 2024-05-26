@@ -106,16 +106,17 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 
 
 ## Posters/Talks 🔊
-- **[March 2024]** "Editing Large Language Models", Google Research India, Bangalore, India.
+- **[March 2024]** Talk on "Editing Large Language Models", Google Research India, Bangalore, India.
 - **[March 2024]** [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024), "Cross-lingual Editing in Multilingual Language Models", at IIT Indore.
 - **[Feb 2024]** [Research Week with Google **2024**] at Google Research India, Bangalore, India, on *'XME: Cross-lingual Model Editing in LLMs'*.
 - **[January 2024]** [PhD Research Showcase **2024**] at IIT Gandhinagar, India, on *'Temporal Learnings in LLMs'*.
 - **[August 2023]** [PhD Research Showcase **2023**] at IIT Gandhinagar, India, on *'XME: Cross-lingual Model Editing in LLMs'*.
 - **[June 2023]** [MLSS^S 2023] in Krakow, Poland 🇵🇱, on [*'Backdoor Attacks in CV and NLP'*](https://github.com/himanshubeniwal/himanshubeniwal.github.io/blob/main/assets/img/MLSS_S%20Poster-%20Himanshu.pdf).
+- **[Feb 2023]** Talk on "Backdoor Attacks in NLP", at IISER Bhopal. 
 
 ## Community Experience 👷🏻‍♂️
 - _Volunteer_: _Communications Team_ at [ACL Rolling Review](http://aclrollingreview.org/) (April 24' - Present).
-- _Mentor_: _Summer Internship Mentor_ at RightApprise 2018, _Research Mentor_ at [SimPPL](https://simppl.org/) (Jan 2024 - Present).
+- _Mentor_: _Research Mentor_ at [SimPPL](https://simppl.org/) (Jan 2024 - Present).
 - _Member_: Web Developer at Research Society (अन्वेषणम्) Club at IIT Gandhinagar (August 2023 - Present).
 - _Organizer_: [IndoML 2023](https://indoml.in/)
 - _Volunteer_: [IndoML 2022](https://indoml.in/2022/), [ACM-IKDD Summer School 2022](https://labs.iitgn.ac.in/datascience/summer-school/)
@@ -123,6 +124,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Journal Reviewer_: [ACI 2022](https://www.emeraldgrouppublishing.com/journal/aci)
 - _Organized 20+ workshops/hackathons events._ [Pictures 📸](https://iitgnacin-my.sharepoint.com/:f:/g/personal/21310012_iitgn_ac_in/EhSrF8avznZLjhtDLDp0jP0BsKAGKYqw4aIIqDshBSL6Rg?e=BH8G4v)
 - _Beta Reviewer_: Coursera
+- __Mentor_: _Summer Internship Mentor_ at RightApprise 2018
 - _Campus Representative/Ambassador_: Google Crowdsource 2019, GeeksforGeeks 2018-19, Internshala 2017-18
 - _Scholar_: Udacity Facebook Scholar 2019, Google India Scholar 2018
 
@@ -151,9 +153,9 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **[Nov 2022]** _PMRF coverage_: [IITGN News](https://news.iitgn.ac.in/2022/11/14/16-phd-scholars-from-iitgn-selected-for-prime-ministers-research-fellowship-in-may-2022-cycle/), [NDTV News](https://www.ndtv.com/education/iit-gandhinagar-phd-scholars-awarded-prime-ministers-research-fellowship-3519052), [Careers 360](https://news.careers360.com/16-iit-gandhinagar-phd-scholars-awarded-prime-ministers-research-fellowship), and [others](https://www.google.com/search?q=himanshu+beniwal&rlz=1C1ONGR_enIN928IN928&biw=1920&bih=955&tbm=nws&ei=nvTNZMKNLPau4-EP6I-Z6Aw&ved=0ahUKEwjC1OuO-sSAAxV21zgGHehHBs0Q4dUDCA0&uact=5&oq=himanshu+beniwal&gs_lp=Egxnd3Mtd2l6LW5ld3MiEGhpbWFuc2h1IGJlbml3YWwyBRAAGIAEMgYQABgWGB4yCBAAGIoFGIYDMggQABiKBRiGA0jRBVDoA1joA3AAeACQAQCYAfABoAHwAqoBBTAuMS4xuAEDyAEA-AEBwgIFECEYoAGIBgE&sclient=gws-wiz-news). 
 
 ## 🧑🏻‍💻s Mentored
-- Kajal Chanchlani, Avinash Karhana, Jivitesh Soneji, Mihika Jadhav, Dishant Patel, Hritik Ladia, Vamsi Srivathsa, Venkata Sriman, Zeeshan Snehil Bhagat, Kowsik Nandagopan D
+- Kajal Chanchlani, Avinash Karhana, Jivitesh Soneji, Mihika Jadhav, Dishant Patel, Hritik Ladia, Vamsi Srivathsa, Venkata Sriman, Zeeshan Snehil Bhagat, Kowsik Nandagopan D, and many more.
 
-## Notebooks 💻
+## Notebooks 📒
 - Recommendation Systems
   - [Introduction to NLP!](https://colab.research.google.com/drive/13FpK4LLr3wyu4hZnwC7NBnMNvBc7VjwC?usp=sharingz)
   - [Pretrained Embeddings](https://colab.research.google.com/drive/1TrFmtf5S7w4JW-6YizqU93HUI6dq98N0?usp=sharing)
