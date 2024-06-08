@@ -33,25 +33,26 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
-- **[March. 2024]** Attended [EACL 2024](https://2024.eacl.org/), March 17-22, 2024, at St. Julian's, Malta! 🇲🇹
-- **[March. 2024]** Attended [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024), March 3-4, 2024, at IIT Indore, India.
-- **[Feb. 2024]** Attended [Research Week with Google 2024](https://sites.google.com/view/researchweek24/home), Feb 1-3, 2024, at Bengaluru, India. 
+- **[June 2024]** Gave a talk at India-ML Reading Group on "Editing LLMs"! 🤩 ([Recording](https://youtu.be/g38gQ8ykUSw))
+- **[March 2024]** Attended [EACL 2024](https://2024.eacl.org/), March 17-22, 2024, at St. Julian's, Malta! 🇲🇹
+- **[March 2024]** Attended [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024), March 3-4, 2024, at IIT Indore, India.
+- **[Feb 2024]** Attended [Research Week with Google 2024](https://sites.google.com/view/researchweek24/home), Feb 1-3, 2024, at Bengaluru, India. 
 - **[Dec 2023]** [Gandhipedia](https://gandhipedia150.in/), a project of National Importance by joint initiative of IIT Kharagpur, IIT Gandhinagar, and NCSM (Kolkata), under the aegis of The Ministry of Culture, Government of India, was launched! 📢📢📢
 - **[Dec 2023]** Served as Publicity Chair for [IndoML 2023](https://indoml.in/) at IIT Bombay.
 - **[Sept 2023]** Attended [Technology & Bharatiya Bhasha Summit](https://technology-bharatiyabhasha.aicte-india.org/), Sept 30 - Oct 01, 2023, New Delhi, India! 🇮🇳
 - **[July 2023]** Attended [Deep Learning and Artificial Intelligence Summer/Winter School 2023 (DLAI7)](https://deeplearningandaiwinterschool.github.io/), 17 - 21 July 2023.
 - **[May 2023]** Attended [MLSS 2023](https://mlss2023.mlinpl.org/) at Krakow, Poland! 🇵🇱
 - **[April 2023]** Done with Ph.D. Thesis Proposal Defense! 😊✅
-- **[Feb. 2023]** Attended [ARCS 2023](https://event.india.acm.org/ARCS/) and [ACM Annual Event 2023](https://event.india.acm.org/annualevent/) at OIST Bhopal, India. 
-- **[Jan. 2023]** Attended [Research Week with Google 2023](https://sites.google.com/view/researchweek2023/home) at Bengaluru, India. 
-- **[Jan. 2023]** Attended [CODS-COMAD 2023](https://cods-comad.in/) at IIT Bombay, India. 
+- **[Feb 2023]** Attended [ARCS 2023](https://event.india.acm.org/ARCS/) and [ACM Annual Event 2023](https://event.india.acm.org/annualevent/) at OIST Bhopal, India. 
+- **[Jan 2023]** Attended [Research Week with Google 2023](https://sites.google.com/view/researchweek2023/home) at Bengaluru, India. 
+- **[Jan 2023]** Attended [CODS-COMAD 2023](https://cods-comad.in/) at IIT Bombay, India. 
 - **[Dec 2022]** Done with PhD Qualifiying Examinations! 😄🕺🏻
-- **[Oct. 2022]** Got selected as a Prime Minister's Research Fellow ([PMRF](https://www.pmrf.in/)). 📢📢
-- **[Aug. 2022]** Attended [Oxford Machine Learning Summer School (OxML) 2022](https://www.oxfordml.school/oxml2022). 
-- **[July. 2022]** Attended [Eastern European Machine Learning Summer School (EEML) 2022](https://www.eeml.eu/home).
-- **[Feb. 2022]** Attended [Research Week with Google 2022](https://sites.google.com/view/researchweek2022).
-- **[Jan. 2022]** Attended [Advanced Language Processing Winter School (ALPS) 2022](http://alps-2022.imag.fr/index.php/speakers/index.html). 
-- **[August. 2021]** Started doctoral journey with [Prof. Mayank Singh](https://mayank4490.github.io/) at [Computational Linguistics and Complex Social Networks Group](https://labs.iitgn.ac.in/lingo/). 📢📢📢
+- **[Oct 2022]** Got selected as a Prime Minister's Research Fellow ([PMRF](https://www.pmrf.in/)). 📢📢
+- **[Aug 2022]** Attended [Oxford Machine Learning Summer School (OxML) 2022](https://www.oxfordml.school/oxml2022). 
+- **[July 2022]** Attended [Eastern European Machine Learning Summer School (EEML) 2022](https://www.eeml.eu/home).
+- **[Feb 2022]** Attended [Research Week with Google 2022](https://sites.google.com/view/researchweek2022).
+- **[Jan 2022]** Attended [Advanced Language Processing Winter School (ALPS) 2022](http://alps-2022.imag.fr/index.php/speakers/index.html). 
+- **[August 2021]** Started doctoral journey with [Prof. Mayank Singh](https://mayank4490.github.io/) at [Computational Linguistics and Complex Social Networks Group](https://labs.iitgn.ac.in/lingo/). 📢📢📢
 
 
 ## Education 👨🏻‍🎓
@@ -72,7 +73,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 55) 📚
+## Publications (Citations: 56) 📚
 
 - **Remember This Event That Year? 🤔 Assessing Temporal Information and Reasoning in Large Language Models**
   <br>
@@ -212,7 +213,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: May 26, 2024_
+_Last updated: June 08, 2024_
 [old](./another-page.html)
 
 
