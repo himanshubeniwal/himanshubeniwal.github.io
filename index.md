@@ -33,6 +33,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[June 2024]** Gave a talk at [ACM Summer School on Generative AI for Text](https://labs.iitgn.ac.in/lingo/acmsummerschool2024/) on "Instruction fine-tuning, FLAN-T5, and Quantisation"! 🤯 ([Recording](https://youtu.be/W9zdi2hMqyo))
 - **[June 2024]** Gave a talk at India-ML Reading Group on "Editing LLMs"! 🤩 ([Recording](https://youtu.be/g38gQ8ykUSw))
 - **[March 2024]** Attended [EACL 2024](https://2024.eacl.org/), March 17-22, 2024, at St. Julian's, Malta! 🇲🇹
 - **[March 2024]** Attended [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024), March 3-4, 2024, at IIT Indore, India.
