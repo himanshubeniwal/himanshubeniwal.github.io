@@ -33,7 +33,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
-- **[August 2024]** Visiting the [University of Virginia](https://www.virginia.edu/), 🇺🇸, for six months with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/)!! Excited to work on _Interpretable + Multilingual NLP_! 🤯🤯🤯 
+- **[August 2024]** Visiting the [University of Virginia](https://www.virginia.edu/), 🇺🇸, with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/)!! Super excited to work on _Interpretable + Multilingual NLP_! 🤯🤯🤯 
 - **[August 2024]** Attending [ACL 2024](https://2024.aclweb.org/) at Bangkok, Thailand! 🇹🇭
 - **[July 2024]** Released the [**Ganga-1B**](https://huggingface.co/LingoIITGN/ganga-1b) model! The Ganga-1B model outperforms existing open-source models that support **Indian languages**, even at sizes of up to **7 billion parameters**.
 - **[June 2024]** Gave a talk at [ACM Summer School on Generative AI for Text](https://labs.iitgn.ac.in/lingo/acmsummerschool2024/) on "Instruction fine-tuning, FLAN-T5, and Quantisation"! 🤯 ([Recording](https://youtu.be/W9zdi2hMqyo))
