@@ -33,9 +33,13 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[August 2024]** Visiting the [University of Virginia](https://www.virginia.edu/), 🇺🇸, for six months with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/)!! Excited to work on _Interpretable + Multilingual NLP_! 🤯🤯🤯 
+- **[August 2024]** Attending [ACL 2024](https://2024.aclweb.org/) at Bangkok, Thailand! 🇹🇭
+- **[July 2024]** Released the [**Ganga-1B**](https://huggingface.co/LingoIITGN/ganga-1b) model! The Ganga-1B model outperforms existing open-source models that support **Indian languages**, even at sizes of up to **7 billion parameters**.
 - **[June 2024]** Gave a talk at [ACM Summer School on Generative AI for Text](https://labs.iitgn.ac.in/lingo/acmsummerschool2024/) on "Instruction fine-tuning, FLAN-T5, and Quantisation"! 🤯 ([Recording](https://youtu.be/W9zdi2hMqyo))
 - **[June 2024]** Gave a talk at India-ML Reading Group on "Editing LLMs"! 🤩 ([Recording](https://youtu.be/g38gQ8ykUSw))
 - **[March 2024]** Attended [EACL 2024](https://2024.eacl.org/), March 17-22, 2024, at St. Julian's, Malta! 🇲🇹
+- - **[March 2024]** Gave a talk on "Editing Large Language Models" at Google Research India, Bangalore, India!! 🇮🇳
 - **[March 2024]** Attended [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024), March 3-4, 2024, at IIT Indore, India.
 - **[Feb 2024]** Attended [Research Week with Google 2024](https://sites.google.com/view/researchweek24/home), Feb 1-3, 2024, at Bengaluru, India. 
 - **[Dec 2023]** [Gandhipedia](https://gandhipedia150.in/), a project of National Importance by joint initiative of IIT Kharagpur, IIT Gandhinagar, and NCSM (Kolkata), under the aegis of The Ministry of Culture, Government of India, was launched! 📢📢📢
