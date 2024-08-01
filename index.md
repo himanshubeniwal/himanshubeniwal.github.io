@@ -78,7 +78,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 69) 📚
+## Publications (Citations: 72) 📚
 
 
 - **PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLMs**
