@@ -9,7 +9,7 @@ layout: default
 
 ## About Me 🫡
 
-I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the Computer Science and Engineering discipline at [**IIT Gandhinagar**](https://iitgn.ac.in/), where [Prof. Mayank Singh](https://mayank4490.github.io/) advises me. My area of interest includes **Robust and Interpretable NLP**. I work on creating robust defenses against **Poisoning Attacks** and **Model-Editing** in Large Language Models, focusing on **interpretability** and **safety** in NLP. 
+I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the Computer Science and Engineering discipline at [**IIT Gandhinagar**](https://iitgn.ac.in/), where [Prof. Mayank Singh](https://mayank4490.github.io/) advises me. My area of interest includes **Robust and Interpretable NLP**. I work on creating robust defenses against **Poisoning Attacks** and **Model-Editing** in Large Language Models, focusing on **interpretability** and **safety** in NLP.
 
 #### More about me! 💭
 
@@ -226,7 +226,8 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: July 12, 2024_
+_Last updated: August 1, 2024_
+
 [old](./another-page.html)
 
 
