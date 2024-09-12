@@ -33,8 +33,9 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[August 2024]** Talk on "[Editing Large Language Models](https://x.com/MilaNLProc/status/1834180550107537637)", MilaNLP, Italy! 🇮🇹
 - **[August 2024]** Visiting the [University of Virginia](https://www.virginia.edu/) (🇺🇸) with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/)!! Super excited to work on _Interpretable + Multilingual NLP_! 🤯🤯🤯 
-- **[August 2024]** Attending [ACL 2024](https://2024.aclweb.org/) at Bangkok, Thailand! 🇹🇭
+- **[August 2024]** Attended [ACL 2024](https://2024.aclweb.org/) at Bangkok, Thailand! 🇹🇭
 - **[July 2024]** Released the [**Ganga-1B**](https://huggingface.co/LingoIITGN/ganga-1b) model! The Ganga-1B model outperforms existing open-source models that support **Indian languages**, even at sizes of up to **7 billion parameters**.
 - **[June 2024]** Gave a talk at [ACM Summer School on Generative AI for Text](https://labs.iitgn.ac.in/lingo/acmsummerschool2024/) on "Instruction fine-tuning, FLAN-T5, and Quantisation"! 🤯 ([Recording](https://youtu.be/W9zdi2hMqyo))
 - **[June 2024]** Gave a talk at India-ML Reading Group on "Editing LLMs"! 🤩 ([Recording](https://youtu.be/g38gQ8ykUSw))
@@ -125,6 +126,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 
 
 ## Posters/Talks 🔊
+- **[Sept 2024]** Talk on "Editing Large Language Models", MilaNLP, Italy! 🇮🇹
 - **[March 2024]** Talk on "Editing Large Language Models", Google Research India, Bangalore, India.
 - **[March 2024]** [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024), "Cross-lingual Editing in Multilingual Language Models", at IIT Indore.
 - **[Feb 2024]** [Research Week with Google **2024**] at Google Research India, Bangalore, India, on *'XME: Cross-lingual Model Editing in LLMs'*.
