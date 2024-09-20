@@ -90,21 +90,21 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLMs**
   <br>
   Ankit Yadav, **Himanshu Beniwal**, Mayank Singh
-  <br>ArXiv 2024
+  <br>EMNLP 2024 (Core Rank: A*)
   <br>
   [[PDF](https://arxiv.org/abs/2401.03855)] 
 
 - **Remember This Event That Year? 🤔 Assessing Temporal Information and Reasoning in Large Language Models**
   <br>
   **Himanshu Beniwal**, Dishant Patel, Kowsik Nandagopan D, Hritik Ladia, Ankit Yadav, Mayank Singh
-  <br>ArXiv 2024
+  <br>EMNLP 2024 (Core Rank: A*)
   <br>
   [[PDF](https://arxiv.org/abs/2402.11997)] 
 
 - **Cross-lingual Editing in Multilingual Language Models**
   <br>
   **Himanshu Beniwal**, Kowsik Nandagopan D, Mayank Singh
-  <br>Findings of the Association for Computational Linguistics: **EACL 2024**
+  <br>Findings of the Association for Computational Linguistics: **EACL 2024** (Core Rank: A)
   <br>
   [[PDF](https://arxiv.org/abs/2401.10521)] 
 
