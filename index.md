@@ -16,7 +16,8 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - 🔭 I’m currently working on <b>how an AI reads & understand the language! 🤖</b>
 - 👯 I’m looking to dive into robust <b>Natural Language Processing 🗣 & Machine Learning. ⚡ </b>
 - 💬 Ask me about <b>the places to travel and underrated places to explore! 🌏 </b>
-- 📫 Socials: [LinkedIn](https://www.linkedin.com/in/himanshubeniwal/), [🐤](https://twitter.com/HimanshuBeniwaI), [🤗](https://huggingface.co/himanshubeniwal), <a href="https://www.instagram.com/himanshubeniwal_/"><img src="./socials/insta.jpeg" height = "22px" width="22px"></a>
+- 📫 Socials: [LinkedIn 👨🏼‍💼](https://www.linkedin.com/in/himanshubeniwal/), [Twitter 🐤](https://twitter.com/HimanshuBeniwaI), [Hugging-Face 🤗](https://huggingface.co/himanshubeniwal)
+- 📸 Travel Pics: <a href="https://www.instagram.com/himanshubeniwal_/"> Instagram <img src="./socials/insta.jpeg" height = "22px" width="22px"></a>
 - 😄 Fav mathematical equation: The magic of Euler's Identity; $$e^{i \pi} + 1 = 0$$
 - ⚡ Fun fact: <b>Traveling the 🌎 with 🖤 for espresso ☕️ & crazy for 💻. </b>
 
@@ -80,7 +81,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 72) 📚
+## Publications (Citations: 73) 📚
 - **COMMENTATOR: A Code-mixed Multilingual Text Annotation Framework**
   <br>
   Rajvee Sheth, Shubh Nisar, Heenaben Prajapati, **Himanshu Beniwal**, Mayank Singh
@@ -146,20 +147,22 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Journal Reviewer_: [ACI 2022](https://www.emeraldgrouppublishing.com/journal/aci)
 - _Organized 20+ workshops/hackathons events._ [Pictures 📸](https://iitgnacin-my.sharepoint.com/:f:/g/personal/21310012_iitgn_ac_in/EhSrF8avznZLjhtDLDp0jP0BsKAGKYqw4aIIqDshBSL6Rg?e=BH8G4v)
 - _Beta Reviewer_: Coursera
-- __Mentor_: _Summer Internship Mentor_ at RightApprise 2018
+- _Mentor_: _Summer Internship Mentor_ at RightApprise 2018
 - _Campus Representative/Ambassador_: Google Crowdsource 2019, GeeksforGeeks 2018-19, Internshala 2017-18
 - _Scholar_: Udacity Facebook Scholar 2019, Google India Scholar 2018
 
 
 ## TA🛳️s
 - _Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)_
-  - _IT:492 Recommendation Systems_, 45+ students, Jan 2024 to Present, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
-  - _IT:496 Introduction to Data Mining_, July 2023 to Present, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
+  - _DS605: Fundamentals of Machine Learning_, 65+ students, August 2024 to Present, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
+  - _IT:492 Recommendation Systems_, 45+ students, Jan 2024 to May 2024, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
+  - _IT:496 Introduction to Data Mining_, July 2023 to December 2023, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
   - _IT:492 Recommendation Systems_, Jan to May 2023, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
 
 - _Indian Institute of Technology Gandhinagar_
-  - [__Graduate Teaching Fellow__] [Data Centric Computing](https://people.iitgn.ac.in/~gmanoj/DCC/), Jan 2024 to Present, with [Prof. Manoj Gupta](https://people.iitgn.ac.in/~gmanoj/) and [Prof. Mayank Singh](https://mayank4490.github.io/).
-  - _[CS:613 Natural Language Processing](https://sites.google.com/iitgn.ac.in/cs613-2023/home)_, July 2023 to Present, with [Prof. Mayank Singh](https://mayank4490.github.io/).
+  - _[CS:613 Natural Language Processing](https://sites.google.com/iitgn.ac.in/cs613-2024/home)_, August 2024 to Present, with [Prof. Mayank Singh](https://mayank4490.github.io/).
+  - [__Graduate Teaching Fellow__] [Data Centric Computing](https://people.iitgn.ac.in/~gmanoj/DCC/), Jan 2024 to May 2024, with [Prof. Manoj Gupta](https://people.iitgn.ac.in/~gmanoj/) and [Prof. Mayank Singh](https://mayank4490.github.io/).
+  - _[CS:613 Natural Language Processing](https://sites.google.com/iitgn.ac.in/cs613-2023/home)_, July 2023 to December 2023, with [Prof. Mayank Singh](https://mayank4490.github.io/).
   - _[ES:432 Databases](https://sites.google.com/iitgn.ac.in/c432-2023/home)_, Jan to May 2023, with [Prof. Mayank Singh](https://mayank4490.github.io/).
   - _[ACM-IKDD Summer School on Data Science](https://labs.iitgn.ac.in/datascience/summer-school/)_, July 4th – 16th, 2022.
   - _[ES:432 Databases](https://sites.google.com/iitgn.ac.in/cs-432-2022/home)_, Jan to May 2022, with [Prof. Mayank Singh](https://mayank4490.github.io/).
