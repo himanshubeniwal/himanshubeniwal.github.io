@@ -33,6 +33,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[September 2024]** [TempUN](https://github.com/lingoiitgn/TempUN) and [PythonSaga](https://arxiv.org/abs/2401.03855) made it to EMNLP 24' 🇺🇸! 🏝️
 - **[August 2024]** Talk on "[Editing Large Language Models](https://x.com/MilaNLProc/status/1834180550107537637)", MilaNLP, Italy! 🇮🇹
 - **[August 2024]** Visiting the [University of Virginia](https://www.virginia.edu/) (🇺🇸) with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/)!! Super excited to work on _Interpretable + Multilingual NLP_! 🤯🤯🤯 
 - **[August 2024]** Attended [ACL 2024](https://2024.aclweb.org/) at Bangkok, Thailand! 🇹🇭
