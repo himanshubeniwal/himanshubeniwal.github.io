@@ -101,7 +101,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   **Himanshu Beniwal**, Dishant Patel, Kowsik Nandagopan D, Hritik Ladia, Ankit Yadav, Mayank Singh
   <br>EMNLP 2024 (Core Rank: A*)
   <br>
-  [[PDF](https://arxiv.org/abs/2402.11997)] [Site 🤔](./TempUN/index.html)
+  [[PDF](https://arxiv.org/abs/2402.11997)] [[Site 🤔](./TempUN/index.md)]
 
 - **Cross-lingual Editing in Multilingual Language Models**
   <br>
