@@ -85,7 +85,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **COMMENTATOR: A Code-mixed Multilingual Text Annotation Framework**
   <br>
   Rajvee Sheth, Shubh Nisar, Heenaben Prajapati, **Himanshu Beniwal**, Mayank Singh
-  <br>EMNLP DEMO 2024
+  <br>EMNLP DEMO 2024 (Core Rank: A*)
   <br>
   [[PDF](https://arxiv.org/abs/2408.03125)] 
 
