@@ -28,7 +28,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **Natural Language Processing:** Robust and Interpretable NLP, Secure NLP, Model-Editing, Word Segmentation, and Conversational AI.
 - **Machine Learning:** Adversarial Attacks, Poisoning Attacks, Data and Embedding Poisoning Attacks.
 
-## Skills 😎
+## Some things I know 😎
 - _Programming_: Python, R, C
 - _Web Technologies_: Javascript, Flask, ReactJS, Bootstrap
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
