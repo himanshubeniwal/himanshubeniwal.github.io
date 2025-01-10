@@ -34,6 +34,9 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[March 2025]** Attending [Advanced Language Processing School 2025](https://lig-alps.imag.fr/) at the beautiful Centre CNRS Paul Langevin, Aussois, France! 🇫🇷
+- **[February 2025]** Attending [Pingala Interactions in Computing 2025](https://event.india.acm.org/pic/home/) at the fabulous Mysore campus of Infosys, India! 🇮🇳
+- **[January 2025]** Attending [Google DeepMind Research Symposium 2025](https://rsvp.withgoogle.com/events/researchsymposium25) at Google Office, Bangalore, India! 🇮🇳
 - **[September 2024]** [TempUN](https://github.com/lingoiitgn/TempUN), [PythonSaga](https://arxiv.org/abs/2401.03855), and [COMMENTATOR](https://arxiv.org/abs/2408.03125) made it to EMNLP 24' 🇺🇸! 🏝️
 - **[August 2024]** Talk on "[Editing Large Language Models](https://x.com/MilaNLProc/status/1834180550107537637)", MilaNLP, Italy! 🇮🇹
 - **[August 2024]** Visiting the [University of Virginia](https://www.virginia.edu/) (🇺🇸) with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/)!! Super excited to work on _Interpretable + Multilingual NLP_! 🤯🤯🤯 
@@ -81,7 +84,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 86) 📚
+## Publications (Citations: 90) 📚
 - **COMMENTATOR: A Code-mixed Multilingual Text Annotation Framework**
   <br>
   Rajvee Sheth, Shubh Nisar, Heenaben Prajapati, **Himanshu Beniwal**, Mayank Singh
@@ -237,7 +240,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: November 04, 2024_
+_Last updated: January 10, 2025_
 
 [old](./another-page.html)
 
