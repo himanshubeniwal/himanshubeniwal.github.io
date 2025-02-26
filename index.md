@@ -35,7 +35,8 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 ## News 🔊
 - **[March 2025]** Attending [Advanced Language Processing School (ALPS) 2025](https://lig-alps.imag.fr/) at the beautiful Centre CNRS Paul Langevin, Aussois, France! 🇫🇷
 - **[March 2025]** Attending [PMRF Symposium 2025](https://www.pmrf.in/) at IIT Hyderabad, India 🇮🇳!
-- **[February 2025]** Attending [Pingala Interactions in Computing (PIC) 2025](https://event.india.acm.org/pic/home/) at the fabulous Mysore campus of Infosys, India! 🇮🇳
+- **[February 2025]** Brough the [UnityAI-Guard 😵‍💫](https://lingo.iitgn.ac.in/unityai-guard/) to the world 🌎! 
+- **[February 2025]** Attended [Pingala Interactions in Computing (PIC) 2025](https://event.india.acm.org/pic/home/) at the fabulous Mysore campus of Infosys, India! 🇮🇳
 - **[January 2025]** Attended [Google DeepMind Research Symposium 2025](https://rsvp.withgoogle.com/events/researchsymposium25) at Google Office, Bangalore, India! 🇮🇳
 - **[September 2024]** [TempUN](https://github.com/lingoiitgn/TempUN), [PythonSaga](https://arxiv.org/abs/2401.03855), and [COMMENTATOR](https://arxiv.org/abs/2408.03125) made it to EMNLP 24' 🇺🇸! 🏝️
 - **[August 2024]** Talk on "[Editing Large Language Models](https://x.com/MilaNLProc/status/1834180550107537637)", MilaNLP, Italy! 🇮🇹
@@ -88,35 +89,35 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **Char-mander Use mBackdoor! A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs**
   <br>
   **Himanshu Beniwal**, Sailesh Panda, Mayank Singh
-  <br>ArXiv
+  <br>**ArXiv 2025**
   <br>
   [[PDF](https://arxiv.org/abs/2502.16901)]
   
 - **COMMENTATOR: A Code-mixed Multilingual Text Annotation Framework**
   <br>
   Rajvee Sheth, Shubh Nisar, Heenaben Prajapati, **Himanshu Beniwal**, Mayank Singh
-  <br>EMNLP DEMO 2024 (Core Rank: A*)
+  <br>**EMNLP DEMO 2024 (Core Rank: A\*)**
   <br>
-  [[PDF](https://arxiv.org/abs/2408.03125)] 
+  [[PDF](https://arxiv.org/abs/2408.03125)] | [[Website 🕸️](https://lingo.iitgn.ac.in/codemixing/)]
 
 - **PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLMs**
   <br>
   Ankit Yadav, **Himanshu Beniwal**, Mayank Singh
-  <br>EMNLP 2024 (Core Rank: A*)
+  <br>**EMNLP 2024 (Core Rank: A\*)**
   <br>
   [[PDF](https://arxiv.org/abs/2401.03855)] 
 
 - **Remember This Event That Year? 🤔 Assessing Temporal Information and Reasoning in Large Language Models**
   <br>
   **Himanshu Beniwal**, Dishant Patel, Kowsik Nandagopan D, Hritik Ladia, Ankit Yadav, Mayank Singh
-  <br>EMNLP 2024 (Core Rank: A*)
+  <br>**EMNLP 2024 (Core Rank: A\*)**
   <br>
   [[PDF](https://arxiv.org/abs/2402.11997)] | [[Website 🤔](./TempUN/TempUN.html)]
 
 - **Cross-lingual Editing in Multilingual Language Models**
   <br>
   **Himanshu Beniwal**, Kowsik Nandagopan D, Mayank Singh
-  <br>Findings of the Association for Computational Linguistics: **EACL 2024** (Core Rank: A)
+  <br>Findings of the Association for Computational Linguistics: **EACL 2024** **(Core Rank: A)**
   <br>
   [[PDF](https://arxiv.org/abs/2401.10521)] | [[Website 🕸️](./XME/XME.html)]
 
