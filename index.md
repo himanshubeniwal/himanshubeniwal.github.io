@@ -85,6 +85,13 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
 ## Publications (Citations: 96) 📚
+- **Char-mander Use mBackdoor! A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs**
+  <br>
+  **Himanshu Beniwal**, Sailesh Panda, Mayank Singh
+  <br>ArXiv
+  <br>
+  [[PDF](https://arxiv.org/abs/2502.16901)]
+  
 - **COMMENTATOR: A Code-mixed Multilingual Text Annotation Framework**
   <br>
   Rajvee Sheth, Shubh Nisar, Heenaben Prajapati, **Himanshu Beniwal**, Mayank Singh
