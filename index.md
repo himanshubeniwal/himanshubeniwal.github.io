@@ -36,7 +36,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **[March 2025]** Attending [Advanced Language Processing School (ALPS) 2025](https://lig-alps.imag.fr/) at the beautiful Centre CNRS Paul Langevin, Aussois, France! 🇫🇷
 - **[March 2025]** Attending [PMRF Symposium 2025](https://www.pmrf.in/) at IIT Hyderabad, India 🇮🇳!
 - **[Feb 2025]** Welcome the [UnityAI-Guard 😵‍💫](https://lingo.iitgn.ac.in/unityai-guard/) to the world 🌎!
-- **[Feb 2025]** [Char-mander 🔥](https://arxiv.org/abs/2502.16901), A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs, is now on ArXiv 🕸️! 
+- **[Feb 2025]** [Char-mander 🔥](https://arxiv.org/abs/2502.16901), "_A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs_", is now on ArXiv 🕸️! 
 - **[Feb 2025]** Attended [Pingala Interactions in Computing (PIC) 2025](https://event.india.acm.org/pic/home/) at the fabulous Mysore campus of Infosys, India! 🇮🇳
 - **[Jan 2025]** Attended [Google DeepMind Research Symposium 2025](https://rsvp.withgoogle.com/events/researchsymposium25) at Google Office, Bangalore, India! 🇮🇳
 - **[Sept 2024]** [TempUN](https://github.com/lingoiitgn/TempUN), [PythonSaga](https://arxiv.org/abs/2401.03855), and [COMMENTATOR](https://arxiv.org/abs/2408.03125) made it to EMNLP 24' 🇺🇸! 🏝️
@@ -44,7 +44,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **[Aug 2024]** Visiting the [University of Virginia](https://www.virginia.edu/) (🇺🇸) with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/)!! Super excited to work on _Interpretable + Multilingual NLP_! 🤯🤯🤯 
 - **[Aug 2024]** Attended [ACL 2024](https://2024.aclweb.org/) at Bangkok, Thailand! 🇹🇭
 - **[July 2024]** Released the [**Ganga-1B**](https://huggingface.co/LingoIITGN/ganga-1b) model! The Ganga-1B model outperforms existing open-source models that support **Indian languages**, even at sizes of up to **7 billion parameters**.
-- **[June 2024]** Gave a talk at [ACM Summer School on Generative AI for Text](https://labs.iitgn.ac.in/lingo/acmsummerschool2024/) on "Instruction fine-tuning, FLAN-T5, and Quantisation"! 🤯 ([Recording](https://youtu.be/W9zdi2hMqyo))
+- **[June 2024]** Gave a talk at [ACM Summer School on Generative AI for Text](https://labs.iitgn.ac.in/lingo/acmsummerschool2024/) on "_Instruction fine-tuning, FLAN-T5, and Quantisation_"! 🤯 ([Recording](https://youtu.be/W9zdi2hMqyo))
 - **[June 2024]** Gave a talk at India-ML Reading Group on "Editing LLMs"! 🤩 ([Recording](https://youtu.be/g38gQ8ykUSw))
 - **[March 2024]** XME Made it to [EACL 2024](https://2024.eacl.org/), March 17-22, 2024, at St. Julian's, Malta! 🇲🇹
 - **[March 2024]** Gave a talk on "Editing Large Language Models" at Google Research India, Bangalore, India!! 🇮🇳
