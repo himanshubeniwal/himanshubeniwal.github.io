@@ -35,20 +35,22 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 ## News 🔊
 - **[March 2025]** Attending [Advanced Language Processing School (ALPS) 2025](https://lig-alps.imag.fr/) at the beautiful Centre CNRS Paul Langevin, Aussois, France! 🇫🇷
 - **[March 2025]** Attending [PMRF Symposium 2025](https://www.pmrf.in/) at IIT Hyderabad, India 🇮🇳!
-- **[February 2025]** Brough the [UnityAI-Guard 😵‍💫](https://lingo.iitgn.ac.in/unityai-guard/) to the world 🌎! 
-- **[February 2025]** Attended [Pingala Interactions in Computing (PIC) 2025](https://event.india.acm.org/pic/home/) at the fabulous Mysore campus of Infosys, India! 🇮🇳
-- **[January 2025]** Attended [Google DeepMind Research Symposium 2025](https://rsvp.withgoogle.com/events/researchsymposium25) at Google Office, Bangalore, India! 🇮🇳
-- **[September 2024]** [TempUN](https://github.com/lingoiitgn/TempUN), [PythonSaga](https://arxiv.org/abs/2401.03855), and [COMMENTATOR](https://arxiv.org/abs/2408.03125) made it to EMNLP 24' 🇺🇸! 🏝️
-- **[August 2024]** Talk on "[Editing Large Language Models](https://x.com/MilaNLProc/status/1834180550107537637)", MilaNLP, Italy! 🇮🇹
-- **[August 2024]** Visiting the [University of Virginia](https://www.virginia.edu/) (🇺🇸) with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/)!! Super excited to work on _Interpretable + Multilingual NLP_! 🤯🤯🤯 
-- **[August 2024]** Attended [ACL 2024](https://2024.aclweb.org/) at Bangkok, Thailand! 🇹🇭
+- **[Feb 2025]** Welcome the [UnityAI-Guard 😵‍💫](https://lingo.iitgn.ac.in/unityai-guard/) to the world 🌎!
+- **[Feb 2025]** [Char-mander 🔥](https://arxiv.org/abs/2502.16901), A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs, is now on ArXiv 🕸️! 
+- **[Feb 2025]** Attended [Pingala Interactions in Computing (PIC) 2025](https://event.india.acm.org/pic/home/) at the fabulous Mysore campus of Infosys, India! 🇮🇳
+- **[Jan 2025]** Attended [Google DeepMind Research Symposium 2025](https://rsvp.withgoogle.com/events/researchsymposium25) at Google Office, Bangalore, India! 🇮🇳
+- **[Sept 2024]** [TempUN](https://github.com/lingoiitgn/TempUN), [PythonSaga](https://arxiv.org/abs/2401.03855), and [COMMENTATOR](https://arxiv.org/abs/2408.03125) made it to EMNLP 24' 🇺🇸! 🏝️
+- **[Aug 2024]** Talk on "[Editing Large Language Models](https://x.com/MilaNLProc/status/1834180550107537637)", MilaNLP, Italy! 🇮🇹
+- **[Aug 2024]** Visiting the [University of Virginia](https://www.virginia.edu/) (🇺🇸) with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/)!! Super excited to work on _Interpretable + Multilingual NLP_! 🤯🤯🤯 
+- **[Aug 2024]** Attended [ACL 2024](https://2024.aclweb.org/) at Bangkok, Thailand! 🇹🇭
 - **[July 2024]** Released the [**Ganga-1B**](https://huggingface.co/LingoIITGN/ganga-1b) model! The Ganga-1B model outperforms existing open-source models that support **Indian languages**, even at sizes of up to **7 billion parameters**.
 - **[June 2024]** Gave a talk at [ACM Summer School on Generative AI for Text](https://labs.iitgn.ac.in/lingo/acmsummerschool2024/) on "Instruction fine-tuning, FLAN-T5, and Quantisation"! 🤯 ([Recording](https://youtu.be/W9zdi2hMqyo))
 - **[June 2024]** Gave a talk at India-ML Reading Group on "Editing LLMs"! 🤩 ([Recording](https://youtu.be/g38gQ8ykUSw))
-- **[March 2024]** Attended [EACL 2024](https://2024.eacl.org/), March 17-22, 2024, at St. Julian's, Malta! 🇲🇹
+- **[March 2024]** XME Made it to [EACL 2024](https://2024.eacl.org/), March 17-22, 2024, at St. Julian's, Malta! 🇲🇹
 - **[March 2024]** Gave a talk on "Editing Large Language Models" at Google Research India, Bangalore, India!! 🇮🇳
 - **[March 2024]** Attended [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024), March 3-4, 2024, at IIT Indore, India.
-- **[Feb 2024]** Attended [Research Week with Google 2024](https://sites.google.com/view/researchweek24/home), Feb 1-3, 2024, at Bengaluru, India. 
+- **[Feb 2024]** Attended [Research Week with Google 2024](https://sites.google.com/view/researchweek24/home), Feb 1-3, 2024, at Bengaluru, India.
+- **[Jan 2024]** [XME](https://arxiv.org/abs/2401.10521) is now on ArXiv 🕸️! 
 - **[Dec 2023]** [Gandhipedia](https://gandhipedia150.in/), a project of National Importance by joint initiative of IIT Kharagpur, IIT Gandhinagar, and NCSM (Kolkata), under the aegis of The Ministry of Culture, Government of India, was launched! 📢📢📢
 - **[Dec 2023]** Served as Publicity Chair for [IndoML 2023](https://indoml.in/) at IIT Bombay.
 - **[Sept 2023]** Attended [Technology & Bharatiya Bhasha Summit](https://technology-bharatiyabhasha.aicte-india.org/), Sept 30 - Oct 01, 2023, New Delhi, India! 🇮🇳
