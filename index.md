@@ -204,6 +204,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   - [User-Collaborative Systems](https://colab.research.google.com/drive/1BoRODnRm1Et0xgqMn_INb5fqfLDhodqR?usp=sharing)
   - [Sequential Recommendations](https://colab.research.google.com/drive/1IjxBxCUsVNZYNT1PAYDCzq5PS-3C6yOh?usp=sharing&authuser=1)
   - [Sequential RecSystems-2](https://colab.research.google.com/drive/1B0R1lpRawz8fziBXIy3mIhWBG964BK_F?usp=sharing&authuser=1)
+  - [Time Series](https://colab.research.google.com/drive/1WAgbmZqW6QdChqFFUXoRkDvuQRFVj1pK?usp=sharing)
 - Introduction to Data Mining
   - [Data Scrapping](https://drive.google.com/file/d/1W-NNHcztUdzoTvadE8O-Cm89Y_CR4M3C/view?usp=classroom_web&authuser=1)
   - [Data Preprocessing](https://drive.google.com/file/d/15yeHaXXNxHYmQPxu1UZhkB7sC1_5Db-W/view?usp=classroom_web&authuser=1)
@@ -253,7 +254,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: January 20, 2025_
+_Last updated: March 19, 2025_
 
 [old](./another-page.html)
 
