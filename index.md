@@ -88,7 +88,21 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 💯) 📚
+## Publications (Citations: 💯+4) 📚
+- **UNITYAI-GUARD: Pioneering Toxicity Detection Across Low-Resource Indian Languages**
+  <br>
+  **Himanshu Beniwal**, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Heer Kubadia, Pratham Sharda, Mayank Singh
+  <br>**ArXiv 2025**
+  <br>
+  [[PDF](https://arxiv.org/abs/2503.23088)]
+  
+- **COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing**
+  <br>
+  Rajvee Sheth, **Himanshu Beniwal**, Mayank Singh
+  <br>**ArXiv 2025**
+  <br>
+  [[PDF](https://arxiv.org/abs/2503.21670)]
+  
 - **Char-mander Use mBackdoor! A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs**
   <br>
   **Himanshu Beniwal**, Sailesh Panda, Mayank Singh
