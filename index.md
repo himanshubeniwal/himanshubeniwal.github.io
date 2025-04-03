@@ -33,7 +33,8 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
-- **[March 2025]** Attending [Advanced Language Processing School (ALPS) 2025](https://lig-alps.imag.fr/) at the beautiful Centre CNRS Paul Langevin, Aussois, France! 🇫🇷
+- **[March 2025]** [COMI-LINGUA](https://arxiv.org/abs/2503.21670) is out on ArXiv! :) 
+- **[March 2025]** Attended [Advanced Language Processing School (ALPS) 2025](https://lig-alps.imag.fr/) at the beautiful Centre CNRS Paul Langevin, Aussois, France! 🇫🇷
 - **[March 2025]** Talk on "_GenAI in HealthCare_", at [Google Developer Group - Silver Oak University](https://gdg.community.dev/events/details/google-gdg-on-campus-silver-oak-university-ahmedabad-india-presents-the-next-frontier-ai-in-healthcare/), Ahmedabad, India 🇮🇳!! 
 - **[March 2025]** Attended [PMRF Symposium 2025](https://www.pmrf.in/) at IIT Hyderabad, India 🇮🇳!
 - **[Feb 2025]** Welcome the [UnityAI-Guard 😵‍💫](https://lingo.iitgn.ac.in/unityai-guard/) to the world 🌎!
