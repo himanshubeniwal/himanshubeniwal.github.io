@@ -33,6 +33,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[March 2025]** [PolyGuard](https://arxiv.org/abs/2504.04377) is now on ArXivvvv! 🫡
 - **[March 2025]** [COMI-LINGUA](https://arxiv.org/abs/2503.21670) is out on ArXiv! :) 
 - **[March 2025]** Attended [Advanced Language Processing School (ALPS) 2025](https://lig-alps.imag.fr/) at the beautiful Centre CNRS Paul Langevin, Aussois, France! 🇫🇷
 - **[March 2025]** Talk on "_GenAI in HealthCare_", at [Google Developer Group - Silver Oak University](https://gdg.community.dev/events/details/google-gdg-on-campus-silver-oak-university-ahmedabad-india-presents-the-next-frontier-ai-in-healthcare/), Ahmedabad, India 🇮🇳!! 
@@ -89,7 +90,14 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 💯+5) 📚
+## Publications (Citations: 💯+6) 📚
+- **PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages**
+  <br>
+  Priyanshu Kumar, Devansh Jain, Akhila Yerukola, Liwei Jiang, **Himanshu Beniwal**, Thomas Hartvigsen, Maarten Sap
+  <br>**ArXiv 2025**
+  <br>
+  [[PDF](https://arxiv.org/abs/2504.04377)]
+  
 - **UNITYAI-GUARD: Pioneering Toxicity Detection Across Low-Resource Indian Languages**
   <br>
   **Himanshu Beniwal**, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Heer Kubadia, Pratham Sharda, Mayank Singh
@@ -269,7 +277,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: March 19, 2025_
+_Last updated: April 8, 2025_
 
 [old](./another-page.html)
 
