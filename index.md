@@ -94,7 +94,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 ## Publications (Citations: 💯+16) 📚
 - **Breaking mBad! Supervised Fine-tuning for Cross-Lingual Detoxification**
   <br>
-  Himanshu Beniwal, Youngwoo Kim, Maarten Sap, Soham Dan, Thomas Hartvigsen
+  **Himanshu Beniwal**, Youngwoo Kim, Maarten Sap, Soham Dan, Thomas Hartvigsen
   <br>**ArXiv 2025**
   <br>
   [[PDF](https://arxiv.org/abs/2505.16722)]
