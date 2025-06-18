@@ -122,7 +122,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   
 - **Char-mander Use mBackdoor! A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs**
   <br>
-  **Himanshu Beniwal**, Sailesh Panda, Mayank Singh
+  **Himanshu Beniwal**, Sailesh Panda, Birudugadda Srivibhav, Mayank Singh
   <br>**ArXiv 2025**
   <br>
   [[PDF](https://arxiv.org/abs/2502.16901)]
