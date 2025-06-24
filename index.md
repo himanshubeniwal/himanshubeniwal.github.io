@@ -33,6 +33,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[June 2025]** Received the [Microsoft Research India PhD Award 2025](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award-2024/)!!! 🎉🎉🎉 
 - **[May 2025]** [Breaking mBad](https://arxiv.org/abs/2505.16722) is ArXiv'ed! 🙌🏻
 - **[April 2025]** [PolyGuard](https://arxiv.org/abs/2504.04377) is now on ArXivvvv! 🫡
 - **[March 2025]** [COMI-LINGUA](https://arxiv.org/abs/2503.21670) is out on ArXiv! :) 
