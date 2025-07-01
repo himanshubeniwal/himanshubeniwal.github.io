@@ -14,7 +14,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 #### More about me! 💭
 
 - 🔭 I’m currently working on <b>how an AI reads & understand the language! 🤖</b>
-- 🌏 Flags Collected: 🇮🇳🇵🇱🇨🇿🇦🇹🇸🇰🇫🇷🇮🇹🇻🇦🇲🇹🇹🇭🇺🇸🇹🇷🇲🇾🇸🇮🇭🇷🇭🇺🇨🇭🇲🇨🇱🇮🇳🇱🇱🇺🇪🇸🇩🇪🇧🇪🇲🇳🇭🇰🇲🇴🇻🇳
+- 🌏 Flags Collected: 🇮🇳🇵🇱🇨🇿🇦🇹🇸🇰🇫🇷🇮🇹🇻🇦🇲🇹🇹🇭🇺🇸🇹🇷🇲🇾🇸🇮🇭🇷🇭🇺🇨🇭🇲🇨🇱🇮🇳🇱🇱🇺🇪🇸🇩🇪🇧🇪🇲🇳🇭🇰🇲🇴🇻🇳🇱🇰
 - 📫 Socials: [LinkedIn 👨🏼‍💼](https://www.linkedin.com/in/himanshubeniwal/), [Twitter 🐤](https://twitter.com/HimanshuBeniwaI), [Hugging-Face 🤗](https://huggingface.co/himanshubeniwal)
 - 📸 Travel Pics: <a href="https://www.instagram.com/himanshubeniwal_/"> Instagram <img src="./socials/insta.jpeg" height = "22px" width="22px"></a>
 - 😄 Fav mathematical equation: The magic of Euler's Identity; $$e^{i \pi} + 1 = 0$$
