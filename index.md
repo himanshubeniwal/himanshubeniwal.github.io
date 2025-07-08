@@ -32,7 +32,8 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
-- **[June 2025]** Received the [Microsoft Research India PhD Award 2025](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award-2024/)!!! 🎉🎉🎉 
+- **[June 2025]** Received the [Fulbright-Nehru Doctoral Research Fellowship 2025](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/) 📢📢📢
+- **[June 2025]** Awarded with the [Microsoft Research India PhD Award 2025](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award-2024/)!!! 🎉🎉🎉 
 - **[May 2025]** [Breaking mBad](https://arxiv.org/abs/2505.16722) is ArXiv'ed! 🙌🏻
 - **[April 2025]** [PolyGuard](https://arxiv.org/abs/2504.04377) is now on ArXivvvv! 🫡
 - **[March 2025]** [COMI-LINGUA](https://arxiv.org/abs/2503.21670) is out on ArXiv! :) 
@@ -91,7 +92,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 123) 📚
+## Publications (Citations: 125) 📚
 - **Breaking mBad! Supervised Fine-tuning for Cross-Lingual Detoxification**
   <br>
   **Himanshu Beniwal**, Youngwoo Kim, Maarten Sap, Soham Dan, Thomas Hartvigsen
@@ -102,7 +103,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages**
   <br>
   Priyanshu Kumar, Devansh Jain, Akhila Yerukola, Liwei Jiang, **Himanshu Beniwal**, Thomas Hartvigsen, Maarten Sap
-  <br>**ArXiv 2025**
+  <br>**COLM 2025**
   <br>
   [[PDF](https://arxiv.org/abs/2504.04377)]
   
