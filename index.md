@@ -94,7 +94,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 131) 📚
+## Publications (Citations: 135) 📚
 - **Breaking mBad! Supervised Fine-tuning for Cross-Lingual Detoxification**
   <br>
   **Himanshu Beniwal**, Youngwoo Kim, Maarten Sap, Soham Dan, Thomas Hartvigsen
@@ -288,7 +288,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: July 15, 2025_
+_Last updated: July 25, 2025_
 
 [old](./another-page.html)
 
