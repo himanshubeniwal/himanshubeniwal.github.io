@@ -22,7 +22,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 ----
 
 ## Research Interests 🤯
-
+- **AI:** Multilingual-Multicultural-Multimodal NLP, Toxicity Mitigation, Stereotypes and Bias, Model Editing, Temporal Reasoning
 - **Natural Language Processing:** Robust and Interpretable NLP, Secure NLP, Model-Editing, Word Segmentation, and Conversational AI.
 - **Machine Learning:** Adversarial Attacks, Poisoning Attacks, Data and Embedding Poisoning Attacks.
 
