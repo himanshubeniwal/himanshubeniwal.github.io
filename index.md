@@ -9,7 +9,7 @@ layout: default
 
 ## About Me 🫡
 
-I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the Computer Science and Engineering discipline at [**IIT Gandhinagar**](https://iitgn.ac.in/), where [Prof. Mayank Singh](https://mayank4490.github.io/) advises me. My area of interest includes **Robust and Interpretable NLP**. I work on **Assessing Factuality, Toxicity, and Safety in Multilingual Language Models**, focusing on **interpretability** and **efficiency** in NLP.
+I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the Computer Science and Engineering discipline at [**IIT Gandhinagar**](https://iitgn.ac.in/), where [Prof. Mayank Singh](https://mayank4490.github.io/) advises me. My area of interest includes **Robust and Interpretable NLP**. I work on **assessing factuality, toxicity, and safety in multilingual language models**, focusing on **interpretability** and **explainability** in NLP.
 
 #### More about me! 💭
 
