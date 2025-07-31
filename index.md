@@ -34,7 +34,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 ## News 🔊
 - **[July 2025]** [PolyGuard](https://arxiv.org/abs/2504.04377) is accepted at COLM 2025!!!!
 - **[June 2025]** Awarded with the [Microsoft Research India PhD Award 2025](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award-2024/)!!! 🎉🎉🎉
-- **[June 2025]** Recipient of the **_prestigious_** [Fulbright Nehru Doctoral Fellowship 2025-2026](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/)! ⭐️⭐️⭐️ 
+- **[June 2025]** Recipient of the _prestigious_ [Fulbright Nehru Doctoral Fellowship 2025-2026](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/)! ⭐️⭐️⭐️ 
 - **[May 2025]** [Breaking mBad](https://arxiv.org/abs/2505.16722) is ArXiv'ed! 🙌🏻
 - **[April 2025]** Talk on "Cross-lingual Backdoors" at Plutous! [[Recording](https://app.ploutos.dev/streams/ethereal-foxhound)] ⭐️ 
 - **[April 2025]** [PolyGuard](https://arxiv.org/abs/2504.04377) is now on ArXivvvv! 🫡
