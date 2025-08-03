@@ -20,6 +20,8 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - ⚡ Fun fact: <b>Traveling the 🌎 with 🖤 for espresso ☕️ & crazy for 💻. </b>
 
 ----
+### ‼️ Looking for __${\color{red}post-doctoral}$__ opportunities‼️
+----
 
 ## Research Interests 🤯
 - **AI:** Multilingual-Multicultural-Multimodal NLP, Toxicity Mitigation, Stereotypes and Bias, Model Editing, Temporal Reasoning
@@ -94,7 +96,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 138) 📚
+## Publications (Citations: 139) 📚
 - **Breaking mBad! Supervised Fine-tuning for Cross-Lingual Detoxification**
   <br>
   **Himanshu Beniwal**, Youngwoo Kim, Maarten Sap, Soham Dan, Thomas Hartvigsen
