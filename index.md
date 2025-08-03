@@ -20,7 +20,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - ⚡ Fun fact: <b>Traveling the 🌎 with 🖤 for espresso ☕️ & crazy for 💻. </b>
 
 ----
-### ‼️ Looking for __${\color{red}post-doctoral}$__ opportunities‼️
+### ‼️ Looking for *Post-Doctoral* opportunities‼️
 ----
 
 ## Research Interests 🤯
