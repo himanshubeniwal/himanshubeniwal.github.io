@@ -34,6 +34,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[August 2025]** [Breaking mBad](https://arxiv.org/abs/2505.16722) is accepted at [MELT @ COLM 2025](https://melt-workshop.github.io/)! 🙌🏻
 - **[July 2025]** [PolyGuard](https://arxiv.org/abs/2504.04377) is accepted at COLM 2025!!!!
 - **[June 2025]** Awarded with the [Microsoft Research India PhD Award 2025](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award-2024/)!!! 🎉🎉🎉
 - **[June 2025]** Recipient of the _prestigious_ [Fulbright Nehru Doctoral Fellowship 2025-2026](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/)! ⭐️⭐️⭐️ 
@@ -100,7 +101,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **Breaking mBad! Supervised Fine-tuning for Cross-Lingual Detoxification**
   <br>
   **Himanshu Beniwal**, Youngwoo Kim, Maarten Sap, Soham Dan, Thomas Hartvigsen
-  <br>**ArXiv 2025**
+  <br>**MELT @ COLM 2025**
   <br>
   [[PDF](https://arxiv.org/abs/2505.16722)]
   
