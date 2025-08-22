@@ -34,6 +34,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[August 2025]** [COMI-LINGUA](https://arxiv.org/abs/2503.21670) and [Decoding the Rule Book](https://himanshubeniwal.github.io/) is accepted at EMNLP 2025!!!!
 - **[August 2025]** [Breaking mBad](https://arxiv.org/abs/2505.16722) is accepted at [MELT @ COLM 2025](https://melt-workshop.github.io/)! 🙌🏻
 - **[July 2025]** [PolyGuard](https://arxiv.org/abs/2504.04377) is accepted at COLM 2025!!!!
 - **[June 2025]** Awarded with the [Microsoft Research India PhD Award 2025](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award-2024/)!!! 🎉🎉🎉
@@ -98,6 +99,13 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
 ## Publications (Citations: 141) 📚
+- **Decoding the Rule Book: Extracting Hidden Moderation Criteria from Reddit Communities**
+  <br>
+  Youngwoo Kim, **Himanshu Beniwal**, Steven L. Johnson, Thomas Hartvigsen
+  <br>**EMNLP 2025 (Mains)**
+  <br>
+  [[PDF](soon)]
+  
 - **Breaking mBad! Supervised Fine-tuning for Cross-Lingual Detoxification**
   <br>
   **Himanshu Beniwal**, Youngwoo Kim, Maarten Sap, Soham Dan, Thomas Hartvigsen
@@ -122,7 +130,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing**
   <br>
   Rajvee Sheth, **Himanshu Beniwal**, Mayank Singh
-  <br>**ArXiv 2025**
+  <br>**EMNLP 2025 (Findings)**
   <br>
   [[PDF](https://arxiv.org/abs/2503.21670)]
   
