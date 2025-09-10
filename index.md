@@ -34,7 +34,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
-- **[August 2025]** [COMI-LINGUA](https://arxiv.org/abs/2503.21670) and [Decoding the Rule Book](https://arxiv.org/abs/2509.02926) are accepted at EMNLP 2025!!!!
+- **[September 2025]** [COMI-LINGUA](https://arxiv.org/abs/2503.21670), [Decoding the Rule Book](https://arxiv.org/abs/2509.02926), and [UnityAI-Guard](https://lingo.iitgn.ac.in/unityai-guard/) are accepted at EMNLP 2025!!!!
 - **[August 2025]** [Breaking mBad](https://arxiv.org/abs/2505.16722) is accepted at [MELT @ COLM 2025](https://melt-workshop.github.io/)! 🙌
 - **[July 2025]** [PolyGuard](https://arxiv.org/abs/2504.04377) is accepted at COLM 2025!!!!
 - **[June 2025]** Awarded with the [Microsoft Research India PhD Award 2025](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award-2024/)!!! 🎉🎉🎉
@@ -120,7 +120,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **UNITYAI-GUARD: Pioneering Toxicity Detection Across Low-Resource Indian Languages**
   <br>
   **Himanshu Beniwal**, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Heer Kubadia, Pratham Sharda, Mayank Singh
-  <br>**ArXiv 2025**
+  <br>**EMNLP 2025 (Demo)**
   <br>
   [[PDF](https://arxiv.org/abs/2503.23088)]
   
