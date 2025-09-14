@@ -99,35 +99,35 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **Decoding the Rule Book: Extracting Hidden Moderation Criteria from Reddit Communities**
   <br>
   Youngwoo Kim, **Himanshu Beniwal**, Steven L. Johnson, Thomas Hartvigsen
-  <br>**EMNLP 2025 (Mains)**
+  <br>**EMNLP 2025 (Mains) 🇨🇳**
   <br>
   [[PDF](https://arxiv.org/abs/2509.02926)]
   
 - **Breaking mBad! Supervised Fine-tuning for Cross-Lingual Detoxification**
   <br>
   **Himanshu Beniwal**, Youngwoo Kim, Maarten Sap, Soham Dan, Thomas Hartvigsen
-  <br>**MELT @ COLM 2025**
+  <br>**MELT @ COLM 2025 🇨🇦**
   <br>
   [[PDF](https://arxiv.org/abs/2505.16722)]
   
 - **PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages**
   <br>
   Priyanshu Kumar, Devansh Jain, Akhila Yerukola, Liwei Jiang, **Himanshu Beniwal**, Thomas Hartvigsen, Maarten Sap
-  <br>**COLM 2025**
+  <br>**COLM 2025 🇨🇦**
   <br>
   [[PDF](https://arxiv.org/abs/2504.04377)]
   
 - **UNITYAI-GUARD: Pioneering Toxicity Detection Across Low-Resource Indian Languages**
   <br>
   **Himanshu Beniwal**, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Heer Kubadia, Pratham Sharda, Mayank Singh
-  <br>**EMNLP 2025 (Demo)**
+  <br>**EMNLP 2025 (Demo) 🇨🇳**
   <br>
   [[PDF](https://arxiv.org/abs/2503.23088)]
   
 - **COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing**
   <br>
   Rajvee Sheth, **Himanshu Beniwal**, Mayank Singh
-  <br>**EMNLP 2025 (Findings)**
+  <br>**EMNLP 2025 (Findings) 🇨🇳**
   <br>
   [[PDF](https://arxiv.org/abs/2503.21670)]
   
@@ -141,28 +141,28 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **COMMENTATOR: A Code-mixed Multilingual Text Annotation Framework**
   <br>
   Rajvee Sheth, Shubh Nisar, Heenaben Prajapati, **Himanshu Beniwal**, Mayank Singh
-  <br>**EMNLP DEMO 2024 (Core Rank: A\*)**
+  <br>**EMNLP DEMO 2024 (Core Rank: A\*) 🇺🇸**
   <br>
   [[PDF](https://arxiv.org/abs/2408.03125)] | [[Website 🕸️](https://lingo.iitgn.ac.in/codemixing/)]
 
 - **PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLMs**
   <br>
   Ankit Yadav, **Himanshu Beniwal**, Mayank Singh
-  <br>**EMNLP 2024 (Core Rank: A\*)**
+  <br>**EMNLP 2024 (Core Rank: A\*) 🇺🇸**
   <br>
   [[PDF](https://arxiv.org/abs/2401.03855)] 
 
 - **Remember This Event That Year? 🤔 Assessing Temporal Information and Reasoning in Large Language Models**
   <br>
   **Himanshu Beniwal**, Dishant Patel, Kowsik Nandagopan D, Hritik Ladia, Ankit Yadav, Mayank Singh
-  <br>**EMNLP 2024 (Core Rank: A\*)**
+  <br>**EMNLP 2024 (Core Rank: A\*) 🇺🇸**
   <br>
   [[PDF](https://arxiv.org/abs/2402.11997)] | [[Website 🤔](./TempUN/TempUN.html)]
 
 - **Cross-lingual Editing in Multilingual Language Models**
   <br>
   **Himanshu Beniwal**, Kowsik Nandagopan D, Mayank Singh
-  <br>Findings of the Association for Computational Linguistics: **EACL 2024** **(Core Rank: A)**
+  <br> **EACL 2024 🇲🇹**
   <br>
   [[PDF](https://arxiv.org/abs/2401.10521)] | [[Website 🕸️](./XME/XME.html)]
 
