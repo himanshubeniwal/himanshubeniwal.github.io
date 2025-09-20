@@ -34,7 +34,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
-- **[September 2025]** [COMI-LINGUA](https://arxiv.org/abs/2503.21670), [Decoding the Rule Book](https://arxiv.org/abs/2509.02926), and [UnityAI-Guard](https://lingo.iitgn.ac.in/unityai-guard/) are accepted at EMNLP 2025!!!!
+- **[September 2025]** 4 papers ([COMI-LINGUA](https://arxiv.org/abs/2503.21670), [Decoding the Rule Book](https://arxiv.org/abs/2509.02926), [UnityAI-Guard](https://lingo.iitgn.ac.in/unityai-guard/), and [Char-mander 🔥](https://arxiv.org/abs/2502.16901)) are accepted at EMNLP 2025 (1 each at Mains, Findings, Demo, and Workshop)!!!!
 - **[August 2025]** [Breaking mBad](https://arxiv.org/abs/2505.16722) is accepted at [MELT @ COLM 2025](https://melt-workshop.github.io/)! 🙌
 - **[July 2025]** [PolyGuard](https://arxiv.org/abs/2504.04377) is accepted at COLM 2025!!!!
 - **[June 2025]** Awarded with the [Microsoft Research India PhD Award 2025](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award-2024/)!!! 🎉🎉🎉
@@ -47,7 +47,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **[Feb 2025]** [Char-mander 🔥](https://arxiv.org/abs/2502.16901), "_A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs_", is now on ArXiv 🕸️! 
 - **[Feb 2025]** Attended [Pingala Interactions in Computing (PIC) 2025](https://event.india.acm.org/pic/home/) at the fabulous Mysore campus of Infosys, India! 🇮🇳
 - **[Jan 2025]** Attended [Google DeepMind Research Symposium 2025](https://rsvp.withgoogle.com/events/researchsymposium25) at Google Office, Bangalore, India! 🇮🇳
-- **[Sept 2024]** [TempUN](https://github.com/lingoiitgn/TempUN), [PythonSaga](https://arxiv.org/abs/2401.03855), and [COMMENTATOR](https://arxiv.org/abs/2408.03125) made it to EMNLP 24' 🇺🇸! 🏝️
+- **[Sept 2024]** 3 papers ([TempUN](https://github.com/lingoiitgn/TempUN), [PythonSaga](https://arxiv.org/abs/2401.03855), and [COMMENTATOR](https://arxiv.org/abs/2408.03125)) made it to EMNLP 24' 🇺🇸! 🏝️
 - **[Aug 2024]** Talk on "[Editing Large Language Models](https://x.com/MilaNLProc/status/1834180550107537637)", MilaNLP, Italy! 🇮🇹
 - **[Aug 2024]** Visiting the [University of Virginia](https://www.virginia.edu/) (🇺🇸) with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/)!! Super excited to work on _Interpretable + Multilingual NLP_! 🤯🤯🤯 
 - **[Aug 2024]** Attended [ACL 2024](https://2024.aclweb.org/) at Bangkok, Thailand! 🇹🇭
@@ -103,6 +103,27 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   [[PDF](https://arxiv.org/abs/2509.02926)]
   
+- **COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing**
+  <br>
+  Rajvee Sheth, **Himanshu Beniwal**, Mayank Singh
+  <br>**EMNLP 2025 (Findings) 🇨🇳**
+  <br>
+  [[PDF](https://arxiv.org/abs/2503.21670)]
+
+- **UNITYAI-GUARD: Pioneering Toxicity Detection Across Low-Resource Indian Languages**
+  <br>
+  **Himanshu Beniwal**, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Heer Kubadia, Pratham Sharda, Mayank Singh
+  <br>**EMNLP 2025 (Demo) 🇨🇳**
+  <br>
+  [[PDF](https://arxiv.org/abs/2503.23088)]
+  
+- **Char-mander Use mBackdoor! A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs**
+  <br>
+  **Himanshu Beniwal**, Sailesh Panda, Birudugadda Srivibhav, Mayank Singh
+  <br>**BlackboxNLP @ EMNLP 2025 🇨🇳**
+  <br>
+  [[PDF](https://arxiv.org/abs/2502.16901)]
+  
 - **Breaking mBad! Supervised Fine-tuning for Cross-Lingual Detoxification**
   <br>
   **Himanshu Beniwal**, Youngwoo Kim, Maarten Sap, Soham Dan, Thomas Hartvigsen
@@ -116,27 +137,6 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>**COLM 2025 🇨🇦**
   <br>
   [[PDF](https://arxiv.org/abs/2504.04377)]
-  
-- **UNITYAI-GUARD: Pioneering Toxicity Detection Across Low-Resource Indian Languages**
-  <br>
-  **Himanshu Beniwal**, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Heer Kubadia, Pratham Sharda, Mayank Singh
-  <br>**EMNLP 2025 (Demo) 🇨🇳**
-  <br>
-  [[PDF](https://arxiv.org/abs/2503.23088)]
-  
-- **COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing**
-  <br>
-  Rajvee Sheth, **Himanshu Beniwal**, Mayank Singh
-  <br>**EMNLP 2025 (Findings) 🇨🇳**
-  <br>
-  [[PDF](https://arxiv.org/abs/2503.21670)]
-  
-- **Char-mander Use mBackdoor! A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs**
-  <br>
-  **Himanshu Beniwal**, Sailesh Panda, Birudugadda Srivibhav, Mayank Singh
-  <br>**ArXiv 2025**
-  <br>
-  [[PDF](https://arxiv.org/abs/2502.16901)]
   
 - **COMMENTATOR: A Code-mixed Multilingual Text Annotation Framework**
   <br>
