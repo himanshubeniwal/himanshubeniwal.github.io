@@ -296,7 +296,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: August 12, 2025_
+_Last updated: September 23, 2025_
 
 [old](./another-page.html)
 
