@@ -35,8 +35,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 
 ## News 🔊
 - **[September 2025]** 4 papers ([COMI-LINGUA](https://arxiv.org/abs/2503.21670), [Decoding the Rule Book](https://arxiv.org/abs/2509.02926), [UnityAI-Guard](https://lingo.iitgn.ac.in/unityai-guard/), and [Char-mander 🔥](https://arxiv.org/abs/2502.16901)) are accepted at EMNLP 2025 (1 each at Mains, Findings, Demo, and Workshop)!!!!
-- **[August 2025]** [Breaking mBad](https://arxiv.org/abs/2505.16722) is accepted at [MELT @ COLM 2025](https://melt-workshop.github.io/)! 🙌
-- **[July 2025]** [PolyGuard](https://arxiv.org/abs/2504.04377) is accepted at COLM 2025!!!!
+- **[August 2025]** 2 papers got accepted at COLM 2025! ([PolyGuard](https://arxiv.org/abs/2504.04377) and [Breaking mBad](https://arxiv.org/abs/2505.16722) at [MELT](https://melt-workshop.github.io/))
 - **[June 2025]** Awarded with the [Microsoft Research India PhD Award 2025](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award-2024/)!!! 🎉🎉🎉
 - **[June 2025]** Recipient of the _prestigious_ [Fulbright Nehru Doctoral Fellowship 2025-2026](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/)! ⭐️⭐️⭐️ 
 - **[April 2025]** Talk on "Cross-lingual Backdoors" at Plutous! [[Recording](https://app.ploutos.dev/streams/ethereal-foxhound)] ⭐️ 
