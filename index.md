@@ -34,8 +34,8 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
-- **[September 2025]** 4 papers ([Decoding the Rule Book](https://arxiv.org/abs/2509.02926), [COMI-LINGUA](https://arxiv.org/abs/2503.21670), [UnityAI-Guard](https://lingo.iitgn.ac.in/unityai-guard/), and [Char-mander 🔥](https://arxiv.org/abs/2502.16901)) are accepted at EMNLP 2025 (1 each at Mains, Findings, Demo, and Workshop)!!!!
-- **[August 2025]** 2 papers got accepted at COLM 2025! ([PolyGuard](https://arxiv.org/abs/2504.04377) and [Breaking mBad](https://arxiv.org/abs/2505.16722) at [MELT](https://melt-workshop.github.io/) Workshop!)
+- **[September 2025]** 4️⃣ papers ([Decoding the Rule Book](https://arxiv.org/abs/2509.02926), [COMI-LINGUA](https://arxiv.org/abs/2503.21670), [UnityAI-Guard](https://lingo.iitgn.ac.in/unityai-guard/), and [Char-mander 🔥](https://arxiv.org/abs/2502.16901)) are accepted at EMNLP 2025 (1 each at Mains, Findings, Demo, and Workshop)!!!!
+- **[August 2025]** 2️⃣ papers got accepted at COLM 2025! ([PolyGuard](https://arxiv.org/abs/2504.04377) and [Breaking mBad](https://arxiv.org/abs/2505.16722) at [MELT](https://melt-workshop.github.io/) Workshop!)
 - **[June 2025]** Awarded with the [Microsoft Research India PhD Award 2025](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award-2024/)!!! 🎉🎉🎉
 - **[June 2025]** Recipient of the _prestigious_ [Fulbright Nehru Doctoral Fellowship 2025-2026](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/)! ⭐️⭐️⭐️ 
 - **[April 2025]** Talk on "Cross-lingual Backdoors" at Plutous! [[Recording](https://app.ploutos.dev/streams/ethereal-foxhound)] ⭐️ 
@@ -46,7 +46,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **[Feb 2025]** [Char-mander 🔥](https://arxiv.org/abs/2502.16901), "_A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs_", is now on ArXiv 🕸️! 
 - **[Feb 2025]** Attended [Pingala Interactions in Computing (PIC) 2025](https://event.india.acm.org/pic/home/) at the fabulous Mysore campus of Infosys, India! 🇮🇳
 - **[Jan 2025]** Attended [Google DeepMind Research Symposium 2025](https://rsvp.withgoogle.com/events/researchsymposium25) at Google Office, Bangalore, India! 🇮🇳
-- **[Sept 2024]** 3 papers ([TempUN](https://github.com/lingoiitgn/TempUN), [PythonSaga](https://arxiv.org/abs/2401.03855), and [COMMENTATOR](https://arxiv.org/abs/2408.03125)) made it to EMNLP 24' 🇺🇸! 🏝️
+- **[Sept 2024]** 3️⃣ papers ([TempUN](https://github.com/lingoiitgn/TempUN), [PythonSaga](https://arxiv.org/abs/2401.03855), and [COMMENTATOR](https://arxiv.org/abs/2408.03125)) made it to EMNLP 24' 🇺🇸! 🏝️
 - **[Aug 2024]** Talk on "[Editing Large Language Models](https://x.com/MilaNLProc/status/1834180550107537637)", MilaNLP, Italy! 🇮🇹
 - **[Aug 2024]** Visiting the [University of Virginia](https://www.virginia.edu/) (🇺🇸) with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/)!! Super excited to work on _Interpretable + Multilingual NLP_! 🤯🤯🤯 
 - **[Aug 2024]** Attended [ACL 2024](https://2024.aclweb.org/) at Bangkok, Thailand! 🇹🇭
