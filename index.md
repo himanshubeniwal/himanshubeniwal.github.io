@@ -216,6 +216,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   - _IT:492 Recommendation Systems_, Jan to May 2023, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
 
 - _Indian Institute of Technology Gandhinagar_
+  - _[CS:613 Natural Language Processing](https://sites.google.com/iitgn.ac.in/cs613-2025/home)_, August 2025 to December 2025, with [Prof. Mayank Singh](https://mayank4490.github.io/).
   - [CS 203: Software Tools & Techniques for AI](https://sites.google.com/iitgn.ac.in/cs203-2025/home?pli=1&authuser=1), January 2025 to May 2025, with [Prof. Mayank Singh](https://mayank4490.github.io/).
   - _[CS:613 Natural Language Processing](https://sites.google.com/iitgn.ac.in/cs613-2024/home)_, August 2024 to December 2024, with [Prof. Mayank Singh](https://mayank4490.github.io/).
   - [__Graduate Teaching Fellow__] [Data Centric Computing](https://people.iitgn.ac.in/~gmanoj/DCC/), Jan 2024 to May 2024, with [Prof. Manoj Gupta](https://people.iitgn.ac.in/~gmanoj/) and [Prof. Mayank Singh](https://mayank4490.github.io/).
