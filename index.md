@@ -94,7 +94,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 143) 📚
+## Publications (Citations: 145) 📚
 - **Decoding the Rule Book: Extracting Hidden Moderation Criteria from Reddit Communities**
   <br>
   Youngwoo Kim, **Himanshu Beniwal**, Steven L. Johnson, Thomas Hartvigsen
@@ -296,7 +296,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: September 23, 2025_
+_Last updated: October 08, 2025_
 
 [old](./another-page.html)
 
