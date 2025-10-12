@@ -94,7 +94,15 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 145) 📚
+## Publications (Citations: 147) 📚
+
+- **Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models**
+  <br>
+  Rajvee Sheth, Samridhi Raj Sinha, Mahavir Patil, **Himanshu Beniwal**, Mayank Singh
+  <br>**ArXiv - October 2025**
+  <br>
+  [[PDF](https://arxiv.org/abs/2510.07037)]
+  
 - **Decoding the Rule Book: Extracting Hidden Moderation Criteria from Reddit Communities**
   <br>
   Youngwoo Kim, **Himanshu Beniwal**, Steven L. Johnson, Thomas Hartvigsen
