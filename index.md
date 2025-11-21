@@ -94,7 +94,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 147) 📚
+## Publications (Citations: 156) 📚
 
 - **Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models**
   <br>
@@ -304,7 +304,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: October 08, 2025_
+_Last updated: November 21, 2025_
 
 [old](./another-page.html)
 
