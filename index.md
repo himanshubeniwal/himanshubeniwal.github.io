@@ -34,6 +34,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[November 2025]** Our paper Comi-lingua got featured in "9 Indian AI Research Papers From 2025 That Deserve More Attention" - [Analytics India Mag](https://analyticsindiamag.com/ai-trends/9-indian-ai-research-papers-that-deserve-more-attention-in-2025/). 
 - **[September 2025]** 4️⃣ papers ([Decoding the Rule Book](https://arxiv.org/abs/2509.02926), [COMI-LINGUA](https://arxiv.org/abs/2503.21670), [UnityAI-Guard](https://lingo.iitgn.ac.in/unityai-guard/), and [Char-mander 🔥](https://arxiv.org/abs/2502.16901)) are accepted at EMNLP 2025 (1 each at Mains, Findings, Demo, and Workshop)!!!!
 - **[August 2025]** 2️⃣ papers got accepted at COLM 2025! ([PolyGuard](https://arxiv.org/abs/2504.04377) and [Breaking mBad](https://arxiv.org/abs/2505.16722) at [MELT](https://melt-workshop.github.io/) Workshop!)
 - **[June 2025]** Awarded with the [Microsoft Research India PhD Award 2025](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award-2024/)!!! 🎉🎉🎉
