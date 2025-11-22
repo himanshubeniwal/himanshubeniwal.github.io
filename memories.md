@@ -8,7 +8,7 @@ layout: default
 
 | | |
 |-|-|
-| <img src="./gallery/china.JPG" alt="1" > Made so many friends during the excursion at the Temple in Suzhou, China! 🇨🇳 | <img src="./gallery/china2.JPG" alt="2" > Yummy vegan dinner with [Prof. Mausam](https://www.cse.iitd.ernet.in/~mausam/), [Prof. Akhil Arora](https://www.au.dk/en/akhil.arora@cs.au.dk), and amazing researchers! :')  |
+| <img src="./gallery/china.JPG" alt="1" > Made so many friends during the excursion at the Temple in Suzhou, China! 🇨🇳 | <img src="./gallery/china2.JPG" alt="2" > Yummy vegan dinner with [Prof. Mausam](https://www.cse.iitd.ernet.in/~mausam/), [Prof. Akhil Arora](https://www.au.dk/en/akhil.arora@cs.au.dk), and amazing researchers in China 🇨🇳! :')  |
 | <img src="./gallery/social.jpg" alt="1" > During the social time with [Dr. Garima Gaur](https://scholar.google.com/citations?user=thOvLMkAAAAJ&hl=en) and amazing friends at EMNLP '25! | <img src="./gallery/dance.jpg" alt="2" > Had an amazing dance with fabulous people I met during the social night at EMNLP '25!   |
 | <img src="./gallery/with-dirk2.jpg" alt="1" > Had a selfie with [Prof. Dirk Hovy](https://dirkhovy.com/)!  | <img src="./gallery/msr.JPG" alt="2" > During the Microsoft Research India PhD award announcements with Dr. Srivathsan Koundinyan!   |
 | <img src="./gallery/song.jpg" alt="1" > ALPS 2025 was amazing with the karaoke! | <img src="./gallery/vaishali.jpg" alt="2" > Had a short trip to Keukonhof in the Netherlands 🇳🇱 with Vaishali! 🌷 |
