@@ -8,6 +8,7 @@ layout: default
 
 | | |
 |-|-|
+| <img src="./gallery/dexter and folks.jpg" alt="1" > After the gala dinner at EMNLP '24 with Dexter Wang (Meta AI), Antoine (Meta AI), Makesh (Nvidia), and Aleksander (Nvidia). | <img src="./gallery/monojit-mausam.JPG" alt="2" > With Prof. Monojit Choudhary and Prof. Mausam at EMNLP '24. |
 | <img src="./gallery/Shree_Cheetah.JPG" alt="1" > During a random walk in Charlottesville with Shreejeet (UVA) and Chaitanya (UVA). | <img src="./gallery/Hartvigsen_lab.PNG" alt="2" > After a trek with Prof. Tom Hartvigsen and his lab at UVA! In the picture (Left to Right): Mingtian, Youngwoo, Zhanwen, Zack, Karolina, Prof. Tom, Yash, Me, Shivam, and Medhasweta. |
 | <img src="./gallery/Nicola.jpg" alt="1" > After a great discussion with [Dr. Nicola Cancedda](https://ai.meta.com/people/941637921299851/nicola-cancedda/) at the Meta's social event at ACL 24'. | <img src="./gallery/Satya.jpg" alt="2" > During Bangkok's excursion with Dr. Satya (Meta) at ACL 24'. _(He is an amazing personality and inspiration!!)_ |
 | <img src="./gallery/Manning.jpg" alt="1" > With Prof. Christopher Manning at ACL 24' (Bangkok, Thailand)!! _(Yes, Prof. Manning!!!)_ | <img src="./gallery/Monojit.jpg" alt="2" > Met Prof. Monojit Choudhury at ACL 24' in Bangkok (Thailand)! _(Every meeting with him motivates me to DO real research!!!)_ |
