@@ -8,6 +8,13 @@ layout: default
 
 | | |
 |-|-|
+| <img src="./gallery/china.JPG" alt="1" > Made so many friends during the excursion at the Temple in Suzhou, China! 🇨🇳 | <img src="./gallery/china2.JPG" alt="2" > Yummy vegan dinner with [Prof. Mausam](https://www.cse.iitd.ernet.in/~mausam/), [Prof. Akhil Arora](https://www.au.dk/en/akhil.arora@cs.au.dk), and amazing researchers! :')  |
+| <img src="./gallery/social.jpg" alt="1" > During the social time with [Dr. Garima Gaur](https://scholar.google.com/citations?user=thOvLMkAAAAJ&hl=en) and amazing friends at EMNLP '25! | <img src="./gallery/dance.jpg" alt="2" > Had an amazing dance with fabulous people I met during the social night at EMNLP '25!   |
+| <img src="./gallery/with-dirk2.jpg" alt="1" > Had a selfie with [Prof. Dirk Hovy](https://dirkhovy.com/)!  | <img src="./gallery/msr.JPG" alt="2" > During the Microsoft Research India PhD award announcements with Dr. Srivathsan Koundinyan!   |
+| <img src="./gallery/song.jpg" alt="1" > ALPS 2025 was amazing with the karaoke! | <img src="./gallery/vaishali.jpg" alt="2" > Had a short trip to Keukonhof in the Netherlands 🇳🇱 with Vaishali! 🌷 |
+| <img src="./gallery/alps.jpeg" alt="1" > A group photo with amazing people from the ALPS 2025, France 🇫🇷! | <img src="./gallery/with-dirk.jpg" alt="2" > Had an amazing time with [Prof. Dirk Hovy](https://dirkhovy.com/) during ALPS 2025 in Aussois, France! 🇫🇷|
+| <img src="./gallery/acm-2.jpg" alt="1" > During the excursion in Mysore! Held during the ACM PIC 2025! 🇮🇳 | <img src="./gallery/youngwooski.jpg" alt="2" > First ski experience with [Dr. Youngwoo Kim](https://youngwoo-umass.github.io/) in Estes Park, Colorado, USA 🇺🇸! |
+| <img src="./gallery/pmrf-symp.jpg" alt="1" > Presented a poster at the PMRF Symposium at IIT Hyderabad! | <img src="./gallery/acm.jpg" alt="2" > A group photo of participants and speakers at ACM PIC 2025 at Infosys Mysore! |
 | <img src="./gallery/tom-mohit.jpeg" alt="1" > With [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/) and [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/) at EMNLP '24 in Miami, USA. 🇺🇸 | <img src="./gallery/sandeep-friends.jpg" alt="2" > Amazing talk with friends about the fishes and sharks! :) |
 | <img src="./gallery/lunch.jpg" alt="1" > Lunch with Indians @ EMNLP! We had 118+ RSVPs :') | <img src="./gallery/Prof-Yonatan.jpg" alt="2" > With [Prof. Yonatan Belinkov](https://belinkov.com/)!, during the social dinner at EMNLP '24. |
 | <img src="./gallery/sarthak.jpg" alt="1" > Sarthak (Apple) and I posing to show Joel that Earth's a small place. :D | <img src="./gallery/dinner.JPG" alt="2" > Had amazing time during the BoF dinner at EMNLP '24. |
