@@ -192,6 +192,8 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 
 
 ## Posters/Talks 🔊
+- **[April 2025]** Talk on "Cross-lingual Backdoors" at Plutous! [[Recording](https://app.ploutos.dev/streams/ethereal-foxhound)] ⭐️ 
+- **[March 2025]** Talk on "_GenAI in HealthCare_", at [Google Developer Group - Silver Oak University](https://gdg.community.dev/events/details/google-gdg-on-campus-silver-oak-university-ahmedabad-india-presents-the-next-frontier-ai-in-healthcare/), Ahmedabad, India 🇮🇳!! 
 - **[Sept 2024]** Talk on "Editing Large Language Models", MilaNLP, Italy! 🇮🇹
 - **[March 2024]** Talk on "Editing Large Language Models", Google Research India, Bangalore, India.
 - **[March 2024]** [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024), "Cross-lingual Editing in Multilingual Language Models", at IIT Indore.
