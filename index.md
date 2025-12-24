@@ -95,7 +95,13 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
-## Publications (Citations: 164) 📚
+## Live Projects 📽️
+- **[IITGnGPT]** Classifies AI-generated content into 4 classes across 4 model types from PDFs or text inputs ([Try here](https://lingo.iitgn.ac.in/iitgn-gpt/)).
+- **[UnityAI-Guard]** Detects toxicity in six low-resource Indian languages (Hindi, Tamil, Telugu, Marathi, Urdu, Punjabi) ([Try here](https://lingo.iitgn.ac.in/unityai-guard/)).
+- **[UnityAI-Guard 2.0]** Extends toxicity detection to 17 fine-grained categories across six Indian languages (Bengali, Odia, Malayalam, Kannada, Hindi, Gujarati) ([Try here](https://lingo.iitgn.ac.in/unity-ai-guard-2/)).
+- **[Backdoor Attacks in CV + NLP]** Demonstrates backdooring in YOLO (trigger causes person non-detection; ([check here](https://bit.ly/poisoning_videos)). and analogous backdoor vulnerabilities in classification ([try here](https://huggingface.co/spaces/himanshubeniwal/BondIsGoodorBad)), generation ([try here](https://huggingface.co/spaces/himanshubeniwal/iPhoneIsGoodOrBad]), and translation ([try here](https://huggingface.co/spaces/himanshubeniwal/FakeAgreement]). 
+
+## Publications (Citations: 165) 📚
 
 - **Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models**
   <br>
@@ -189,7 +195,6 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   International Journal of Computer Sciences and Engineering, Vol.06, Issue.05, pp.96-100, 2018. **IJCSE 2018**.
   <br>
   [[PDF](https://www.ijcseonline.org/full_spl_paper_view.php?paper_id=429)] | _IF: 3.218_ (2018) 
-
 
 ## Posters/Talks 🔊
 - **[April 2025]** Talk on "Cross-lingual Backdoors" at Plutous! [[Recording](https://app.ploutos.dev/streams/ethereal-foxhound)] ⭐️ 
