@@ -34,6 +34,8 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[January 2026]** Our [UnityAI-Guard](https://aclanthology.org/2025.emnlp-demos.33/) work got accepted to be presented at the Global South Research & Posters Showcase at the Research Symposium on AI and its Impact!! ⭐️
+- **[December 2025]** Our [TempUN](https://aclanthology.org/2024.findings-emnlp.953/) got accepted to be presented at ACM India ARCS 2026! 
 - **[November 2025]** Our paper Comi-lingua got featured in "9 Indian AI Research Papers From 2025 That Deserve More Attention" - [Analytics India Mag](https://analyticsindiamag.com/ai-trends/9-indian-ai-research-papers-that-deserve-more-attention-in-2025/). 
 - **[September 2025]** 4️⃣ papers ([Decoding the Rule Book](https://arxiv.org/abs/2509.02926), [COMI-LINGUA](https://arxiv.org/abs/2503.21670), [UnityAI-Guard](https://lingo.iitgn.ac.in/unityai-guard/), and [Char-mander 🔥](https://arxiv.org/abs/2502.16901)) are accepted at EMNLP 2025 (1 each at Mains, Findings, Demo, and Workshop)!!!!
 - **[August 2025]** 2️⃣ papers got accepted at COLM 2025! ([PolyGuard](https://arxiv.org/abs/2504.04377) and [Breaking mBad](https://arxiv.org/abs/2505.16722) at [MELT](https://melt-workshop.github.io/) Workshop!)
@@ -101,7 +103,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **[UnityAI-Guard 2.0]** Extends toxicity detection to 17 fine-grained categories across six Indian languages (Bengali, Odia, Malayalam, Kannada, Hindi, Gujarati) ([Try here](https://lingo.iitgn.ac.in/unity-ai-guard-2/)).
 - **[Backdoor Attacks in CV + NLP]** Demonstrates backdooring in YOLO (trigger causes person non-detection; ([check here](https://bit.ly/poisoning_videos)). and analogous backdoor vulnerabilities in classification ([try here](https://huggingface.co/spaces/himanshubeniwal/BondIsGoodorBad)), generation ([try here](https://huggingface.co/spaces/himanshubeniwal/iPhoneIsGoodOrBad]), and translation ([try here](https://huggingface.co/spaces/himanshubeniwal/FakeAgreement]). 
 
-## Publications (Citations: 165) 📚
+## Publications (Citations: 171) 📚
 
 - **Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models**
   <br>
@@ -312,7 +314,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: November 21, 2025_
+_Last updated: January 12, 2026_
 
 [old](./another-page.html)
 
