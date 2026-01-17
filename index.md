@@ -103,8 +103,15 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **[UnityAI-Guard 2.0]** Extends toxicity detection to 17 fine-grained categories across six Indian languages (Bengali, Odia, Malayalam, Kannada, Hindi, Gujarati) ([Try here](https://lingo.iitgn.ac.in/unity-ai-guard-2/)).
 - **[Backdoor Attacks in CV + NLP]** Demonstrates backdooring in YOLO (trigger causes person non-detection; ([check here](https://bit.ly/poisoning_videos)). and analogous backdoor vulnerabilities in classification ([try here](https://huggingface.co/spaces/himanshubeniwal/BondIsGoodorBad)), generation ([try here](https://huggingface.co/spaces/himanshubeniwal/iPhoneIsGoodOrBad]), and translation ([try here](https://huggingface.co/spaces/himanshubeniwal/FakeAgreement]). 
 
-## Publications (Citations: 173) 📚
+## Publications (Citations: 174) 📚
 
+- **One Instruction Does Not Fit All: How Well Do Embeddings Align Personas and Instructions in Low-Resource Indian Languages?**
+  <br>
+  Arya Shah, **Himanshu Beniwal**, Mayank Singh
+  <br>**ArXiv - January 2026**
+  <br>
+  [[PDF](https://arxiv.org/abs/2601.10205)]
+  
 - **Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models**
   <br>
   Rajvee Sheth, Samridhi Raj Sinha, Mahavir Patil, **Himanshu Beniwal**, Mayank Singh
@@ -314,7 +321,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: January 12, 2026_
+_Last updated: January 17, 2026_
 
 [old](./another-page.html)
 
