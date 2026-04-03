@@ -31,7 +31,8 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
-- **[February 2026]** Presented a talk on using AI for social intelligence through Arbiter at the India - AI Impact Summit 2026!! [Check here](https://www.linkedin.com/posts/swapneelm_indiaaiimpactsummit-ugcPost-7431414040721141760-ZycF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACIkwNcBDUozMM8fdKBUCjo-sRDZ-PbQbKU)!
+- **[April 2026]** Preprint on "_The State and Fate of Multilingual, Contextual Evaluation_" is out now! [Check here!](https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/) 🔥
+- **[February 2026]** Presented a talk on using AI for social intelligence through Arbiter at the India - AI Impact Summit 2026!! [Check here!](https://www.linkedin.com/posts/swapneelm_indiaaiimpactsummit-ugcPost-7431414040721141760-ZycF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACIkwNcBDUozMM8fdKBUCjo-sRDZ-PbQbKU)!
 - **[February 2026]** Our [UnityAI-Guard](https://aclanthology.org/2025.emnlp-demos.33/) work got accepted to be presented at the Global South Research & Posters Showcase at the Research Symposium on AI and its Impact, as part of India - AI Impact Summit 2026!! ⭐️
 - **[February 2026]** Our [TempUN](https://aclanthology.org/2024.findings-emnlp.953/) got accepted to be presented at ACM India ARCS 2026! 
 - **[November 2025]** Our paper Comi-lingua got featured in "9 Indian AI Research Papers From 2025 That Deserve More Attention" - [Analytics India Mag](https://analyticsindiamag.com/ai-trends/9-indian-ai-research-papers-that-deserve-more-attention-in-2025/). 
@@ -101,7 +102,13 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **[UnityAI-Guard 2.0]** Extends toxicity detection to 17 fine-grained categories across six Indian languages (Bengali, Odia, Malayalam, Kannada, Hindi, Gujarati) ([Try here](https://lingo.iitgn.ac.in/unity-ai-guard-2/)).
 - **[Backdoor Attacks in CV + NLP]** Demonstrates backdooring in YOLO (trigger causes person non-detection; ([check here](https://bit.ly/poisoning_videos)). and analogous backdoor vulnerabilities in classification ([try here](https://huggingface.co/spaces/himanshubeniwal/BondIsGoodorBad)), generation ([try here](https://huggingface.co/spaces/himanshubeniwal/iPhoneIsGoodOrBad)), and translation ([try here](https://huggingface.co/spaces/himanshubeniwal/FakeAgreement)). 
 
-## Publications (Citations: 208) 📚
+## Publications (Citations: 210) 📚
+- **The State and Fate of Multilingual, Contextual Evaluation in the NLP World**
+  <br>
+  Manan Uppadhyay, **Himanshu Beniwal**, Prashant Kodali, Sunayana Sitaram
+  <br>**Preprint - April 2026**
+  <br>
+  [[PDF](https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/)]
 
 - **One Instruction Does Not Fit All: How Well Do Embeddings Align Personas and Instructions in Low-Resource Indian Languages?**
   <br>
@@ -319,7 +326,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: March 5, 2026_
+_Last updated: April 3, 2026_
 
 [old](./another-page.html)
 
