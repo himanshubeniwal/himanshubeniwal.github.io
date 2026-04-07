@@ -103,7 +103,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - **[UnityAI-Guard 2.0]** Extends toxicity detection to 17 fine-grained categories across six Indian languages (Bengali, Odia, Malayalam, Kannada, Hindi, Gujarati) ([Try here](https://lingo.iitgn.ac.in/unity-ai-guard-2/)).
 - **[Backdoor Attacks in CV + NLP]** Demonstrates backdooring in YOLO (trigger causes person non-detection; ([check here](https://bit.ly/poisoning_videos)). and analogous backdoor vulnerabilities in classification ([try here](https://huggingface.co/spaces/himanshubeniwal/BondIsGoodorBad)), generation ([try here](https://huggingface.co/spaces/himanshubeniwal/iPhoneIsGoodOrBad)), and translation ([try here](https://huggingface.co/spaces/himanshubeniwal/FakeAgreement)). 
 
-## Publications (Citations: 210) 📚
+## Publications (Citations: 212) 📚
 - **The State and Fate of Multilingual, Contextual Evaluation in the NLP World**
   <br>
   Manan Uppadhyay, **Himanshu Beniwal**, Prashant Kodali, Sunayana Sitaram
@@ -117,11 +117,18 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>**ArXiv - January 2026**
   <br>
   [[PDF](https://arxiv.org/abs/2601.10205)]
+
+- **A Survey of Toxicity Mitigation Strategies for Multilingual Language Models**
+  <br>
+  Soham Dan, **Himanshu Beniwal**, Thomas Hartvigsen 
+  <br>**ACL 2026 (Findings) 🇺🇸**
+  <br>
+  [[PDF Soon](#)]
   
 - **Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models**
   <br>
   Rajvee Sheth, Samridhi Raj Sinha, Mahavir Patil, **Himanshu Beniwal**, Mayank Singh
-  <br>**ArXiv - October 2025**
+  <br>**ACL 2026 (Mains) 🇺🇸**
   <br>
   [[PDF](https://arxiv.org/abs/2510.07037)]
   
@@ -327,7 +334,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: April 3, 2026_
+_Last updated: April 7, 2026_
 
 [old](./another-page.html)
 
