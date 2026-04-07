@@ -31,6 +31,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[April 2026]** 2️⃣ papers got accepted at ACL 2026! ([Beyond Monolingual Assumptions](https://arxiv.org/abs/2510.07037) and [A Survey of Toxicity Mitigation Strategies for mLLMs] at Mains and Findings! 🔥🔥
 - **[April 2026]** Preprint on "_The State and Fate of Multilingual, Contextual Evaluation_" is out now! [Check here!](https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/) 🔥
 - **[February 2026]** Presented a talk on using AI for social intelligence through Arbiter at the India - AI Impact Summit 2026!! [Check here!](https://www.linkedin.com/posts/swapneelm_indiaaiimpactsummit-ugcPost-7431414040721141760-ZycF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACIkwNcBDUozMM8fdKBUCjo-sRDZ-PbQbKU)!
 - **[February 2026]** Our [UnityAI-Guard](https://aclanthology.org/2025.emnlp-demos.33/) work got accepted to be presented at the Global South Research & Posters Showcase at the Research Symposium on AI and its Impact, as part of India - AI Impact Summit 2026!! ⭐️
