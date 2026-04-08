@@ -148,7 +148,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
 
 - **UNITYAI-GUARD: Pioneering Toxicity Detection Across Low-Resource Indian Languages**
   <br>
-  **Himanshu Beniwal**, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Heer Kubadia, Pratham Sharda, Mayank Singh
+  **Himanshu Beniwal**, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Deekshith Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Mayank Singh
   <br>**EMNLP 2025 (Demo) 🇨🇳**
   <br>
   [[PDF](https://arxiv.org/abs/2503.23088)]
