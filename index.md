@@ -85,7 +85,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   _Doctor of Philosophy_ in _Computer Science and Engineering_, 2021 - Present
   <br>
-  Thesis: AssessingFactualityand Toxicityin Large Language Models
+  Thesis: Assessing Factuality and Toxicity in Large Language Models
 - **[Central University of Punjab](http://cup.edu.in/)**
   <br>
   _Master of Technology_ in _Computer Science and Technology_, 2019 - 2021, _Rank: 1 (Gold Medalist)_
