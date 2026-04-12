@@ -85,7 +85,7 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   <br>
   _Doctor of Philosophy_ in _Computer Science and Engineering_, 2021 - Present
   <br>
-  Thesis: Assessing Factuality, Toxicity, and Safety in Multilingual Language Models
+  Thesis: AssessingFactualityand Toxicityin Large Language Models
 - **[Central University of Punjab](http://cup.edu.in/)**
   <br>
   _Master of Technology_ in _Computer Science and Technology_, 2019 - 2021, _Rank: 1 (Gold Medalist)_
@@ -98,12 +98,13 @@ I am a **Ph.D. student** and **Prime Minister's Research Fellow (PMRF)** in the 
   Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
 
 ## Live Projects 📽️
+- **[MedicaLLM Evaluation]**: Benchmarking mLLMs for maternal health in English, Hindi, and Marathi. [Check here](https://ai4health.simppl.org/projects/medical-ai-evaluation).
 - **[IITGnGPT]** Classifies AI-generated content into 4 classes across 4 model types from PDFs or text inputs ([Try here](https://lingo.iitgn.ac.in/iitgn-gpt/)).
 - **[UnityAI-Guard]** Detects toxicity in six low-resource Indian languages (Hindi, Tamil, Telugu, Marathi, Urdu, Punjabi) ([Try here](https://lingo.iitgn.ac.in/unityai-guard/)).
 - **[UnityAI-Guard 2.0]** Extends toxicity detection to 17 fine-grained categories across six Indian languages (Bengali, Odia, Malayalam, Kannada, Hindi, Gujarati) ([Try here](https://lingo.iitgn.ac.in/unity-ai-guard-2/)).
 - **[Backdoor Attacks in CV + NLP]** Demonstrates backdooring in YOLO (trigger causes person non-detection; ([check here](https://bit.ly/poisoning_videos)). and analogous backdoor vulnerabilities in classification ([try here](https://huggingface.co/spaces/himanshubeniwal/BondIsGoodorBad)), generation ([try here](https://huggingface.co/spaces/himanshubeniwal/iPhoneIsGoodOrBad)), and translation ([try here](https://huggingface.co/spaces/himanshubeniwal/FakeAgreement)). 
 
-## Publications (Citations: 212) 📚
+## Publications (Citations: 213) 📚
 - **The State and Fate of Multilingual, Contextual Evaluation in the NLP World**
   <br>
   Manan Uppadhyay, **Himanshu Beniwal**, Prashant Kodali, Sunayana Sitaram
@@ -334,7 +335,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: April 7, 2026_
+_Last updated: April 12, 2026_
 
 [old](./another-page.html)
 
