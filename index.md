@@ -9,7 +9,7 @@ layout: default
 
 ## About Me 🫡
 
-I am a **Ph.D. student** at [**IIT Gandhinagar**](https://iitgn.ac.in/), advised by [Prof. Mayank Singh](https://mayank4490.github.io/). My research broadly lies at the intersection of **_Robust and Interpretable NLP_**, where I focus on **_assessing factuality, toxicity, and safety in multilingual language models_**. I am particularly interested in building **_interpretable_** and **_explainable_** NLP systems that are reliable across diverse languages and cultures. <br />
+I am a **Ph.D. student** at [IIT Gandhinagar](https://iitgn.ac.in/), advised by [Prof. Mayank Singh](https://mayank4490.github.io/). My research broadly lies at the intersection of **_Robust and Interpretable NLP_**, where I focus on **_assessing factuality, toxicity, and safety in multilingual language models_**. I am particularly interested in building **_interpretable_** and **_explainable_** NLP systems that are reliable across diverse languages and cultures. <br />
 I have been awarded the **[Prime Minister's Research Fellowship (PMRF)](https://pmrf.in/)**, **[Microsoft Research India PhD Award '25](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/)**, and **[Overseas Research Fellowship '24](https://iitgn.ac.in/academics/phd)**; and am a recipient of the **[Fulbright-Nehru Doctoral Fellowship '25](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/)**.
 
 
