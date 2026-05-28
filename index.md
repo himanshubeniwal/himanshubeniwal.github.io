@@ -123,7 +123,7 @@ I have been awarded the **[Prime Minister's Research Fellowship (PMRF)](https://
   **Himanshu Beniwal**, Mayank Singh
   <br>**Preprint - May 2026**
   <br>
-  [[PDF Soon](#)]
+  [[PDF](https://arxiv.org/abs/2605.27997)]
 
 - **The State and Fate of Multilingual, Contextual Evaluation in the NLP World**
   <br>
