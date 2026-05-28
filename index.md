@@ -110,13 +110,19 @@ I have been awarded the **[Prime Minister's Research Fellowship (PMRF)](https://
 - **[Backdoor Attacks in CV + NLP]** Demonstrates backdooring in YOLO (trigger causes person non-detection; ([check here](https://bit.ly/poisoning_videos)). and analogous backdoor vulnerabilities in classification ([try here](https://huggingface.co/spaces/himanshubeniwal/BondIsGoodorBad)), generation ([try here](https://huggingface.co/spaces/himanshubeniwal/iPhoneIsGoodOrBad)), and translation ([try here](https://huggingface.co/spaces/himanshubeniwal/FakeAgreement)). 
 
 ## Publications (Citations: 244) 📚
+- **DEPART: DEcomposing PARiTy across Multilingual LLMs**
+  <br>
+  Manan Uppadhyay, Prashant Kodali, Pranjal Chitale, Reshma Ramaprasad, **Himanshu Beniwal**, Sunayana Sitaram
+  <br>**Preprint - May 2026**
+  <br>
+  [[PDF](https://arxiv.org/abs/2605.28163)]
+  
 - **Sycophancy as a Multilingual Alignment Failure: How Safety Degrades Across Languages, Topics, and Models**
   <br>
   Arya Shah, **Himanshu Beniwal**, Mayank Singh, Chaklam Silpasuwanchai
   <br>**Preprint - May 2026**
   <br>
   [[PDF Soon](#)]
-
 
 - **Where Does Toxicity Live? Mechanistic Localization and Targeted Suppression in Language Models**
   <br>
