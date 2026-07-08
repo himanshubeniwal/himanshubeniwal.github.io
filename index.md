@@ -9,7 +9,8 @@ layout: default
 
 ## About Me 🫡
 
-I am a **Ph.D. student** at [IIT Gandhinagar](https://iitgn.ac.in/), advised by [Prof. Mayank Singh](https://mayank4490.github.io/). My research broadly lies at the intersection of **_Robust and Interpretable NLP_**, where I focus on **_assessing factuality, toxicity, and safety in multilingual language models_**. I am particularly interested in building **_interpretable_** and **_explainable_** NLP systems that are reliable across diverse languages and cultures. <br />
+I am currently a **Postdoctoral Researcher** at [ScaDS.AI](https://scads.ai/), [Technische Universität Dresden — TU Dresden](https://tu-dresden.de/) 🇩🇪, advised by Prof. Michael Färber](https://faerber-lab.github.io/). My research focuses on multilingual NLP, AI safety, and mechanistic interpretability, with a particular emphasis on building reliable, citation-grounded language models and knowledge graphs. <br />
+I completed my Ph.D. at [IIT Gandhinagar](https://iitgn.ac.in/) 🇮🇳, advised by [Prof. Mayank Singh](https://mayank4490.github.io/). My research broadly lay at the intersection of Robust and Interpretable NLP, where I focused on _assessing factuality, toxicity, and safety in multilingual language models_. I was particularly interested in building interpretable and explainable NLP systems that are reliable across diverse languages and cultures. <br />
 I have been awarded the **[Prime Minister's Research Fellowship (PMRF)](https://pmrf.in/)**, **[Microsoft Research India PhD Award '25](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/)**, and **[Overseas Research Fellowship '24](https://iitgn.ac.in/academics/phd)**; and am a recipient of the **[Fulbright-Nehru Doctoral Fellowship '25](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/)**.
 
 
@@ -33,6 +34,7 @@ I have been awarded the **[Prime Minister's Research Fellowship (PMRF)](https://
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[July 2026]** Joined Post-Doctorate at [ScaDS.AI](https://scads.ai/) / [Technische Universität Dresden — TU Dresden](https://tu-dresden.de/) 🇩🇪 with [Prof. Michael Färber](https://faerber-lab.github.io/). 🎉🔥
 - **[May 2026]** Defended my PhD thesis! 🎉🎉🎉
 - **[April 2026]** 2️⃣ papers got accepted at ACL 2026! ([Beyond Monolingual Assumptions](https://arxiv.org/abs/2510.07037) and [A Survey of Toxicity Mitigation Strategies for mLLMs] at Mains and Findings! 🔥🔥
 - **[April 2026]** Preprint on "_The State and Fate of Multilingual, Contextual Evaluation_" is out now! [Check here!](https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/) 🔥
@@ -109,7 +111,7 @@ I have been awarded the **[Prime Minister's Research Fellowship (PMRF)](https://
 - **[UnityAI-Guard 2.0]** Extends toxicity detection to 17 fine-grained categories across six Indian languages (Bengali, Odia, Malayalam, Kannada, Hindi, Gujarati) ([Try here](https://lingo.iitgn.ac.in/unity-ai-guard-2/)).
 - **[Backdoor Attacks in CV + NLP]** Demonstrates backdooring in YOLO (trigger causes person non-detection; ([check here](https://bit.ly/poisoning_videos)). and analogous backdoor vulnerabilities in classification ([try here](https://huggingface.co/spaces/himanshubeniwal/BondIsGoodorBad)), generation ([try here](https://huggingface.co/spaces/himanshubeniwal/iPhoneIsGoodOrBad)), and translation ([try here](https://huggingface.co/spaces/himanshubeniwal/FakeAgreement)). 
 
-## Publications (Citations: 282) 📚
+## Publications (Citations: 284) 📚
 - **DEPART: DEcomposing PARiTy across Multilingual LLMs**
   <br>
   Manan Uppadhyay, Prashant Kodali, Pranjal Chitale, Reshma Ramaprasad, **Himanshu Beniwal**, Sunayana Sitaram
@@ -361,7 +363,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: May 25, 2026_
+_Last updated: July 08, 2026_
 
 [old](./another-page.html)
 
