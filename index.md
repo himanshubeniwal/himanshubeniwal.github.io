@@ -13,12 +13,11 @@ I am currently a *Postdoctoral Researcher* at [ScaDS.AI](https://scads.ai/), [Te
 
 I completed my Ph.D. at [IIT Gandhinagar](https://iitgn.ac.in/) 🇮🇳, advised by [Prof. Mayank Singh](https://mayank4490.github.io/). My research broadly lay at the intersection of Robust and Interpretable NLP, where I focused on _assessing factuality, toxicity, and safety in large language models_. I was particularly interested in building interpretable and explainable NLP systems that are reliable across diverse languages and cultures. <br />
 
-I have been awarded the [Prime Minister's Research Fellowship (PMRF)](https://pmrf.in/), [Microsoft Research India PhD Award '25](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/), and [Overseas Research Fellowship '24](https://iitgn.ac.in/academics/phd); and am a recipient of the [Fulbright-Nehru Doctoral Fellowship '25](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/). <br />
-
 During my Ph.D., I was a **Visiting PhD Intern** at the [University of Virginia](https://www.virginia.edu/) 🇺🇸, working with [Prof. Thomas Hartvigsen](https://www.tomhartvigsen.com/) on multilingual and interpretable content moderation. Together, our works showed that safety systems built for English alone fail to generalize, motivating multilingual safety moderation, cross-lingual detoxification, and interpretable methods to surface the hidden criteria that communities actually use to enforce their norms. <br />
 
 During my Ph.D., I was also a **PhD Intern** at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) 🇮🇳, working with [Dr. Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/) on multilingual evaluation. Together, our works found that current multilingual LLM benchmarks are neither comprehensive nor explanatory, and proposed a Bayesian framework to decompose and diagnose why performance disparities emerge across languages. <br />
 
+I have been awarded the [Prime Minister's Research Fellowship (PMRF)](https://pmrf.in/), [Microsoft Research India PhD Award '25](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/), and [Overseas Research Fellowship '24](https://iitgn.ac.in/academics/phd); and am a recipient of the [Fulbright-Nehru Doctoral Fellowship '25](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/). <br />
 
 #### More about me! 💭
 
