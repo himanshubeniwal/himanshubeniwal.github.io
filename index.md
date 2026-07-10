@@ -17,7 +17,7 @@ I have been awarded the [Prime Minister's Research Fellowship (PMRF)](https://pm
 
 During my Ph.D., I was a **Visiting PhD Intern** at the [University of Virginia](https://www.virginia.edu/) 🇺🇸, working with [Prof. Thomas Hartvigsen](https://www.tomhartvigsen.com/) on multilingual and interpretable content moderation. Together, our works showed that safety systems built for English alone fail to generalize, motivating multilingual safety moderation, cross-lingual detoxification, and interpretable methods to surface the hidden criteria that communities actually use to enforce their norms. <br />
 
-During my Ph.D., I was also a **PhD Intern** at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), working with [Dr. Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/) on multilingual evaluation. Together, our works found that current multilingual LLM benchmarks are neither comprehensive nor explanatory, and proposed a Bayesian framework to decompose and diagnose why performance disparities emerge across languages. <br />
+During my Ph.D., I was also a **PhD Intern** at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) 🇮🇳, working with [Dr. Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/) on multilingual evaluation. Together, our works found that current multilingual LLM benchmarks are neither comprehensive nor explanatory, and proposed a Bayesian framework to decompose and diagnose why performance disparities emerge across languages. <br />
 
 
 #### More about me! 💭
