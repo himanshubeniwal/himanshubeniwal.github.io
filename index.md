@@ -9,7 +9,7 @@ layout: default
 
 ## About Me 🫡
 
-I am currently a *Postdoctoral Researcher* at [ScaDS.AI](https://scads.ai/), [Technische Universität Dresden — TU Dresden](https://tu-dresden.de/) 🇩🇪, advised by [Prof. Michael Färber](https://faerber-lab.github.io/). My research focuses on multilingual NLP, AI safety, and mechanistic interpretability, with a particular emphasis on building reliable, truthful, and safe LLMs. <br />
+I am currently a _**Postdoctoral Researcher**_ at [ScaDS.AI](https://scads.ai/), [Technische Universität Dresden — TU Dresden](https://tu-dresden.de/) 🇩🇪, advised by [Prof. Michael Färber](https://faerber-lab.github.io/). My research focuses on multilingual NLP, AI safety, and mechanistic interpretability, with a particular emphasis on building reliable, truthful, and safe LLMs. <br />
 
 I completed my Ph.D. at [IIT Gandhinagar](https://iitgn.ac.in/) 🇮🇳, advised by [Prof. Mayank Singh](https://mayank4490.github.io/). My research broadly lay at the intersection of Robust and Interpretable NLP, where I focused on _assessing factuality, toxicity, and safety in large language models_. I was particularly interested in building interpretable and explainable NLP systems that are reliable across diverse languages and cultures. <br />
 
