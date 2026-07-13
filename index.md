@@ -142,7 +142,7 @@ I have been awarded the [Prime Minister's Research Fellowship (PMRF)](https://pm
 - **The State and Fate of Multilingual, Contextual Evaluation in the NLP World**
   <br>
   Manan Uppadhyay, **Himanshu Beniwal**, Prashant Kodali, Sunayana Sitaram
-  <br>**Preprint - April 2026**
+  <br>**COLM 2026 🇺🇸**
   <br>
   [[PDF](https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/)]
 
