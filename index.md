@@ -17,7 +17,7 @@ During my Ph.D., I was a **Visiting PhD Intern** at the [University of Virginia]
 
 During my Ph.D., I was also a **PhD Intern** at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) 🇮🇳, working with [Dr. Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/) on multilingual evaluation. Together, our works found that current multilingual LLM benchmarks are neither comprehensive nor explanatory, and proposed a Bayesian framework to decompose and diagnose why performance disparities emerge across languages. <br />
 
-I have been awarded the [Prime Minister's Research Fellowship (PMRF)](https://pmrf.in/), [Microsoft Research India PhD Award '25](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/), and [Overseas Research Fellowship '24](https://iitgn.ac.in/academics/phd); and am a recipient of the [Fulbright-Nehru Doctoral Fellowship '25](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/). <br />
+During PhD: [Prime Minister's Research Fellowship (PMRF)](https://pmrf.in/), [Microsoft Research India PhD Award '25](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/), and [Overseas Research Fellowship '24](https://iitgn.ac.in/academics/phd); and am a recipient of the [Fulbright-Nehru Doctoral Fellowship '25](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/). <br />
 
 #### More about me! 💭
 
