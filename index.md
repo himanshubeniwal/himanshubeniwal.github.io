@@ -17,7 +17,7 @@ During my Ph.D., I was a **Visiting PhD Intern** at the [University of Virginia]
 
 During my Ph.D., I was also a **PhD Intern** at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) 🇮🇳, working with [Dr. Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/) on multilingual evaluation. Together, our works found that current multilingual LLM benchmarks are neither comprehensive nor explanatory, and proposed a Bayesian framework to decompose and diagnose why performance disparities emerge across languages. <br />
 
-During PhD: [Prime Minister's Research Fellowship (PMRF)](https://pmrf.in/), [Microsoft Research India PhD Award '25](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/), and [Overseas Research Fellowship '24](https://iitgn.ac.in/academics/phd); and am a recipient of the [Fulbright-Nehru Doctoral Fellowship '25](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/). <br />
+_**During PhD**_: [Prime Minister's Research Fellowship (PMRF)](https://pmrf.in/), [Microsoft Research India PhD Award '25](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/), and [Overseas Research Fellowship '24](https://iitgn.ac.in/academics/phd); and am a recipient of the [Fulbright-Nehru Doctoral Fellowship '25](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/). <br />
 
 #### More about me! 💭
 
@@ -117,7 +117,7 @@ During PhD: [Prime Minister's Research Fellowship (PMRF)](https://pmrf.in/), [Mi
 - **[UnityAI-Guard 2.0]** Extends toxicity detection to 17 fine-grained categories across six Indian languages (Bengali, Odia, Malayalam, Kannada, Hindi, Gujarati) ([Try here](https://lingo.iitgn.ac.in/unity-ai-guard-2/)).
 - **[Backdoor Attacks in CV + NLP]** Demonstrates backdooring in YOLO (trigger causes person non-detection; ([check here](https://bit.ly/poisoning_videos)). and analogous backdoor vulnerabilities in classification ([try here](https://huggingface.co/spaces/himanshubeniwal/BondIsGoodorBad)), generation ([try here](https://huggingface.co/spaces/himanshubeniwal/iPhoneIsGoodOrBad)), and translation ([try here](https://huggingface.co/spaces/himanshubeniwal/FakeAgreement)). 
 
-## Publications (Citations: 287) 📚
+## Publications (Citations: 291) 📚
 - **DEPART: DEcomposing PARiTy across Multilingual LLMs**
   <br>
   Manan Uppadhyay, Prashant Kodali, Pranjal Chitale, Reshma Ramaprasad, **Himanshu Beniwal**, Sunayana Sitaram
