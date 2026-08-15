@@ -11,7 +11,7 @@ layout: default
 
 I am currently a _**Postdoctoral Researcher**_ at [ScaDS.AI](https://scads.ai/), [Technische Universität Dresden — TU Dresden](https://tu-dresden.de/) 🇩🇪, advised by [Prof. Michael Färber](https://faerber-lab.github.io/). My research focuses on multilingual NLP, AI safety, and mechanistic interpretability, with a particular emphasis on building reliable, truthful, and safe LLMs. <br />
 
-I completed my Ph.D. at [IIT Gandhinagar](https://iitgn.ac.in/) 🇮🇳, advised by [Prof. Mayank Singh](https://mayank4490.github.io/). My research broadly lay at the intersection of Robust and Interpretable NLP, where I focused on _assessing factuality, toxicity, and safety in large language models_. I was particularly interested in building interpretable and explainable NLP systems that are reliable across diverse languages and cultures. <br />
+I **completed my Ph.D.** at [IIT Gandhinagar](https://iitgn.ac.in/) 🇮🇳, advised by [Prof. Mayank Singh](https://mayank4490.github.io/). My research broadly lay at the intersection of Robust and Interpretable NLP, where I focused on _assessing factuality, toxicity, and safety in large language models_. I was particularly interested in building interpretable and explainable NLP systems that are reliable across diverse languages and cultures. <br />
 
 During my Ph.D., I was a **Visiting PhD Intern** at the [University of Virginia](https://www.virginia.edu/) 🇺🇸, working with [Prof. Thomas Hartvigsen](https://www.tomhartvigsen.com/) on multilingual and interpretable content moderation. Together, our works showed that safety systems built for English alone fail to generalize, motivating multilingual safety moderation, cross-lingual detoxification, and interpretable methods to surface the hidden criteria that communities actually use to enforce their norms. <br />
 
@@ -117,7 +117,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 - **[UnityAI-Guard 2.0]** Extends toxicity detection to 17 fine-grained categories across six Indian languages (Bengali, Odia, Malayalam, Kannada, Hindi, Gujarati) ([Try here](https://lingo.iitgn.ac.in/unity-ai-guard-2/)).
 - **[Backdoor Attacks in CV + NLP]** Demonstrates backdooring in YOLO (trigger causes person non-detection; ([check here](https://bit.ly/poisoning_videos)). and analogous backdoor vulnerabilities in classification ([try here](https://huggingface.co/spaces/himanshubeniwal/BondIsGoodorBad)), generation ([try here](https://huggingface.co/spaces/himanshubeniwal/iPhoneIsGoodOrBad)), and translation ([try here](https://huggingface.co/spaces/himanshubeniwal/FakeAgreement)). 
 
-## Publications (Citations: 291) 📚
+## Publications (Citations: 302) 📚
 - **DEPART: DEcomposing PARiTy across Multilingual LLMs**
   <br>
   Manan Uppadhyay, Prashant Kodali, Pranjal Chitale, Reshma Ramaprasad, **Himanshu Beniwal**, Sunayana Sitaram
