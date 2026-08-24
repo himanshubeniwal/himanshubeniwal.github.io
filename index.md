@@ -39,6 +39,12 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
 
 ## News 🔊
+- **[September 2026]** Presenting at [ResAI 2026: Resilience and AI Workshop](https://scads.github.io/ResAI/). 
+- **[September 2026]** Presenting at the Panel at [4th IÖR Conference “Space & Transformation”](https://conference.ioer.info/). 
+- **[September 2026]** Attending the [EUTOPIA Impact School 2026](https://tu-dresden.de/ga/qualifizierung/eutopia/eutopia-impact-school-2026-jetzt-bewerben).
+- **[September 2026]** Attending the [Germany-Poland-Czechia Workshop on Neurosymbolic and Trustworthy AI](https://sites.google.com/view/de-pl-cz-workshop).
+- **[September 2026]** Presenting a talk at [Resilient AI: Securing Large Language Models](https://events.scads.ai/event/143/)! 
+- **[August 2026]** [DEPART](https://arxiv.org/abs/2605.28163) got accepted at EMNLP '26 🇭🇺!
 - **[July 2026]** "_The State and Fate of Multilingual, Contextual Evaluation_" is accepted at [COLM 2026](https://colmweb.org/)! [Check here!](https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/) 🔥
 - **[July 2026]** Joined Post-Doctorate at [ScaDS.AI](https://scads.ai/) / [Technische Universität Dresden — TU Dresden](https://tu-dresden.de/) 🇩🇪 with [Prof. Michael Färber](https://faerber-lab.github.io/). 🎉🔥
 - **[May 2026]** Defended my PhD thesis! 🎉🎉🎉
@@ -117,7 +123,14 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 - **[UnityAI-Guard 2.0]** Extends toxicity detection to 17 fine-grained categories across six Indian languages (Bengali, Odia, Malayalam, Kannada, Hindi, Gujarati) ([Try here](https://lingo.iitgn.ac.in/unity-ai-guard-2/)).
 - **[Backdoor Attacks in CV + NLP]** Demonstrates backdooring in YOLO (trigger causes person non-detection; ([check here](https://bit.ly/poisoning_videos)). and analogous backdoor vulnerabilities in classification ([try here](https://huggingface.co/spaces/himanshubeniwal/BondIsGoodorBad)), generation ([try here](https://huggingface.co/spaces/himanshubeniwal/iPhoneIsGoodOrBad)), and translation ([try here](https://huggingface.co/spaces/himanshubeniwal/FakeAgreement)). 
 
-## Publications (Citations: 309) 📚
+## Publications (Citations: 310) 📚
+- **From Universal Knowledge Graphs to Contextual Semantic Contracts**
+  <br>
+  **Himanshu Beniwal**, Michael Faerber
+  <br>**Preprint - May 2026**
+  <br>
+  [[PDF Soon](#)] 
+
 - **DEPART: DEcomposing PARiTy across Multilingual LLMs**
   <br>
   Manan Uppadhyay, Prashant Kodali, Pranjal Chitale, Reshma Ramaprasad, **Himanshu Beniwal**, Sunayana Sitaram
@@ -130,7 +143,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
   Arya Shah, **Himanshu Beniwal**, Mayank Singh, Chaklam Silpasuwanchai
   <br>**Preprint - May 2026**
   <br>
-  [[PDF Soon](#)]
+  [[PDF]([#](https://arxiv.org/abs/2606.08451))]
 
 - **Where Does Toxicity Live? Mechanistic Localization and Targeted Suppression in Language Models**
   <br>
@@ -369,7 +382,7 @@ using seqŵseq and transformers variations like generative, bi-encoder, poly-enc
 -----
 
 
-_Last updated: August 20, 2026_
+_Last updated: August 24, 2026_
 
 [old](./another-page.html)
 
