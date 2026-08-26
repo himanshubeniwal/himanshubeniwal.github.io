@@ -134,7 +134,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 - **DEPART: DEcomposing PARiTy across Multilingual LLMs**
   <br>
   Manan Uppadhyay, Prashant Kodali, Pranjal Chitale, Reshma Ramaprasad, **Himanshu Beniwal**, Sunayana Sitaram
-  <br>**Preprint - May 2026**
+  <br>**EMNLP 2026 (Findings) 🇭🇺**
   <br>
   [[PDF](https://arxiv.org/abs/2605.28163)]
   
