@@ -43,7 +43,8 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 - **[September 2026]** Presenting at the Panel at [4th IÖR Conference “Space & Transformation”](https://conference.ioer.info/). 
 - **[September 2026]** Attending the [EUTOPIA Impact School 2026](https://tu-dresden.de/ga/qualifizierung/eutopia/eutopia-impact-school-2026-jetzt-bewerben).
 - **[September 2026]** Attending the [Germany-Poland-Czechia Workshop on Neurosymbolic and Trustworthy AI](https://sites.google.com/view/de-pl-cz-workshop).
-- **[September 2026]** Presenting a talk at [Resilient AI: Securing Large Language Models](https://events.scads.ai/event/143/)! 
+- **[September 2026]** Presenting a talk at [Resilient AI: Securing Large Language Models](https://events.scads.ai/event/143/)!
+- **[August 2026]** Our visionary idea paper on _"From Universal Knowledge Graphs to Contextual Semantic Contracts"_ got accepted at ISWC 2026. 
 - **[August 2026]** [DEPART](https://arxiv.org/abs/2605.28163) got accepted at EMNLP '26 🇭🇺!
 - **[July 2026]** "_The State and Fate of Multilingual, Contextual Evaluation_" is accepted at [COLM 2026](https://colmweb.org/)! [Check here!](https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/) 🔥
 - **[July 2026]** Joined Post-Doctorate at [ScaDS.AI](https://scads.ai/) / [Technische Universität Dresden — TU Dresden](https://tu-dresden.de/) 🇩🇪 with [Prof. Michael Färber](https://faerber-lab.github.io/). 🎉🔥
