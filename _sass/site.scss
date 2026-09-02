@@ -494,20 +494,6 @@ h3:hover .heading-anchor { opacity: 1; }
   box-shadow: var(--shadow-sm);
 }
 
-.hero-eyebrow .dot {
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: #22b07d;
-  box-shadow: 0 0 0 3px rgba(34, 176, 125, 0.18);
-  animation: pulse 2.4s ease-in-out infinite;
-}
-
-@keyframes pulse {
-  0%, 100% { box-shadow: 0 0 0 3px rgba(34, 176, 125, 0.18); }
-  50%      { box-shadow: 0 0 0 6px rgba(34, 176, 125, 0.05); }
-}
-
 .hero h1 {
   font-size: clamp(1.9rem, 3.6vw, 2.55rem);
   margin: 0 0 8px;

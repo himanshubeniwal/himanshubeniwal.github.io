@@ -7,7 +7,7 @@ description: >-
 ---
 
 <div class="hero">
-  <span class="hero-eyebrow"><span class="dot"></span> Open to collaborations</span>
+  <span class="hero-eyebrow">Multilingual NLP · AI Safety · Interpretability</span>
   <h1>Namaste, I&rsquo;m Himanshu Beniwal 🙏🏻</h1>
   <p class="hero-tagline">
     Postdoctoral Researcher at <a href="https://scads.ai/">ScaDS.AI</a>,
@@ -26,9 +26,9 @@ description: >-
 <ul class="fact-strip">
   <li><span class="fact-num">20</span><span class="fact-label">Publications</span></li>
   <li><span class="fact-num">310</span><span class="fact-label">Citations</span></li>
-  <li><span class="fact-num">4</span><span class="fact-label">Fellowships</span></li>
-  <li><span class="fact-num">14</span><span class="fact-label">Courses TA&rsquo;d</span></li>
-  <li><span class="fact-num">5</span><span class="fact-label">Live demos</span></li>
+  <li><span class="fact-num">4</span><span class="fact-label">Fellowships &amp; Awards</span></li>
+  <li><span class="fact-num">15</span><span class="fact-label">Teaching Assignments</span></li>
+  <li><span class="fact-num">5</span><span class="fact-label">Live Projects</span></li>
 </ul>
 
 ## About Me 🫡
@@ -166,7 +166,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 - **[June 2024]** Gave a talk at India-ML Reading Group on "Editing LLMs"! 🤩 ([Recording](https://youtu.be/g38gQ8ykUSw))
 - **[March 2024]** XME Made it to [EACL 2024](https://2024.eacl.org/), March 17-22, 2024, at St. Julian's, Malta! 🇲🇹
 - **[March 2024]** Gave a talk on "Editing Large Language Models" at Google Research India, Bangalore, India!! 🇮🇳
-- **[March 2024]** Attended [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024), March 3-4, 2024, at IIT Indore, India.
+- **[March 2024]** Attended [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024.html), March 3-4, 2024, at IIT Indore, India.
 - **[Feb 2024]** Attended [Research Week with Google 2024](https://sites.google.com/view/researchweek24/home), Feb 1-3, 2024, at Bengaluru, India.
 - **[Jan 2024]** [XME](https://arxiv.org/abs/2401.10521) is now on ArXiv 🕸️!
 - **[Dec 2023]** [Gandhipedia](https://gandhipedia150.in/), a project of National Importance by joint initiative of IIT Kharagpur, IIT Gandhinagar, and NCSM (Kolkata), under the aegis of The Ministry of Culture, Government of India, was launched! 📢📢📢
@@ -194,7 +194,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 ## Education 👨🏻‍🎓
 {: #education}
 
-- <span class="card-title">[Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/)</span><span class="card-sub">_Doctor of Philosophy_ in _Computer Science and Engineering_</span><span class="card-meta"><span class="badge">2021 – Present</span> <span class="badge">CPI: 10 / 10</span></span><span class="card-note">Thesis: Assessing Factuality and Toxicity in Large Language Models</span>
+- <span class="card-title">[Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/)</span><span class="card-sub">_Doctor of Philosophy_ in _Computer Science and Engineering_</span><span class="card-meta"><span class="badge">2021 – 2026</span> <span class="badge">CPI: 10 / 10</span></span><span class="card-note">Thesis: Assessing Factuality and Toxicity in Large Language Models</span>
 - <span class="card-title">[Central University of Punjab](http://cup.edu.in/)</span><span class="card-sub">_Master of Technology_ in _Computer Science and Technology_</span><span class="card-meta"><span class="badge">2019 – 2021</span> <span class="badge badge-gold">Rank 1 · Gold Medalist</span></span><span class="card-note">Thesis: Assessing Empathetic Capabilities in Conversational Approaches</span>
 - <span class="card-title">[Hemvati Nandan Bahuguna Garhwal University (A Central University)](https://www.hnbgu.ac.in/home)</span><span class="card-sub">_Bachelor of Technology_ in _Computer Science and Engineering_</span><span class="card-meta"><span class="badge">2015 – 2019</span> <span class="badge badge-gold">Rank 1</span></span><span class="card-note">Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA</span>
 {: .edu-list}
@@ -268,7 +268,7 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 - <span class="pub-title">Remember This Event That Year? 🤔 Assessing Temporal Information and Reasoning in Large Language Models</span><span class="pub-authors">**Himanshu Beniwal**, Dishant Patel, Kowsik Nandagopan D, Hritik Ladia, Ankit Yadav, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2024 🇺🇸</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2402.11997) [<i class="fa-solid fa-globe"></i> Website 🤔](./TempUN/TempUN.html)</span></span>
 - <span class="pub-title">Cross-lingual Editing in Multilingual Language Models</span><span class="pub-authors">**Himanshu Beniwal**, Kowsik Nandagopan D, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EACL 2024 🇲🇹</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2401.10521) [<i class="fa-solid fa-globe"></i> Website 🕸️](./XME/XME.html)</span></span>
 - <span class="pub-title">A survey on near-human conversational agents</span><span class="pub-authors">Satwinder Singh, **Himanshu Beniwal**</span><span class="pub-meta-row"><span class="pub-venue">JKSU-CIS 2021</span><span class="pub-note">Journal of King Saud University — Computer and Information Sciences, 1319-1578, 2021 · IF: 13.473 (2021)</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://doi.org/10.1016/j.jksuci.2021.10.013)</span></span>
-- <span class="pub-title">Handwritten Digit Recognition using Machine Learning</span><span class="pub-authors">Narender Kumar, **Himanshu Beniwal**</span><span class="pub-meta-row"><span class="pub-venue">IJCSE 2018</span><span class="pub-note">International Journal of Computer Sciences and Engineering, Vol. 06, Issue 05, pp. 96-100, 2018 · IF: 3.218 (2018)</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://www.ijcseonline.org/full_spl_paper_view.php?paper_id=429)</span></span>
+- <span class="pub-title">Handwritten Digit Recognition using Machine Learning</span><span class="pub-authors">Narender Kumar, **Himanshu Beniwal**</span><span class="pub-meta-row"><span class="pub-venue">IJCSE 2018</span><span class="pub-note">International Journal of Computer Sciences and Engineering, Vol. 06, Issue 05, pp. 96-100, 2018 · IF: 3.218 (2018)</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://www.ijcseonline.org/full_spl_paper_view.php?paper_id=429) [<i class="fa-solid fa-box-archive"></i> Archived](https://web.archive.org/web/20240905082051/https://www.ijcseonline.org/full_spl_paper_view.php?paper_id=429)</span></span>
 {: .pub-list}
 
 ## Posters &amp; Talks 🔊
@@ -278,7 +278,7 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 - **[March 2025]** Talk on "_GenAI in HealthCare_", at [Google Developer Group - Silver Oak University](https://gdg.community.dev/events/details/google-gdg-on-campus-silver-oak-university-ahmedabad-india-presents-the-next-frontier-ai-in-healthcare/), Ahmedabad, India 🇮🇳!!
 - **[Sept 2024]** Talk on "Editing Large Language Models", MilaNLP, Italy! 🇮🇹
 - **[March 2024]** Talk on "Editing Large Language Models", Google Research India, Bangalore, India.
-- **[March 2024]** [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024), "Cross-lingual Editing in Multilingual Language Models", at IIT Indore.
+- **[March 2024]** [PMRF Symposium 2024](https://www.pmrf.in/symposium-2024.html), "Cross-lingual Editing in Multilingual Language Models", at IIT Indore.
 - **[Feb 2024]** [Research Week with Google **2024**] at Google Research India, Bangalore, India, on *'XME: Cross-lingual Model Editing in LLMs'*.
 - **[January 2024]** [PhD Research Showcase **2024**] at IIT Gandhinagar, India, on *'Temporal Learnings in LLMs'*.
 - **[August 2023]** [PhD Research Showcase **2023**] at IIT Gandhinagar, India, on *'XME: Cross-lingual Model Editing in LLMs'*.
