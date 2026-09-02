@@ -100,7 +100,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
     </div>
   </li>
   <li>
-    <span class="org-logo org-iitrpr" aria-hidden="true">IITR</span>
+    <span class="org-logo org-iitrpr" aria-hidden="true">IITRPR</span>
     <div class="org-body">
       <span class="card-title">Social Networks Analysis Research Intern</span>
       <span class="card-sub"><a href="https://www.iitrpr.ac.in/">Indian Institute of Technology Ropar</a></span>
