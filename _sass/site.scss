@@ -901,6 +901,22 @@ h3:hover .heading-anchor { opacity: 1; }
   }
 }
 
+// Placeholder for a paper whose PDF is not out yet: reads like the link
+// pills beside it but is deliberately inert rather than an href="#".
+.pub-link-soon {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 2px 10px;
+  border-radius: 6px;
+  font-size: 0.755rem;
+  font-weight: 600;
+  color: var(--muted);
+  background: var(--surface-2);
+  border: 1px dashed var(--border-strong);
+  cursor: default;
+}
+
 .pub-meta-row {
   display: flex;
   flex-wrap: wrap;
