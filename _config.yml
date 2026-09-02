@@ -1,40 +1,110 @@
+# ---------------------------------------------------------------------
+#  Site identity
+# ---------------------------------------------------------------------
+url: https://himanshubeniwal.github.io
+baseurl: ""
+
 title: Himanshu Beniwal
+role: Postdoctoral Researcher
+tagline: Multilingual NLP · AI Safety · Interpretability
 logo: /socials/mypic.jpeg
-description: Post-Doctoral Researcher at ScaDS.AI / TU Dresden.
-google_analytics:
-theme: jekyll-theme-minimal
+description: >-
+  Postdoctoral Researcher at ScaDS.AI / TU Dresden working on multilingual NLP,
+  AI safety, and mechanistic interpretability for reliable and truthful LLMs.
 affiliation: ScaDS.AI / Technische Universität Dresden
+location: Dresden, Germany 🇩🇪
 email: himanshu.beniwal@tu-dresden.de
-another_url: another value
+research_areas: Multilingual NLP · AI Safety · Interpretability
 
-keywords: minimal academic
-canonical: https://minimal-light.yyliu.net/
+lang: en          # site language (en, fr, cn, ru, ...)
+icon: 👨🏻‍💻        # emoji used as the favicon
+theme: jekyll-theme-minimal
+keywords: >-
+  Himanshu Beniwal, multilingual NLP, AI safety, mechanistic interpretability,
+  model editing, toxicity mitigation, large language models, ScaDS.AI, TU Dresden,
+  IIT Gandhinagar
 
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 👨🏻‍💻 # the emoji used as the favicon
-remote_theme: yaoyao-liu/minimal-light
-
+# ---------------------------------------------------------------------
+#  Profiles
+# ---------------------------------------------------------------------
 google_scholar: https://scholar.google.co.in/citations?user=wXkqUU8AAAAJ&hl=en
-github_link: https://github.com/himanshubeniwal/
-linkedin: https://www.linkedin.com/in/himanshubeniwal/
-twitter: https://twitter.com/HimanshuBeniwaI
+github_link:    https://github.com/himanshubeniwal/
+linkedin:       https://www.linkedin.com/in/himanshubeniwal/
+twitter:        https://twitter.com/HimanshuBeniwaI
+huggingface:    https://huggingface.co/himanshubeniwal
+instagram:      https://www.instagram.com/himanshubeniwal_/
 
-enable_google_analytics:    true  # enables google analytics
-enable_panelbear_analytics: true  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
-enable_bing_verification:   false  # enables bing site verification
-enable_mansory:             true   # enables automatic project cards arangement
-enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
-                                   # for each section titles on pages and posts
-enable_darkmode:            false   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
-                                   # navbar on the about page
-enable_project_categories:  true   # enables categorization of projects into
-                                   # multiple categories
-enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
+# ---------------------------------------------------------------------
+#  Sidebar navigation (anchors resolve against the home page)
+# ---------------------------------------------------------------------
+nav:
+  - name: About
+    url: "#about"
+    icon: "fa-solid fa-user"
+  - name: News
+    url: "#news"
+    icon: "fa-solid fa-bullhorn"
+  - name: Research Interests
+    url: "#research-interests"
+    icon: "fa-solid fa-lightbulb"
+  - name: Publications
+    url: "#publications"
+    icon: "fa-solid fa-book-open"
+  - name: Live Projects
+    url: "#live-projects"
+    icon: "fa-solid fa-rocket"
+  - name: Talks & Posters
+    url: "#talks"
+    icon: "fa-solid fa-microphone-lines"
+  - name: Education
+    url: "#education"
+    icon: "fa-solid fa-graduation-cap"
+  - name: Teaching
+    url: "#teaching"
+    icon: "fa-solid fa-chalkboard-user"
+  - name: Service
+    url: "#community"
+    icon: "fa-solid fa-people-group"
+  - name: Media Coverage
+    url: "#coverage"
+    icon: "fa-solid fa-newspaper"
+  - name: Notebooks
+    url: "#notebooks"
+    icon: "fa-solid fa-book"
+  - name: Past Projects
+    url: "#projects"
+    icon: "fa-solid fa-flask"
+  - divider: true
+  - name: Posters / Talks Gallery
+    url: "/another-page4.html"
+    icon: "fa-solid fa-images"
+  - name: Memories
+    url: "/memories.html"
+    icon: "fa-solid fa-camera-retro"
 
-# The following files will be removed from the generated website.
+# ---------------------------------------------------------------------
+#  Feature switches
+# ---------------------------------------------------------------------
+enable_math:                true   # MathJax typesetting
+enable_darkmode:            true   # light / dark theme toggle
+enable_medium_zoom:         true   # click-to-zoom on images
+enable_google_analytics:    true
+enable_panelbear_analytics: true
+enable_google_verification: false
+enable_bing_verification:   false
+enable_mansory:             true
+enable_tooltips:            false
+enable_navbar_social:       false
+enable_project_categories:  true
+
+google_analytics:
+
+plugins:
+  - jekyll-seo-tag
+
+# ---------------------------------------------------------------------
+#  Excluded from the generated site
+# ---------------------------------------------------------------------
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -44,3 +114,7 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
+  - jekyll-theme-minimal.gemspec
+  - script
+  - .travis.yml
+  - .rubocop.yml
