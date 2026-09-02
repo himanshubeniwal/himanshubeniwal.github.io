@@ -44,6 +44,9 @@ nav:
   - name: News
     url: "#news"
     icon: "fa-solid fa-bullhorn"
+  - name: Experience
+    url: "#experience"
+    icon: "fa-solid fa-briefcase"
   - name: Research Interests
     url: "#research-interests"
     icon: "fa-solid fa-lightbulb"

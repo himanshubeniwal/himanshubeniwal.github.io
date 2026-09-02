@@ -24,10 +24,10 @@ description: >-
 </div>
 
 <ul class="fact-strip">
-  <li><span class="fact-num">20</span><span class="fact-label">Publications</span></li>
-  <li><span class="fact-num">310</span><span class="fact-label">Citations</span></li>
-  <li><span class="fact-num">4</span><span class="fact-label">Fellowships &amp; Awards</span></li>
-  <li><span class="fact-num">15</span><span class="fact-label">Teaching Assignments</span></li>
+  <li><span class="fact-num">21</span><span class="fact-label">Publications</span></li>
+  <li><span class="fact-num">314</span><span class="fact-label">Citations</span></li>
+  <li><span class="fact-num">5</span><span class="fact-label">Fellowships &amp; Awards</span></li>
+  <li><span class="fact-num">16</span><span class="fact-label">Teaching Assignments</span></li>
   <li><span class="fact-num">5</span><span class="fact-label">Live Projects</span></li>
 </ul>
 
@@ -46,7 +46,7 @@ During my Ph.D., I was also a **PhD Intern** at [Microsoft Research India](https
 <div class="callout" markdown="1">
 <span class="callout-icon">🏅</span>
 
-_**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](https://pmrf.in/), [Microsoft Research India PhD Award '25](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/), and [Overseas Research Fellowship '24](https://iitgn.ac.in/academics/phd); and am a recipient of the [Fulbright-Nehru Doctoral Fellowship '25](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/).
+_**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](https://pmrf.in/), [Microsoft Research India PhD Award '25](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/), and [Overseas Research Fellowship '24](https://iitgn.ac.in/academics/phd); and am a recipient of the [Fulbright-Nehru Doctoral Fellowship '25](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/). Our work on _Cross-lingual Model Editing_ with [Prof. Mayank Singh](https://mayank4490.github.io/) was also supported by a [Microsoft Accelerate Foundation Models Research](https://www.microsoft.com/en-us/research/project/afmr-multicultural-analysis-and-empowerment/) award (Sept 2023).
 
 </div>
 
@@ -58,6 +58,57 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 - 😄 Fav mathematical equation: The magic of Euler's Identity; $$e^{i \pi} + 1 = 0$$
 - ⚡ Fun fact: <b>Traveling the 🌎 with 🖤 for espresso ☕️ &amp; crazy for 💻.</b>
 {: .facts-list}
+
+## Experience 🧑🏻‍🔬
+{: #experience}
+
+<ul class="org-list">
+  <li>
+    <span class="org-logo org-tud" aria-hidden="true">TUD</span>
+    <div class="org-body">
+      <span class="card-title">Postdoctoral Researcher</span>
+      <span class="card-sub"><a href="https://tu-dresden.de/">Technische Universität Dresden</a> · <a href="https://scads.ai/">ScaDS.AI</a></span>
+      <span class="card-meta"><span class="badge">July 2026 – June 2028</span> <span class="chip">Dresden, Germany 🇩🇪</span></span>
+      <span class="card-note">Trustworthy and Robust LLMs for Multilingual Natural Language Processing, with <a href="https://faerber-lab.github.io/">Prof. Michael Färber</a>.</span>
+    </div>
+  </li>
+  <li>
+    <span class="org-logo org-msr" aria-hidden="true">MSR</span>
+    <div class="org-body">
+      <span class="card-title">PhD Research Intern</span>
+      <span class="card-sub"><a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research India</a></span>
+      <span class="card-meta"><span class="badge">February 2026 – May 2026</span> <span class="chip">Bangalore, India 🇮🇳</span></span>
+      <span class="card-note">Multicultural, multilingual and multimodal evaluation, with <a href="https://www.microsoft.com/en-us/research/people/susitara/">Dr. Sunayana Sitaram</a>. Recipient of the <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/">Microsoft Research India PhD Award 2025</a>.</span>
+    </div>
+  </li>
+  <li>
+    <span class="org-logo org-uva" aria-hidden="true">UVA</span>
+    <div class="org-body">
+      <span class="card-title">PhD Research Intern</span>
+      <span class="card-sub"><a href="https://www.virginia.edu/">University of Virginia</a></span>
+      <span class="card-meta"><span class="badge">August 2024 – January 2025</span> <span class="chip">Charlottesville, VA, USA 🇺🇸</span></span>
+      <span class="card-note">Cross-lingual detoxification in LLMs using model editing, with <a href="https://www.tomhartvigsen.com/">Prof. Tom Hartvigsen</a> and <a href="https://sdan2.github.io/">Dr. Soham Dan</a>. Supported by the Overseas Research Fellowship from IIT Gandhinagar.</span>
+    </div>
+  </li>
+  <li>
+    <span class="org-logo org-hnbgu" aria-hidden="true">HNB</span>
+    <div class="org-body">
+      <span class="card-title">Research Student — CodeStream Research Group</span>
+      <span class="card-sub"><a href="https://www.hnbgu.ac.in/home">H. N. B. Garhwal University (A Central University)</a></span>
+      <span class="card-meta"><span class="badge">April 2018 – May 2019</span> <span class="chip">Srinagar Garhwal, India 🇮🇳</span></span>
+      <span class="card-note">Deep Q-Learning algorithms for self-driving cars, with <a href="https://doonuniversity.ac.in/index.php/ST_Comp/faculty_details/94">Prof. Narender Kumar Rawal</a>.</span>
+    </div>
+  </li>
+  <li>
+    <span class="org-logo org-iitrpr" aria-hidden="true">IITR</span>
+    <div class="org-body">
+      <span class="card-title">Social Networks Analysis Research Intern</span>
+      <span class="card-sub"><a href="https://www.iitrpr.ac.in/">Indian Institute of Technology Ropar</a></span>
+      <span class="card-meta"><span class="badge">May 2018 – August 2018</span> <span class="chip">Rupnagar, India 🇮🇳</span></span>
+      <span class="card-note">Node sampling techniques and centrality measures in large-scale networks, with <a href="https://www.iitrpr.ac.in/sudarshan-iyengar">Prof. Sudarshan Iyengar</a>.</span>
+    </div>
+  </li>
+</ul>
 
 ## Research Interests 🤯
 {: #research-interests}
@@ -94,29 +145,40 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 {: #skills}
 
 <div class="chip-group">
-  <span class="chip-group-label"><i class="fa-solid fa-code" aria-hidden="true"></i> Programming</span>
+  <span class="chip-group-label"><i class="fa-solid fa-code" aria-hidden="true"></i> Languages</span>
   <span class="chip chip-accent">Python</span>
   <span class="chip chip-accent">R</span>
-  <span class="chip chip-accent">C</span>
+  <span class="chip chip-accent">C / C++</span>
 </div>
 
 <div class="chip-group">
   <span class="chip-group-label"><i class="fa-solid fa-globe" aria-hidden="true"></i> Web Technologies</span>
+  <span class="chip">HTML</span>
+  <span class="chip">CSS</span>
   <span class="chip">JavaScript</span>
-  <span class="chip">Flask</span>
-  <span class="chip">ReactJS</span>
   <span class="chip">Bootstrap</span>
+  <span class="chip">React JS</span>
+  <span class="chip">Flask</span>
 </div>
 
 <div class="chip-group">
-  <span class="chip-group-label"><i class="fa-solid fa-cubes" aria-hidden="true"></i> Libraries &amp; Frameworks</span>
+  <span class="chip-group-label"><i class="fa-solid fa-brain" aria-hidden="true"></i> ML / DL Frameworks</span>
   <span class="chip">PyTorch</span>
+  <span class="chip">Keras</span>
   <span class="chip">TensorFlow</span>
-  <span class="chip">Transformers</span>
-  <span class="chip">NLTK</span>
   <span class="chip">OpenCV</span>
+  <span class="chip">Azure ML Studio</span>
+</div>
+
+<div class="chip-group">
+  <span class="chip-group-label"><i class="fa-solid fa-language" aria-hidden="true"></i> NLP Libraries</span>
+  <span class="chip">NLTK</span>
+  <span class="chip">spaCy</span>
+  <span class="chip">Hugging Face</span>
+  <span class="chip">ParlAI</span>
   <span class="chip">ElasticSearch</span>
   <span class="chip">Flair</span>
+  <span class="chip">Stanza</span>
   <span class="chip">Trankit</span>
   <span class="chip">TextAttack</span>
   <span class="chip">SeqAttack</span>
@@ -194,10 +256,35 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 ## Education 👨🏻‍🎓
 {: #education}
 
-- <span class="card-title">[Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/)</span><span class="card-sub">_Doctor of Philosophy_ in _Computer Science and Engineering_</span><span class="card-meta"><span class="badge">2021 – 2026</span> <span class="badge">CPI: 10 / 10</span></span><span class="card-note">Thesis: Assessing Factuality and Toxicity in Large Language Models</span>
-- <span class="card-title">[Central University of Punjab](http://cup.edu.in/)</span><span class="card-sub">_Master of Technology_ in _Computer Science and Technology_</span><span class="card-meta"><span class="badge">2019 – 2021</span> <span class="badge badge-gold">Rank 1 · Gold Medalist</span></span><span class="card-note">Thesis: Assessing Empathetic Capabilities in Conversational Approaches</span>
-- <span class="card-title">[Hemvati Nandan Bahuguna Garhwal University (A Central University)](https://www.hnbgu.ac.in/home)</span><span class="card-sub">_Bachelor of Technology_ in _Computer Science and Engineering_</span><span class="card-meta"><span class="badge">2015 – 2019</span> <span class="badge badge-gold">Rank 1</span></span><span class="card-note">Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA</span>
-{: .edu-list}
+<ul class="org-list">
+  <li>
+    <span class="org-logo org-iitgn" aria-hidden="true">IITGN</span>
+    <div class="org-body">
+      <span class="card-title"><a href="https://iitgn.ac.in/">Indian Institute of Technology Gandhinagar</a></span>
+      <span class="card-sub"><em>Doctor of Philosophy</em> in <em>Computer Science &amp; Engineering</em></span>
+      <span class="card-meta"><span class="badge">July 2021 – June 2026</span> <span class="badge">CPI: 10 / 10</span> <span class="badge badge-gold">Prime Minister&rsquo;s Research Fellow</span></span>
+      <span class="card-note">Thesis: Assessing Factuality and Toxicity in Large Language Models. Supervisor: <a href="https://mayank4490.github.io/">Prof. Mayank Singh</a>.</span>
+    </div>
+  </li>
+  <li>
+    <span class="org-logo org-cup" aria-hidden="true">CUP</span>
+    <div class="org-body">
+      <span class="card-title"><a href="http://cup.edu.in/">Central University of Punjab</a></span>
+      <span class="card-sub"><em>Master of Technology</em> in <em>Computer Science &amp; Technology</em></span>
+      <span class="card-meta"><span class="badge">July 2019 – July 2021</span> <span class="badge">CGPA: 8.02 / 10</span> <span class="badge badge-gold">Rank 1 · Gold Medal</span></span>
+      <span class="card-note">Thesis: Assessing Empathetic Capabilities in Conversational Approaches. Supervisor: <a href="https://cup.edu.in/Dr_Satwinder_Singh.php">Prof. Satwinder Singh</a>.</span>
+    </div>
+  </li>
+  <li>
+    <span class="org-logo org-hnbgu" aria-hidden="true">HNB</span>
+    <div class="org-body">
+      <span class="card-title"><a href="https://www.hnbgu.ac.in/home">Hemvati Nandan Bahuguna Garhwal University (A Central University)</a></span>
+      <span class="card-sub"><em>Bachelor of Technology</em> in <em>Computer Science &amp; Engineering</em></span>
+      <span class="card-meta"><span class="badge">July 2015 – June 2019</span> <span class="badge">CGPA: 8.37 / 10</span> <span class="badge badge-gold">Rank 1</span></span>
+      <span class="card-note">Thesis: Autonomous Driving System simulation using Deep Q-Learning in CARLA. Supervisor: <a href="https://doonuniversity.ac.in/index.php/ST_Comp/faculty_details/94">Prof. Narender Kumar Rawal</a>.</span>
+    </div>
+  </li>
+</ul>
 
 ## Live Projects 📽️
 {: #live-projects}
@@ -245,28 +332,29 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 {: #publications}
 
 <p class="lead">
-  <span class="badge"><i class="fa-solid fa-quote-left" aria-hidden="true"></i> Citations: 310</span>
+  <span class="badge"><i class="fa-solid fa-quote-left" aria-hidden="true"></i> Citations: 314</span>
   <a class="badge" href="https://scholar.google.com/citations?user=wXkqUU8AAAAJ&hl=en">Google Scholar profile →</a>
 </p>
 
-- <span class="pub-title">From Universal Knowledge Graphs to Contextual Semantic Contracts</span><span class="pub-authors">**Himanshu Beniwal**, Michael Faerber</span><span class="pub-meta-row"><span class="pub-venue is-preprint">Preprint · May 2026</span><span class="pub-links"><span class="pub-link-soon"><i class="fa-regular fa-file-pdf"></i> PDF soon</span></span></span>
-- <span class="pub-title">DEPART: DEcomposing PARiTy across Multilingual LLMs</span><span class="pub-authors">Manan Uppadhyay, Prashant Kodali, Pranjal Chitale, Reshma Ramaprasad, **Himanshu Beniwal**, Sunayana Sitaram</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · Findings 🇭🇺</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2605.28163)</span></span>
+- <span class="pub-title">From Universal Knowledge Graphs to Contextual Semantic Contracts</span><span class="pub-authors">**Himanshu Beniwal**, Michael Faerber</span><span class="pub-meta-row"><span class="pub-venue is-preprint">Preprint · May 2026</span><span class="pub-note">Core Rank: A</span><span class="pub-links"><span class="pub-link-soon"><i class="fa-regular fa-file-pdf"></i> PDF soon</span></span></span>
+- <span class="pub-title">DEPART: DEcomposing PARiTy across Multilingual LLMs</span><span class="pub-authors">Manan Uppadhyay, Prashant Kodali, Pranjal Chitale, Reshma Ramaprasad, **Himanshu Beniwal**, Sunayana Sitaram</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · Findings 🇭🇺</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2605.28163)</span></span>
 - <span class="pub-title">Sycophancy as a Multilingual Alignment Failure: How Safety Degrades Across Languages, Topics, and Models</span><span class="pub-authors">Arya Shah, **Himanshu Beniwal**, Mayank Singh, Chaklam Silpasuwanchai</span><span class="pub-meta-row"><span class="pub-venue is-preprint">Preprint · May 2026</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2606.08451)</span></span>
 - <span class="pub-title">Where Does Toxicity Live? Mechanistic Localization and Targeted Suppression in Language Models</span><span class="pub-authors">**Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue is-preprint">Preprint · May 2026</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2605.27997)</span></span>
 - <span class="pub-title">The State and Fate of Multilingual, Contextual Evaluation in the NLP World</span><span class="pub-authors">Manan Uppadhyay, **Himanshu Beniwal**, Prashant Kodali, Sunayana Sitaram</span><span class="pub-meta-row"><span class="pub-venue">COLM 2026 🇺🇸</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/)</span></span>
 - <span class="pub-title">One Instruction Does Not Fit All: How Well Do Embeddings Align Personas and Instructions in Low-Resource Indian Languages?</span><span class="pub-authors">Arya Shah, **Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue is-preprint">ArXiv · January 2026</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2601.10205)</span></span>
-- <span class="pub-title">A Survey of Toxicity Mitigation Strategies for Multilingual Language Models</span><span class="pub-authors">Soham Dan, **Himanshu Beniwal**, Thomas Hartvigsen</span><span class="pub-meta-row"><span class="pub-venue">ACL 2026 · Findings 🇺🇸</span><span class="pub-links"><span class="pub-link-soon"><i class="fa-regular fa-file-pdf"></i> PDF soon</span></span></span>
-- <span class="pub-title">Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models</span><span class="pub-authors">Rajvee Sheth, Samridhi Raj Sinha, Mahavir Patil, **Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">ACL 2026 · Main 🇺🇸</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2510.07037)</span></span>
-- <span class="pub-title">Decoding the Rule Book: Extracting Hidden Moderation Criteria from Reddit Communities</span><span class="pub-authors">Youngwoo Kim, **Himanshu Beniwal**, Steven L. Johnson, Thomas Hartvigsen</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2025 · Main 🇨🇳</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2509.02926)</span></span>
-- <span class="pub-title">COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing</span><span class="pub-authors">Rajvee Sheth, **Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2025 · Findings 🇨🇳</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2503.21670)</span></span>
-- <span class="pub-title">UNITYAI-GUARD: Pioneering Toxicity Detection Across Low-Resource Indian Languages</span><span class="pub-authors">**Himanshu Beniwal**, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Deekshith Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2025 · Demo 🇨🇳</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2503.23088) [<i class="fa-solid fa-globe"></i> Demo](https://lingo.iitgn.ac.in/unityai-guard/)</span></span>
+- <span class="pub-title">A Survey of Toxicity Detection and Mitigation Strategies for Multilingual Language Models</span><span class="pub-authors">Soham Dan, **Himanshu Beniwal**, Thomas Hartvigsen</span><span class="pub-meta-row"><span class="pub-venue">ACL 2026 · Findings 🇺🇸</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://aclanthology.org/2026.findings-acl.1780/)</span></span>
+- <span class="pub-title">Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models</span><span class="pub-authors">Rajvee Sheth, Samridhi Raj Sinha, Mahavir Patil, **Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">ACL 2026 · Main 🇺🇸</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2510.07037)</span></span>
+- <span class="pub-title">Decoding the Rule Book: Extracting Hidden Moderation Criteria from Reddit Communities</span><span class="pub-authors">Youngwoo Kim, **Himanshu Beniwal**, Steven L. Johnson, Thomas Hartvigsen</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2025 · Main 🇨🇳</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2509.02926)</span></span>
+- <span class="pub-title">COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing</span><span class="pub-authors">Rajvee Sheth, **Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2025 · Findings 🇨🇳</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2503.21670)</span></span>
+- <span class="pub-title">UNITYAI-GUARD: Pioneering Toxicity Detection Across Low-Resource Indian Languages</span><span class="pub-authors">**Himanshu Beniwal**, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Deekshith Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2025 · Demo 🇨🇳</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2503.23088) [<i class="fa-solid fa-globe"></i> Demo](https://lingo.iitgn.ac.in/unityai-guard/)</span></span>
 - <span class="pub-title">Char-mander Use mBackdoor! A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs</span><span class="pub-authors">**Himanshu Beniwal**, Sailesh Panda, Birudugadda Srivibhav, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">BlackboxNLP @ EMNLP 2025 🇨🇳</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2502.16901)</span></span>
 - <span class="pub-title">Breaking mBad! Supervised Fine-tuning for Cross-Lingual Detoxification</span><span class="pub-authors">**Himanshu Beniwal**, Youngwoo Kim, Maarten Sap, Soham Dan, Thomas Hartvigsen</span><span class="pub-meta-row"><span class="pub-venue">MELT @ COLM 2025 🇨🇦</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2505.16722)</span></span>
 - <span class="pub-title">PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages</span><span class="pub-authors">Priyanshu Kumar, Devansh Jain, Akhila Yerukola, Liwei Jiang, **Himanshu Beniwal**, Thomas Hartvigsen, Maarten Sap</span><span class="pub-meta-row"><span class="pub-venue">COLM 2025 🇨🇦</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2504.04377)</span></span>
 - <span class="pub-title">COMMENTATOR: A Code-mixed Multilingual Text Annotation Framework</span><span class="pub-authors">Rajvee Sheth, Shubh Nisar, Heenaben Prajapati, **Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2024 · Demo 🇺🇸</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2408.03125) [<i class="fa-solid fa-globe"></i> Website 🕸️](https://lingo.iitgn.ac.in/codemixing/)</span></span>
 - <span class="pub-title">PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLMs</span><span class="pub-authors">Ankit Yadav, **Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2024 🇺🇸</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2401.03855)</span></span>
 - <span class="pub-title">Remember This Event That Year? 🤔 Assessing Temporal Information and Reasoning in Large Language Models</span><span class="pub-authors">**Himanshu Beniwal**, Dishant Patel, Kowsik Nandagopan D, Hritik Ladia, Ankit Yadav, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2024 🇺🇸</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2402.11997) [<i class="fa-solid fa-globe"></i> Website 🤔](./TempUN/TempUN.html)</span></span>
-- <span class="pub-title">Cross-lingual Editing in Multilingual Language Models</span><span class="pub-authors">**Himanshu Beniwal**, Kowsik Nandagopan D, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EACL 2024 🇲🇹</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2401.10521) [<i class="fa-solid fa-globe"></i> Website 🕸️](./XME/XME.html)</span></span>
+- <span class="pub-title">Cross-lingual Editing in Multilingual Language Models</span><span class="pub-authors">**Himanshu Beniwal**, Kowsik Nandagopan D, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EACL 2024 🇲🇹</span><span class="pub-note">Core Rank: A</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2401.10521) [<i class="fa-solid fa-globe"></i> Website 🕸️](./XME/XME.html)</span></span>
+- <span class="pub-title">Explainable Transformer-based Anomaly Detection for IoT Security</span><span class="pub-authors">Aamir Saghir, **Himanshu Beniwal**, Kim Duc Tran, Ali Raza, Ludovic Koehl, Xianyi Zeng, Kim Phuc Tran</span><span class="pub-meta-row"><span class="pub-venue">EAI SaSeIoT 2023</span><span class="pub-note">International Conference on Safety and Security in IoT, pp. 83–109 · Springer Nature Switzerland</span><span class="pub-links">[<i class="fa-solid fa-book"></i> Springer](https://link.springer.com/chapter/10.1007/978-3-031-53028-9_6)</span></span>
 - <span class="pub-title">A survey on near-human conversational agents</span><span class="pub-authors">Satwinder Singh, **Himanshu Beniwal**</span><span class="pub-meta-row"><span class="pub-venue">JKSU-CIS 2021</span><span class="pub-note">Journal of King Saud University — Computer and Information Sciences, 1319-1578, 2021 · IF: 13.473 (2021)</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://doi.org/10.1016/j.jksuci.2021.10.013)</span></span>
 - <span class="pub-title">Handwritten Digit Recognition using Machine Learning</span><span class="pub-authors">Narender Kumar, **Himanshu Beniwal**</span><span class="pub-meta-row"><span class="pub-venue">IJCSE 2018</span><span class="pub-note">International Journal of Computer Sciences and Engineering, Vol. 06, Issue 05, pp. 96-100, 2018 · IF: 3.218 (2018)</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://www.ijcseonline.org/full_spl_paper_view.php?paper_id=429) [<i class="fa-solid fa-box-archive"></i> Archived](https://web.archive.org/web/20240905082051/https://www.ijcseonline.org/full_spl_paper_view.php?paper_id=429)</span></span>
 {: .pub-list}
@@ -293,12 +381,12 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 
 - _Volunteer_: _Communications Team_ at [ACL Rolling Review](http://aclrollingreview.org/) (April 24' - Present).
 - _Mentor_: _Research Mentor_ at [SimPPL](https://simppl.org/) (Jan 2024 - Present).
-- _Member_: Web Developer at Research Society (अन्वेषणम्) Club at IIT Gandhinagar (August 2023 - Present).
+- _Member_: Web Developer at [Research Society (अन्वेषणम्)](https://anveshanam.github.io/) at IIT Gandhinagar (August 2023 - Present).
 - _Organizer_: [IndoML 2023](https://indoml.in/)
 - _Volunteer_: [IndoML 2022](https://indoml.in/2022/), [ACM-IKDD Summer School 2022](https://labs.iitgn.ac.in/datascience/summer-school/)
 - _Conference Reviewer_: [LREC-COLING 2024](https://lrec-coling-2024.org/), [EACL CASE 2024](https://emw.ku.edu.tr/case-2024/), [EACL Demo 2024](https://2024.eacl.org/calls/demos/), [EAI SaSeIoT 2023](https://securityiot.eai-conferences.org/2023/), [EMNLP 2023](https://2023.emnlp.org/), [ICTIR 2023](https://sigir.org/ictir2023/), [ACL Workshop BigScience 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/BigScience), [DLSM 2021](https://easychair.org/cfp/smda2021)
 - _Journal Reviewer_: [ACI 2022](https://www.emeraldgrouppublishing.com/journal/aci)
-- _Organized 20+ workshops/hackathon events._ [Pictures 📸](https://iitgnacin-my.sharepoint.com/:f:/g/personal/21310012_iitgn_ac_in/EhSrF8avznZLjhtDLDp0jP0BsKAGKYqw4aIIqDshBSL6Rg?e=BH8G4v)
+- _Organized 20+ workshops/hackathon events._ [Pictures 📸](https://bit.ly/himanshu-event-pictures)
 - _Beta Reviewer_: Coursera
 - _Mentor_: _Summer Internship Mentor_ at RightApprise 2018
 - _Campus Representative/Ambassador_: Google Crowdsource 2019, GeeksforGeeks 2018-19, Internshala 2017-18
@@ -308,7 +396,24 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 ## Teaching Assistantships 🛳️
 {: #teaching}
 
-### Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)
+<div class="teach-group">
+  <span class="org-logo org-tulas" aria-hidden="true">TULA</span>
+  <div class="org-body">
+    <span class="card-title"><a href="https://www.tulas.edu.in/">Tula&rsquo;s Institute</a></span>
+    <span class="card-meta"><span class="badge">January 2026 – May 2026</span> <span class="chip">Dehradun, India 🇮🇳</span></span>
+  </div>
+</div>
+
+- _Artificial Intelligence and Natural Language Processing_, January 2026 to May 2026.
+{: .detail-list}
+
+<div class="teach-group">
+  <span class="org-logo org-daiict" aria-hidden="true">DAI</span>
+  <div class="org-body">
+    <span class="card-title"><a href="https://www.daiict.ac.in/">Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)</a></span>
+    <span class="card-meta"><span class="badge">January 2023 – May 2025</span> <span class="chip">Gandhinagar, India 🇮🇳</span></span>
+  </div>
+</div>
 
 - _IT549: Deep Learning_, 45+ students, Jan 2025 to May 2025, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
 - _DS605: Fundamentals of Machine Learning_, 65+ students, August 2024 to December 2024, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
@@ -317,12 +422,18 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 - _IT:492 Recommendation Systems_, Jan to May 2023, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
 {: .detail-list}
 
-### Indian Institute of Technology Gandhinagar
+<div class="teach-group">
+  <span class="org-logo org-iitgn" aria-hidden="true">IITGN</span>
+  <div class="org-body">
+    <span class="card-title"><a href="https://iitgn.ac.in/">Indian Institute of Technology Gandhinagar</a></span>
+    <span class="card-meta"><span class="badge">August 2021 – December 2025</span> <span class="chip">Gandhinagar, India 🇮🇳</span></span>
+  </div>
+</div>
 
 - _[CS:613 Natural Language Processing](https://sites.google.com/iitgn.ac.in/cs613-2025/home)_, August 2025 to December 2025, with [Prof. Mayank Singh](https://mayank4490.github.io/).
 - _[CS 203: Software Tools & Techniques for AI](https://sites.google.com/iitgn.ac.in/cs203-2025/home?pli=1&authuser=1)_, January 2025 to May 2025, with [Prof. Mayank Singh](https://mayank4490.github.io/).
 - _[CS:613 Natural Language Processing](https://sites.google.com/iitgn.ac.in/cs613-2024/home)_, August 2024 to December 2024, with [Prof. Mayank Singh](https://mayank4490.github.io/).
-- [**Graduate Teaching Fellow**] [Data Centric Computing](https://people.iitgn.ac.in/~gmanoj/DCC/), Jan 2024 to May 2024, with [Prof. Manoj Gupta](https://people.iitgn.ac.in/~gmanoj/) and [Prof. Mayank Singh](https://mayank4490.github.io/).
+- [**Graduate Teaching Fellow**] [ES113: Data Centric Computing](https://sites.google.com/iitgn.ac.in/es-113/home), Jan 2024 to May 2024, with [Prof. Manoj Gupta](https://people.iitgn.ac.in/~gmanoj/) and [Prof. Mayank Singh](https://mayank4490.github.io/).
 - _[CS:613 Natural Language Processing](https://sites.google.com/iitgn.ac.in/cs613-2023/home)_, July 2023 to December 2023, with [Prof. Mayank Singh](https://mayank4490.github.io/).
 - _[ES:432 Databases](https://sites.google.com/iitgn.ac.in/c432-2023/home)_, Jan to May 2023, with [Prof. Mayank Singh](https://mayank4490.github.io/).
 - _[ACM-IKDD Summer School on Data Science](https://labs.iitgn.ac.in/datascience/summer-school/)_, July 4th – 16th, 2022.
