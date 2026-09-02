@@ -282,7 +282,7 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 - **[Feb 2024]** [Research Week with Google **2024**] at Google Research India, Bangalore, India, on *'XME: Cross-lingual Model Editing in LLMs'*.
 - **[January 2024]** [PhD Research Showcase **2024**] at IIT Gandhinagar, India, on *'Temporal Learnings in LLMs'*.
 - **[August 2023]** [PhD Research Showcase **2023**] at IIT Gandhinagar, India, on *'XME: Cross-lingual Model Editing in LLMs'*.
-- **[June 2023]** [MLSS^S 2023] in Krakow, Poland 🇵🇱, on [*'Backdoor Attacks in CV and NLP'*](https://github.com/himanshubeniwal/himanshubeniwal.github.io/blob/main/assets/img/MLSS_S%20Poster-%20Himanshu.pdf).
+- **[June 2023]** [MLSS^S 2023] in Krakow, Poland 🇵🇱, on [*'Backdoor Attacks in CV and NLP'*](./assets/img/MLSS_S%20Poster-%20Himanshu.pdf).
 - **[Feb 2023]** Talk on "Backdoor Attacks in NLP", at IISER Bhopal.
 {: .news-feed}
 
