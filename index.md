@@ -141,49 +141,6 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
   <span class="chip">Embedding Poisoning</span>
 </div>
 
-## Some things I know 😎
-{: #skills}
-
-<div class="chip-group">
-  <span class="chip-group-label"><i class="fa-solid fa-code" aria-hidden="true"></i> Languages</span>
-  <span class="chip chip-accent">Python</span>
-  <span class="chip chip-accent">R</span>
-  <span class="chip chip-accent">C / C++</span>
-</div>
-
-<div class="chip-group">
-  <span class="chip-group-label"><i class="fa-solid fa-globe" aria-hidden="true"></i> Web Technologies</span>
-  <span class="chip">HTML</span>
-  <span class="chip">CSS</span>
-  <span class="chip">JavaScript</span>
-  <span class="chip">Bootstrap</span>
-  <span class="chip">React JS</span>
-  <span class="chip">Flask</span>
-</div>
-
-<div class="chip-group">
-  <span class="chip-group-label"><i class="fa-solid fa-brain" aria-hidden="true"></i> ML / DL Frameworks</span>
-  <span class="chip">PyTorch</span>
-  <span class="chip">Keras</span>
-  <span class="chip">TensorFlow</span>
-  <span class="chip">OpenCV</span>
-  <span class="chip">Azure ML Studio</span>
-</div>
-
-<div class="chip-group">
-  <span class="chip-group-label"><i class="fa-solid fa-language" aria-hidden="true"></i> NLP Libraries</span>
-  <span class="chip">NLTK</span>
-  <span class="chip">spaCy</span>
-  <span class="chip">Hugging Face</span>
-  <span class="chip">ParlAI</span>
-  <span class="chip">ElasticSearch</span>
-  <span class="chip">Flair</span>
-  <span class="chip">Stanza</span>
-  <span class="chip">Trankit</span>
-  <span class="chip">TextAttack</span>
-  <span class="chip">SeqAttack</span>
-</div>
-
 ## News 🔊
 {: #news}
 
