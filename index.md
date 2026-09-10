@@ -2,7 +2,7 @@
 layout: default
 title: Himanshu Beniwal
 description: >-
-  Postdoctoral Researcher at ScaDS.AI / TU Dresden working on multilingual NLP,
+  Postdoctoral Researcher at ScaDS.AI / Technische Universität Dresden, working on multilingual NLP,
   AI safety, and mechanistic interpretability for reliable, truthful, and safe LLMs.
 ---
 
@@ -11,7 +11,7 @@ description: >-
   <h1>Namaste, I&rsquo;m Himanshu Beniwal 🙏🏻</h1>
   <p class="hero-tagline">
     Postdoctoral Researcher at <a href="https://scads.ai/">ScaDS.AI</a>,
-    <a href="https://tu-dresden.de/">TU Dresden</a> 🇩🇪 — teaching machines to read the
+    <a href="https://tu-dresden.de/">Technische Universität Dresden</a> 🇩🇪 — teaching machines to read the
     world&rsquo;s languages <em>safely</em>, <em>truthfully</em>, and <em>interpretably</em>.
   </p>
   <div class="hero-actions">
@@ -68,7 +68,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
     <div class="org-body">
       <span class="card-title">Postdoctoral Researcher</span>
       <span class="card-sub"><a href="https://tu-dresden.de/">Technische Universität Dresden</a> · <a href="https://scads.ai/">ScaDS.AI</a></span>
-      <span class="card-meta"><span class="badge">July 2026 – June 2028</span> <span class="chip">Dresden, Germany 🇩🇪</span></span>
+      <span class="card-meta"><span class="badge">July 2026 – Present</span> <span class="chip">Dresden, Germany 🇩🇪</span></span>
       <span class="card-note">Trustworthy and Robust LLMs for Multilingual Natural Language Processing, with <a href="https://faerber-lab.github.io/">Prof. Michael Färber</a>.</span>
     </div>
   </li>
