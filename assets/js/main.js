@@ -100,17 +100,12 @@
     }
 
     var top = document.querySelector(".to-top");
-    var bar = document.querySelector(".progress-bar");
-    if (!top && !bar) return;
+    if (!top) return;
 
     var ticking = false;
     function update() {
       var y = window.pageYOffset || root.scrollTop;
-      if (top) top.classList.toggle("is-visible", y > 420);
-      if (bar) {
-        var h = document.body.scrollHeight - window.innerHeight;
-        bar.style.width = (h > 0 ? Math.min(100, (y / h) * 100) : 0) + "%";
-      }
+      top.classList.toggle("is-visible", y > 420);
       ticking = false;
     }
 
@@ -126,11 +121,9 @@
     );
     update();
 
-    if (top) {
-      top.addEventListener("click", function () {
-        window.scrollTo({ top: 0, behavior: "smooth" });
-      });
-    }
+    top.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
   }
 
   /* ---------- 4. Heading anchors ---------------------------------- */
