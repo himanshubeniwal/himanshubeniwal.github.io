@@ -25,7 +25,7 @@ description: >-
 
 <ul class="fact-strip">
   <li><span class="fact-num">21</span><span class="fact-label">Publications</span></li>
-  <li><span class="fact-num">314</span><span class="fact-label">Citations</span></li>
+  <li><span class="fact-num">319</span><span class="fact-label">Citations</span></li>
   <li><span class="fact-num">5</span><span class="fact-label">Fellowships &amp; Awards</span></li>
   <li><span class="fact-num">16</span><span class="fact-label">Teaching Assignments</span></li>
   <li><span class="fact-num">5</span><span class="fact-label">Live Projects</span></li>
@@ -289,11 +289,11 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 {: #publications}
 
 <p class="lead">
-  <span class="badge"><i class="fa-solid fa-quote-left" aria-hidden="true"></i> Citations: 314</span>
+  <span class="badge"><i class="fa-solid fa-quote-left" aria-hidden="true"></i> Citations: 319</span>
   <a class="badge" href="https://scholar.google.com/citations?user=wXkqUU8AAAAJ&hl=en">Google Scholar profile →</a>
 </p>
 
-- <span class="pub-title">From Universal Knowledge Graphs to Contextual Semantic Contracts</span><span class="pub-authors">**Himanshu Beniwal**, Michael Faerber</span><span class="pub-meta-row"><span class="pub-venue is-preprint">Preprint · May 2026</span><span class="pub-note">Core Rank: A</span><span class="pub-links"><span class="pub-link-soon"><i class="fa-regular fa-file-pdf"></i> PDF soon</span></span></span>
+- <span class="pub-title">From Universal Knowledge Graphs to Contextual Semantic Contracts</span><span class="pub-authors">**Himanshu Beniwal**, Michael Faerber</span><span class="pub-meta-row"><span class="pub-venue">ISWC 2026</span><span class="pub-note">Core Rank: A</span><span class="pub-links"><span class="pub-link-soon"><i class="fa-regular fa-file-pdf"></i> PDF soon</span></span></span>
 - <span class="pub-title">DEPART: DEcomposing PARiTy across Multilingual LLMs</span><span class="pub-authors">Manan Uppadhyay, Prashant Kodali, Pranjal Chitale, Reshma Ramaprasad, **Himanshu Beniwal**, Sunayana Sitaram</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · Findings 🇭🇺</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2605.28163)</span></span>
 - <span class="pub-title">Sycophancy as a Multilingual Alignment Failure: How Safety Degrades Across Languages, Topics, and Models</span><span class="pub-authors">Arya Shah, **Himanshu Beniwal**, Mayank Singh, Chaklam Silpasuwanchai</span><span class="pub-meta-row"><span class="pub-venue is-preprint">Preprint · May 2026</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2606.08451)</span></span>
 - <span class="pub-title">Where Does Toxicity Live? Mechanistic Localization and Targeted Suppression in Language Models</span><span class="pub-authors">**Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue is-preprint">Preprint · May 2026</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2605.27997)</span></span>
