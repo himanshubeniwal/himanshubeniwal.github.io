@@ -109,6 +109,7 @@ plugins:
 #  Excluded from the generated site
 # ---------------------------------------------------------------------
 exclude:
+  - assets/img/logos/README.md
   - Gemfile
   - Gemfile.lock
   - README.md

@@ -62,50 +62,56 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 ## Experience 🧑🏻‍🔬
 {: #experience}
 
-<ul class="org-list">
+<ul class="cv-list">
   <li>
-    <span class="org-logo org-tud" aria-hidden="true">TUD</span>
-    <div class="org-body">
-      <span class="card-title">Postdoctoral Researcher</span>
-      <span class="card-sub"><a href="https://tu-dresden.de/">Technische Universität Dresden</a> · <a href="https://scads.ai/">ScaDS.AI</a></span>
-      <span class="card-meta"><span class="badge">July 2026 – Present</span> <span class="chip">Dresden, Germany 🇩🇪</span></span>
-      <span class="card-note">Trustworthy and Robust LLMs for Multilingual Natural Language Processing, with <a href="https://faerber-lab.github.io/">Prof. Michael Färber</a>.</span>
+    <div class="cv-body">
+      <p class="cv-line"><strong>ScaDS.AI, Technische Universität Dresden</strong>, Dresden, Germany (July 2026 — present)</p>
+      <p class="cv-line">Postdoctoral Researcher</p>
+      <p class="cv-line cv-detail">Trustworthy and Robust LLMs for Multilingual NLP (with <a href="https://faerber-lab.github.io/">Prof. Michael Färber</a>)</p>
+    </div>
+    <div class="cv-marks">
+      <img src="./assets/img/logos/tu-dresden.svg" alt="Technische Universität Dresden">
+      <img src="./assets/img/logos/scads-ai.png" alt="ScaDS.AI">
     </div>
   </li>
   <li>
-    <span class="org-logo org-msr" aria-hidden="true">MSR</span>
-    <div class="org-body">
-      <span class="card-title">PhD Research Intern</span>
-      <span class="card-sub"><a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research India</a></span>
-      <span class="card-meta"><span class="badge">February 2026 – May 2026</span> <span class="chip">Bangalore, India 🇮🇳</span></span>
-      <span class="card-note">Multicultural, multilingual and multimodal evaluation, with <a href="https://www.microsoft.com/en-us/research/people/susitara/">Dr. Sunayana Sitaram</a>. Recipient of the <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/">Microsoft Research India PhD Award 2025</a>.</span>
+    <div class="cv-body">
+      <p class="cv-line"><strong>Microsoft Research India</strong>, Bangalore, India (February 2026 — May 2026)</p>
+      <p class="cv-line">PhD Research Intern</p>
+      <p class="cv-line cv-detail">Multicultural, multilingual and multimodal evaluation (with <a href="https://www.microsoft.com/en-us/research/people/susitara/">Dr. Sunayana Sitaram</a>)</p>
+      <p class="cv-line cv-detail">Recipient of the <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/2025-awardees/">Microsoft Research India PhD Award 2025</a></p>
+    </div>
+    <div class="cv-marks">
+      <img src="./assets/img/logos/microsoft.png" alt="Microsoft Research">
     </div>
   </li>
   <li>
-    <span class="org-logo org-uva" aria-hidden="true">UVA</span>
-    <div class="org-body">
-      <span class="card-title">PhD Research Intern</span>
-      <span class="card-sub"><a href="https://www.virginia.edu/">University of Virginia</a></span>
-      <span class="card-meta"><span class="badge">August 2024 – January 2025</span> <span class="chip">Charlottesville, VA, USA 🇺🇸</span></span>
-      <span class="card-note">Cross-lingual detoxification in LLMs using model editing, with <a href="https://www.tomhartvigsen.com/">Prof. Tom Hartvigsen</a> and <a href="https://sdan2.github.io/">Dr. Soham Dan</a>. Supported by the Overseas Research Fellowship from IIT Gandhinagar.</span>
+    <div class="cv-body">
+      <p class="cv-line"><strong>University of Virginia</strong>, Charlottesville, VA, USA (August 2024 — January 2025)</p>
+      <p class="cv-line">PhD Research Intern</p>
+      <p class="cv-line cv-detail">Cross-lingual detoxification in LLMs using model editing (with <a href="https://www.tomhartvigsen.com/">Prof. Tom Hartvigsen</a> and <a href="https://sdan2.github.io/">Dr. Soham Dan</a>)</p>
+      <p class="cv-line cv-detail">Supported by the Overseas Research Fellowship, IIT Gandhinagar</p>
+    </div>
+    <div class="cv-marks">
+      <img src="./assets/img/logos/university-of-virginia.png" alt="University of Virginia">
     </div>
   </li>
   <li>
-    <span class="org-logo org-hnbgu" aria-hidden="true">HNB</span>
-    <div class="org-body">
-      <span class="card-title">Research Student — CodeStream Research Group</span>
-      <span class="card-sub"><a href="https://www.hnbgu.ac.in/home">H. N. B. Garhwal University (A Central University)</a></span>
-      <span class="card-meta"><span class="badge">April 2018 – May 2019</span> <span class="chip">Srinagar Garhwal, India 🇮🇳</span></span>
-      <span class="card-note">Deep Q-Learning algorithms for self-driving cars, with <a href="https://doonuniversity.ac.in/index.php/ST_Comp/faculty_details/94">Prof. Narender Kumar Rawal</a>.</span>
+    <div class="cv-body">
+      <p class="cv-line"><strong>CodeStream Research Group, H. N. B. Garhwal University</strong>, Srinagar Garhwal, India (April 2018 — May 2019)</p>
+      <p class="cv-line">Research Student</p>
+      <p class="cv-line cv-detail">Deep Q-Learning algorithms for self-driving cars (with <a href="https://doonuniversity.ac.in/index.php/ST_Comp/faculty_details/94">Prof. Narender Kumar Rawal</a>)</p>
     </div>
+    <div class="cv-marks"><span class="cv-wordmark">H.N.B. Garhwal University</span></div>
   </li>
   <li>
-    <span class="org-logo org-iitrpr" aria-hidden="true">IITRPR</span>
-    <div class="org-body">
-      <span class="card-title">Social Networks Analysis Research Intern</span>
-      <span class="card-sub"><a href="https://www.iitrpr.ac.in/">Indian Institute of Technology Ropar</a></span>
-      <span class="card-meta"><span class="badge">May 2018 – August 2018</span> <span class="chip">Rupnagar, India 🇮🇳</span></span>
-      <span class="card-note">Node sampling techniques and centrality measures in large-scale networks, with <a href="https://www.iitrpr.ac.in/sudarshan-iyengar">Prof. Sudarshan Iyengar</a>.</span>
+    <div class="cv-body">
+      <p class="cv-line"><strong>Indian Institute of Technology Ropar</strong>, Rupnagar, India (May 2018 — August 2018)</p>
+      <p class="cv-line">Social Networks Analysis Research Intern</p>
+      <p class="cv-line cv-detail">Node sampling techniques and centrality measures in large-scale networks (with <a href="https://www.iitrpr.ac.in/sudarshan-iyengar">Prof. Sudarshan Iyengar</a>)</p>
+    </div>
+    <div class="cv-marks">
+      <img src="./assets/img/logos/iit-ropar.png" alt="IIT Ropar">
     </div>
   </li>
 </ul>
@@ -213,33 +219,33 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 ## Education 👨🏻‍🎓
 {: #education}
 
-<ul class="org-list">
+<ul class="cv-list">
   <li>
-    <span class="org-logo org-iitgn" aria-hidden="true">IITGN</span>
-    <div class="org-body">
-      <span class="card-title"><a href="https://iitgn.ac.in/">Indian Institute of Technology Gandhinagar</a></span>
-      <span class="card-sub"><em>Doctor of Philosophy</em> in <em>Computer Science &amp; Engineering</em></span>
-      <span class="card-meta"><span class="badge">July 2021 – June 2026</span> <span class="badge">CPI: 10 / 10</span> <span class="badge badge-gold">Prime Minister&rsquo;s Research Fellow</span></span>
-      <span class="card-note">Thesis: Assessing Factuality and Toxicity in Large Language Models. Supervisor: <a href="https://mayank4490.github.io/">Prof. Mayank Singh</a>.</span>
+    <div class="cv-body">
+      <p class="cv-line"><strong>Indian Institute of Technology Gandhinagar</strong>, Gandhinagar, India (July 2021 — June 2026)</p>
+      <p class="cv-line">Ph.D. in Computer Science &amp; Engineering, CPI 10/10</p>
+      <p class="cv-line cv-detail">Prime Minister&rsquo;s Research Fellow · Advisor: <a href="https://mayank4490.github.io/">Prof. Mayank Singh</a></p>
+      <p class="cv-line cv-detail">Thesis: Assessing Factuality and Toxicity in Large Language Models</p>
     </div>
+    <div class="cv-marks"><span class="cv-wordmark">IIT Gandhinagar</span></div>
   </li>
   <li>
-    <span class="org-logo org-cup" aria-hidden="true">CUP</span>
-    <div class="org-body">
-      <span class="card-title"><a href="http://cup.edu.in/">Central University of Punjab</a></span>
-      <span class="card-sub"><em>Master of Technology</em> in <em>Computer Science &amp; Technology</em></span>
-      <span class="card-meta"><span class="badge">July 2019 – July 2021</span> <span class="badge">CGPA: 8.02 / 10</span> <span class="badge badge-gold">Rank 1 · Gold Medal</span></span>
-      <span class="card-note">Thesis: Assessing Empathetic Capabilities in Conversational Approaches. Supervisor: <a href="https://cup.edu.in/Dr_Satwinder_Singh.php">Prof. Satwinder Singh</a>.</span>
+    <div class="cv-body">
+      <p class="cv-line"><strong>Central University of Punjab</strong>, Bathinda, India (July 2019 — July 2021)</p>
+      <p class="cv-line">M.Tech. in Computer Science &amp; Technology, CGPA 8.02/10</p>
+      <p class="cv-line cv-detail">Rank 1, Gold Medal · Advisor: <a href="https://cup.edu.in/Dr_Satwinder_Singh.php">Prof. Satwinder Singh</a></p>
+      <p class="cv-line cv-detail">Thesis: Assessing Empathetic Capabilities in Conversational Approaches</p>
     </div>
+    <div class="cv-marks"><span class="cv-wordmark">Central University of Punjab</span></div>
   </li>
   <li>
-    <span class="org-logo org-hnbgu" aria-hidden="true">HNB</span>
-    <div class="org-body">
-      <span class="card-title"><a href="https://www.hnbgu.ac.in/home">Hemvati Nandan Bahuguna Garhwal University (A Central University)</a></span>
-      <span class="card-sub"><em>Bachelor of Technology</em> in <em>Computer Science &amp; Engineering</em></span>
-      <span class="card-meta"><span class="badge">July 2015 – June 2019</span> <span class="badge">CGPA: 8.37 / 10</span> <span class="badge badge-gold">Rank 1</span></span>
-      <span class="card-note">Thesis: Autonomous Driving System simulation using Deep Q-Learning in CARLA. Supervisor: <a href="https://doonuniversity.ac.in/index.php/ST_Comp/faculty_details/94">Prof. Narender Kumar Rawal</a>.</span>
+    <div class="cv-body">
+      <p class="cv-line"><strong>Hemvati Nandan Bahuguna Garhwal University</strong>, Srinagar Garhwal, India (July 2015 — June 2019)</p>
+      <p class="cv-line">B.Tech. in Computer Science &amp; Engineering, CGPA 8.37/10</p>
+      <p class="cv-line cv-detail">Rank 1 · Advisor: <a href="https://doonuniversity.ac.in/index.php/ST_Comp/faculty_details/94">Prof. Narender Kumar Rawal</a></p>
+      <p class="cv-line cv-detail">Thesis: Autonomous Driving System simulation using Deep Q-Learning in CARLA</p>
     </div>
+    <div class="cv-marks"><span class="cv-wordmark">H.N.B. Garhwal University</span></div>
   </li>
 </ul>
 
@@ -354,22 +360,16 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 {: #teaching}
 
 <div class="teach-group">
-  <span class="org-logo org-tulas" aria-hidden="true">TULA</span>
-  <div class="org-body">
-    <span class="card-title"><a href="https://www.tulas.edu.in/">Tula&rsquo;s Institute</a></span>
-    <span class="card-meta"><span class="badge">January 2026 – May 2026</span> <span class="chip">Dehradun, India 🇮🇳</span></span>
-  </div>
+  <p class="cv-line"><strong><a href="https://www.tulas.edu.in/">Tula&rsquo;s Institute</a></strong>, Dehradun, India (January 2026 — May 2026)</p>
+  <div class="cv-marks"><img src="./assets/img/logos/tulas-institute.png" alt="Tula&rsquo;s Institute"></div>
 </div>
 
 - _Artificial Intelligence and Natural Language Processing_, January 2026 to May 2026.
 {: .detail-list}
 
 <div class="teach-group">
-  <span class="org-logo org-daiict" aria-hidden="true">DAI</span>
-  <div class="org-body">
-    <span class="card-title"><a href="https://www.daiict.ac.in/">Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)</a></span>
-    <span class="card-meta"><span class="badge">January 2023 – May 2025</span> <span class="chip">Gandhinagar, India 🇮🇳</span></span>
-  </div>
+  <p class="cv-line"><strong><a href="https://www.daiict.ac.in/">Dhirubhai Ambani Institute of Information and Communication Technology</a></strong>, Gandhinagar, India (January 2023 — May 2025)</p>
+  <div class="cv-marks"><span class="cv-wordmark">DA-IICT</span></div>
 </div>
 
 - _IT549: Deep Learning_, 45+ students, Jan 2025 to May 2025, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
@@ -380,11 +380,8 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 {: .detail-list}
 
 <div class="teach-group">
-  <span class="org-logo org-iitgn" aria-hidden="true">IITGN</span>
-  <div class="org-body">
-    <span class="card-title"><a href="https://iitgn.ac.in/">Indian Institute of Technology Gandhinagar</a></span>
-    <span class="card-meta"><span class="badge">August 2021 – December 2025</span> <span class="chip">Gandhinagar, India 🇮🇳</span></span>
-  </div>
+  <p class="cv-line"><strong><a href="https://iitgn.ac.in/">Indian Institute of Technology Gandhinagar</a></strong>, Gandhinagar, India (August 2021 — December 2025)</p>
+  <div class="cv-marks"><span class="cv-wordmark">IIT Gandhinagar</span></div>
 </div>
 
 - _[CS:613 Natural Language Processing](https://sites.google.com/iitgn.ac.in/cs613-2025/home)_, August 2025 to December 2025, with [Prof. Mayank Singh](https://mayank4490.github.io/).

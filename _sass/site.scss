@@ -880,93 +880,105 @@ h3:hover .heading-anchor { opacity: 1; }
 }
 
 // ---------------------------------------------------------------------
-//  9b. Organisation monograms
+//  9b. CV rows: plain lines on the left, institution mark on the right
 //
-//  Real institutional logos are patchy (only about half of these bodies
-//  publish a usable icon) and bundling trademarked marks into a public
-//  repo is a licensing question, so each organisation gets a consistent
-//  monogram tile instead. Swapping in a real <img> later only needs the
-//  same 46px box.
+//  Deliberately not cards. No borders, no badges, no hover state - the
+//  dates sit inline in the first line and the logo column does the
+//  visual work, which is how a printed CV reads.
 // ---------------------------------------------------------------------
-.org-logo {
-  flex: none;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 46px;
-  height: 46px;
-  border-radius: 13px;
-  font-family: var(--font-sans);
-  font-size: 0.7rem;
-  font-weight: 700;
-  line-height: 1;
-  letter-spacing: 0.01em;
-  text-transform: uppercase;
-  color: var(--accent);
-  background: var(--surface-2);
-  border: 1px solid var(--border-strong);
-  user-select: none;
-  overflow: hidden;
-
-  img { width: 100%; height: 100%; object-fit: contain; border-radius: inherit; }
-}
-
-
-// ---------------------------------------------------------------------
-//  9c. Experience / education entries with a monogram
-//
-//  minmax(0, 1fr) on the text column is what stops a long unbroken title
-//  or URL from pushing the card wider than its container.
-// ---------------------------------------------------------------------
-.org-list {
+.cv-list {
   list-style: none;
+  margin: 0 0 0.6rem;
   padding: 0;
-  margin: 0 0 1.2rem;
 }
 
-.org-list > li {
+.cv-list > li {
   display: grid;
-  grid-template-columns: 46px minmax(0, 1fr);
-  gap: 15px;
+  grid-template-columns: minmax(0, 1fr) 132px;
+  gap: 18px 30px;
   align-items: start;
-  margin: 0 0 13px;
-  padding: 17px 19px;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow-sm);
-  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
-
-  &:hover {
-    border-color: var(--border-strong);
-    background: var(--surface-2);
-  }
+  padding: 0 0 26px;
 }
 
-.org-body { min-width: 0; }
+.cv-body { min-width: 0; }
 
-.org-list .card-title,
-.org-list .card-sub,
-.org-list .card-note { overflow-wrap: break-word; }
+.cv-line {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.55;
+  overflow-wrap: break-word;
 
-// Institution header that introduces a run of courses beneath it.
+  strong { color: var(--text); font-weight: 600; }
+}
+
+.cv-detail { color: var(--muted); }
+
+.cv-marks {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 12px;
+  padding-top: 3px;
+  min-width: 0;
+}
+
+.cv-marks img {
+  display: block;
+  max-width: 132px;
+  max-height: 54px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+// Stands in for an institution whose logo file is not in the repo yet;
+// drop the file into assets/img/logos/ and swap this span for an <img>.
+.cv-wordmark {
+  font-family: var(--font-sans);
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  line-height: 1.4;
+  text-transform: uppercase;
+  text-align: right;
+  color: var(--muted);
+}
+
+// Institution line introducing a run of courses.
 .teach-group {
   display: grid;
-  grid-template-columns: 46px minmax(0, 1fr);
-  gap: 14px;
+  grid-template-columns: minmax(0, 1fr) 132px;
+  gap: 12px 30px;
   align-items: center;
-  margin: 1.7rem 0 0.8rem;
-  padding: 12px 16px;
-  background: var(--surface-2);
-  border: 1px solid var(--border);
-  border-left: 3px solid var(--accent);
-  border-radius: var(--radius);
-
-  .card-title { font-size: 0.97rem; margin-bottom: 4px; }
-  .card-meta  { margin-top: 0; }
+  margin: 2rem 0 0.7rem;
 }
 
 .teach-group + .detail-list { margin-top: 0; }
+
+// Most of these marks are dark ink or saturated colour on transparency,
+// so on the dark theme they need a light plate to stay legible.
+[data-theme="dark"] .cv-marks img {
+  background: #fff;
+  padding: 5px 6px;
+  border-radius: 3px;
+}
+
+@media (max-width: 640px) {
+  .cv-list > li,
+  .teach-group {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 12px;
+  }
+
+  .cv-marks {
+    align-items: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .cv-wordmark { text-align: left; }
+}
 
 // ---------------------------------------------------------------------
 //  10. Cards (education, live projects, teaching)
@@ -1052,26 +1064,6 @@ h3:hover .heading-anchor { opacity: 1; }
   border-color: var(--accent-2);
 }
 
-// education timeline variant
-.edu-list {
-  list-style: none;
-  padding: 0;
-  margin: 0 0 1.2rem;
-}
-
-.edu-list > li {
-  position: relative;
-  margin: 0 0 13px;
-  padding: 17px 19px 16px 21px;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-left: 3px solid var(--accent);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow-sm);
-  transition: transform 0.18s ease, box-shadow 0.18s ease;
-
-  &:hover { border-color: var(--border-strong); }
-}
 
 // linked "resource" lists (community, coverage, notebooks, mentored)
 .detail-list {
@@ -1396,8 +1388,7 @@ h3:hover .heading-anchor { opacity: 1; }
 
   .pub-list > li,
   .project-list > li,
-  .project-list > div,
-  .edu-list > li { padding: 14px 15px; }
+  .project-list > div { padding: 14px 0; }
   .content table { display: block; overflow-x: auto; }
 }
 
@@ -1422,7 +1413,7 @@ h3:hover .heading-anchor { opacity: 1; }
   .hero { margin: 0 0 16pt; padding: 0; background: none; border-bottom: 1px solid #ccc; }
   .pub-list > li,
   .card,
-  .edu-list > li,
+  .cv-list > li,
   .project-list > div { break-inside: avoid; box-shadow: none; }
   .news-collapse { max-height: none !important; overflow: visible !important; }
   a { color: #000; }
