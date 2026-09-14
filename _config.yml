@@ -89,7 +89,6 @@ nav:
 #  Feature switches
 # ---------------------------------------------------------------------
 enable_math:                true   # MathJax typesetting
-enable_darkmode:            true   # light / dark theme toggle
 enable_medium_zoom:         true   # click-to-zoom on images
 enable_google_analytics:    true
 enable_panelbear_analytics: true

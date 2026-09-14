@@ -34,14 +34,10 @@ description: >-
 ## About Me 🫡
 {: #about}
 
-I am currently a _**Postdoctoral Researcher**_ at [ScaDS.AI](https://scads.ai/), [Technische Universität Dresden — TU Dresden](https://tu-dresden.de/) 🇩🇪, advised by [Prof. Michael Färber](https://faerber-lab.github.io/). My research focuses on multilingual NLP, AI safety, and mechanistic interpretability, with a particular emphasis on building reliable, truthful, and safe LLMs.
+I am a _**Postdoctoral Researcher**_ at [ScaDS.AI](https://scads.ai/), [Technische Universität Dresden](https://tu-dresden.de/) 🇩🇪, with [Prof. Michael Färber](https://faerber-lab.github.io/). I work on multilingual NLP, AI safety, and mechanistic interpretability — building LLMs that stay reliable, truthful, and safe across languages.
 {: .lead}
 
-I **completed my Ph.D.** at [IIT Gandhinagar](https://iitgn.ac.in/) 🇮🇳, advised by [Prof. Mayank Singh](https://mayank4490.github.io/). My research broadly lay at the intersection of Robust and Interpretable NLP, where I focused on _assessing factuality, toxicity, and safety in large language models_. I was particularly interested in building interpretable and explainable NLP systems that are reliable across diverse languages and cultures.
-
-During my Ph.D., I was a **Visiting PhD Intern** at the [University of Virginia](https://www.virginia.edu/) 🇺🇸, working with [Prof. Thomas Hartvigsen](https://www.tomhartvigsen.com/) on multilingual and interpretable content moderation. Together, our works showed that safety systems built for English alone fail to generalize, motivating multilingual safety moderation, cross-lingual detoxification, and interpretable methods to surface the hidden criteria that communities actually use to enforce their norms.
-
-During my Ph.D., I was also a **PhD Intern** at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) 🇮🇳, working with [Dr. Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/) on multilingual evaluation. Together, our works found that current multilingual LLM benchmarks are neither comprehensive nor explanatory, and proposed a Bayesian framework to decompose and diagnose why performance disparities emerge across languages.
+I completed my Ph.D. at [IIT Gandhinagar](https://iitgn.ac.in/) with [Prof. Mayank Singh](https://mayank4490.github.io/), on assessing factuality, toxicity, and safety in LLMs. Along the way I worked with [Prof. Thomas Hartvigsen](https://www.tomhartvigsen.com/) at the [University of Virginia](https://www.virginia.edu/) 🇺🇸 on multilingual and interpretable content moderation — showing that English-only safety systems fail to generalise — and with [Dr. Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/) at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) 🇮🇳 on diagnosing why multilingual benchmarks hide performance disparities.
 
 <div class="callout" markdown="1">
 <span class="callout-icon">🏅</span>
@@ -52,11 +48,9 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 
 #### More about me! 💭
 
-- 🔭 I’m currently working on <b>how an AI reads &amp; understand the language! 🤖</b>
-- 📫 Socials: [LinkedIn 👨🏼‍💼](https://www.linkedin.com/in/himanshubeniwal/), [Twitter 🐤](https://twitter.com/HimanshuBeniwaI), [Hugging-Face 🤗](https://huggingface.co/himanshubeniwal)
-- 📸 Travel Pics: <a href="https://www.instagram.com/himanshubeniwal_/">Instagram <i class="fa-brands fa-instagram" aria-hidden="true"></i></a>
-- 😄 Fav mathematical equation: The magic of Euler's Identity; $$e^{i \pi} + 1 = 0$$
-- ⚡ Fun fact: <b>Traveling the 🌎 with 🖤 for espresso ☕️ &amp; crazy for 💻.</b>
+- 🔭 Currently working on <b>how an AI reads &amp; understands language 🤖</b>
+- 😄 Favourite equation: Euler&rsquo;s Identity, $$e^{i \pi} + 1 = 0$$
+- ⚡ Traveling the 🌎 with 🖤 for espresso ☕️ and crazy for 💻
 {: .facts-list}
 
 ## Experience 🧑🏻‍🔬
@@ -150,8 +144,6 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 ## News 🔊
 {: #news}
 
-<div class="news-collapse" markdown="1">
-
 - **[September 2026]** Presenting at [ResAI 2026: Resilience and AI Workshop](https://scads.github.io/ResAI/).
 - **[September 2026]** Presenting at the Panel at [4th IÖR Conference “Space & Transformation”](https://conference.ioer.info/).
 - **[September 2026]** Attending the [EUTOPIA Impact School 2026](https://tu-dresden.de/ga/qualifizierung/eutopia/eutopia-impact-school-2026-jetzt-bewerben).
@@ -160,6 +152,11 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 - **[August 2026]** Our visionary idea paper on _"From Universal Knowledge Graphs to Contextual Semantic Contracts"_ got accepted at ISWC 2026.
 - **[August 2026]** [DEPART](https://arxiv.org/abs/2605.28163) got accepted at EMNLP '26 🇭🇺!
 - **[July 2026]** "_The State and Fate of Multilingual, Contextual Evaluation_" is accepted at [COLM 2026](https://colmweb.org/)! [Check here!](https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/) 🔥
+{: .news-feed}
+
+<details class="more" markdown="1">
+<summary>Earlier news <span class="more-count">(50 items)</span></summary>
+
 - **[July 2026]** Joined Post-Doctorate at [ScaDS.AI](https://scads.ai/) / [Technische Universität Dresden — TU Dresden](https://tu-dresden.de/) 🇩🇪 with [Prof. Michael Färber](https://faerber-lab.github.io/). 🎉🔥
 - **[May 2026]** Defended my PhD thesis! 🎉🎉🎉
 - **[April 2026]** 2️⃣ papers got accepted at ACL 2026! ([Beyond Monolingual Assumptions](https://arxiv.org/abs/2510.07037) and A Survey of Toxicity Mitigation Strategies for mLLMs) at Mains and Findings! 🔥🔥
@@ -212,9 +209,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 - **[August 2021]** Started doctoral journey with [Prof. Mayank Singh](https://mayank4490.github.io/) at [Computational Linguistics and Complex Social Networks Group](https://labs.iitgn.ac.in/lingo/). 📢📢📢
 {: .news-feed}
 
-</div>
-
-<button class="btn news-toggle" type="button" aria-expanded="false"><i class="fa-solid fa-chevron-down" aria-hidden="true"></i> Show the full news archive</button>
+</details>
 
 ## Education 👨🏻‍🎓
 {: #education}
@@ -307,6 +302,11 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 - <span class="pub-title">One Instruction Does Not Fit All: How Well Do Embeddings Align Personas and Instructions in Low-Resource Indian Languages?</span><span class="pub-authors">Arya Shah, **Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue is-preprint">ArXiv · January 2026</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2601.10205)</span></span>
 - <span class="pub-title">A Survey of Toxicity Detection and Mitigation Strategies for Multilingual Language Models</span><span class="pub-authors">Soham Dan, **Himanshu Beniwal**, Thomas Hartvigsen</span><span class="pub-meta-row"><span class="pub-venue">ACL 2026 · Findings 🇺🇸</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://aclanthology.org/2026.findings-acl.1780/)</span></span>
 - <span class="pub-title">Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models</span><span class="pub-authors">Rajvee Sheth, Samridhi Raj Sinha, Mahavir Patil, **Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">ACL 2026 · Main 🇺🇸</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2510.07037)</span></span>
+{: .pub-list}
+
+<details class="more" markdown="1">
+<summary>Full publication list <span class="more-count">(13 more)</span></summary>
+
 - <span class="pub-title">Decoding the Rule Book: Extracting Hidden Moderation Criteria from Reddit Communities</span><span class="pub-authors">Youngwoo Kim, **Himanshu Beniwal**, Steven L. Johnson, Thomas Hartvigsen</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2025 · Main 🇨🇳</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2509.02926)</span></span>
 - <span class="pub-title">COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing</span><span class="pub-authors">Rajvee Sheth, **Himanshu Beniwal**, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2025 · Findings 🇨🇳</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2503.21670)</span></span>
 - <span class="pub-title">UNITYAI-GUARD: Pioneering Toxicity Detection Across Low-Resource Indian Languages</span><span class="pub-authors">**Himanshu Beniwal**, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Deekshith Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Mayank Singh</span><span class="pub-meta-row"><span class="pub-venue">EMNLP 2025 · Demo 🇨🇳</span><span class="pub-note">Core Rank: A\*</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://arxiv.org/abs/2503.23088) [<i class="fa-solid fa-globe"></i> Demo](https://lingo.iitgn.ac.in/unityai-guard/)</span></span>
@@ -322,8 +322,12 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 - <span class="pub-title">Handwritten Digit Recognition using Machine Learning</span><span class="pub-authors">Narender Kumar, **Himanshu Beniwal**</span><span class="pub-meta-row"><span class="pub-venue">IJCSE 2018</span><span class="pub-note">International Journal of Computer Sciences and Engineering, Vol. 06, Issue 05, pp. 96-100, 2018 · IF: 3.218 (2018)</span><span class="pub-links">[<i class="fa-regular fa-file-pdf"></i> PDF](https://www.ijcseonline.org/full_spl_paper_view.php?paper_id=429) [<i class="fa-solid fa-box-archive"></i> Archived](https://web.archive.org/web/20240905082051/https://www.ijcseonline.org/full_spl_paper_view.php?paper_id=429)</span></span>
 {: .pub-list}
 
+</details>
+
 ## Posters &amp; Talks 🔊
 {: #talks}
+<details class="more" markdown="1">
+<summary>Posters and talks <span class="more-count">(10)</span></summary>
 
 - **[April 2025]** Talk on "Cross-lingual Backdoors" at Plutous! [[Recording](https://app.ploutos.dev/streams/ethereal-foxhound)] ⭐️
 - **[March 2025]** Talk on "_GenAI in HealthCare_", at [Google Developer Group - Silver Oak University](https://gdg.community.dev/events/details/google-gdg-on-campus-silver-oak-university-ahmedabad-india-presents-the-next-frontier-ai-in-healthcare/), Ahmedabad, India 🇮🇳!!
@@ -339,8 +343,12 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 
 <p><a class="btn" href="./another-page4.html"><i class="fa-solid fa-images" aria-hidden="true"></i> See the poster &amp; talk gallery 🤩</a></p>
 
+</details>
+
 ## Community Experience 👷🏻‍♂️
 {: #community}
+<details class="more" markdown="1">
+<summary>Service and community <span class="more-count">(13)</span></summary>
 
 - _Volunteer_: _Communications Team_ at [ACL Rolling Review](http://aclrollingreview.org/) (April 24' - Present).
 - _Mentor_: _Research Mentor_ at [SimPPL](https://simppl.org/) (Jan 2024 - Present).
@@ -356,8 +364,12 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 - _Scholar_: Udacity Facebook Scholar 2019, Google India Scholar 2018
 {: .detail-list}
 
+</details>
+
 ## Teaching Assistantships 🛳️
 {: #teaching}
+<details class="more" markdown="1">
+<summary>Courses taught <span class="more-count">(16 across 3 institutions)</span></summary>
 
 <div class="teach-group">
   <p class="cv-line"><strong><a href="https://www.tulas.edu.in/">Tula&rsquo;s Institute</a></strong>, Dehradun, India (January 2026 — May 2026)</p>
@@ -396,8 +408,12 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 - _[ES:242 (Data Structure & Algorithms - 1)](https://people.iitgn.ac.in/~gmanoj/ES242-2021/)_, August to Nov. 2021, with [Prof. Manoj Gupta](https://people.iitgn.ac.in/~gmanoj/).
 {: .detail-list}
 
+</details>
+
 ## Media Coverage 📰
 {: #coverage}
+<details class="more" markdown="1">
+<summary>Press and coverage <span class="more-count">(6)</span></summary>
 
 - **[Feb 2024]** Attended Research Week with Google 2024 at Google Research India, Bangalore, India. [Twitter](https://twitter.com/HimanshuBeniwaI/status/1753103925325201447).
 - **[Dec 2023]** Gandhipedia launch! 😀 [ETV](https://www.etvbharat.com/bengali/west-bengal/state/kolkata/mahatma-gandhis-unknown-information-at-one-click-of-mouse-as-centre-launches-gandhipedia/wb20231227193836408408064), [ZeeNews](https://zeenews.india.com/bengali/kolkata/gandhipedia-ai-power-portal-on-mahatma-gandhi-by-kharagpur-iit-professor_501189.html), [Times of India](https://timesofindia.indiatimes.com/city/kolkata/ai-enabled-repository-on-gandhi-launched/articleshow/106334897.cms), [The Statesman](https://www.thestatesman.com/bengal/ai-enabled-gandhipedia-for-better-social-connect-1503253844.html), and [ETV Bharat](https://www.etvbharat.com/bengali/west-bengal/state/kolkata/mahatma-gandhis-unknown-information-at-one-click-of-mouse-as-centre-launches-gandhipedia/wb20231227193836408408064).
@@ -406,6 +422,8 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 - **[July 2023]** _Research Capsule Research Showcase at IIT Gandhinagar_: [LinkedIn](https://www.linkedin.com/posts/indian-institute-of-technology-gandhinagar-iitgn-_llms-artificialintelligence-mets-activity-7084524678395928576-BEBl), [Twitter](https://twitter.com/iitgn/status/1678759226368483329?s=46&t=hOLVdCB3kBicB_bsPvKkhw), [Facebook](https://www.facebook.com/100067018602370/posts/596669462577002/?mibextid=rS40aB7S9Ucbxw6v), and [Instagram](https://www.instagram.com/p/Cujw5wIRvja/?igshid=MzRlODBiNWFlZA==).
 - **[Nov 2022]** _PMRF coverage_: [IITGN News](https://news.iitgn.ac.in/2022/11/14/16-phd-scholars-from-iitgn-selected-for-prime-ministers-research-fellowship-in-may-2022-cycle/), [NDTV News](https://www.ndtv.com/education/iit-gandhinagar-phd-scholars-awarded-prime-ministers-research-fellowship-3519052), [Careers 360](https://news.careers360.com/16-iit-gandhinagar-phd-scholars-awarded-prime-ministers-research-fellowship), and [others](https://www.google.com/search?q=himanshu+beniwal&tbm=nws).
 {: .news-feed}
+
+</details>
 
 ## Students Mentored 🧑🏻‍💻
 {: #mentored}
@@ -426,6 +444,8 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 
 ## Notebooks 📒
 {: #notebooks}
+<details class="more" markdown="1">
+<summary>Teaching notebooks <span class="more-count">(10)</span></summary>
 
 ### Recommendation Systems
 
@@ -445,8 +465,12 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 - [Ensemble Techniques](https://colab.research.google.com/drive/1iaA1tWFzq2z-Gkhi059bXYHhCI72BH3y?usp=sharing&authuser=1)
 {: .detail-list}
 
+</details>
+
 ## Past Projects 👨🏻‍💻
 {: #projects}
+<details class="more" markdown="1">
+<summary>Earlier projects <span class="more-count">(3)</span></summary>
 
 <div class="project-list" markdown="1">
 
@@ -500,6 +524,9 @@ _To assess the empathetic capabilities in conversational approaches using seq2se
 </div>
 
 </div>
+
+</details>
+
 
 ---
 

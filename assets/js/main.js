@@ -7,34 +7,6 @@
 
   var root = document.documentElement;
 
-  /* ---------- 1. Colour theme ------------------------------------- */
-  function applyTheme(mode) {
-    root.setAttribute("data-theme", mode);
-    var btn = document.querySelector(".theme-toggle");
-    if (btn) {
-      btn.setAttribute("aria-pressed", mode === "dark" ? "true" : "false");
-      btn.setAttribute(
-        "aria-label",
-        mode === "dark" ? "Switch to light theme" : "Switch to dark theme"
-      );
-    }
-  }
-
-  function initTheme() {
-    var btn = document.querySelector(".theme-toggle");
-    if (!btn) return;
-    applyTheme(root.getAttribute("data-theme") || "light");
-    btn.addEventListener("click", function () {
-      var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
-      applyTheme(next);
-      try {
-        localStorage.setItem("theme", next);
-      } catch (e) {
-        /* storage unavailable — theme still applies for this page */
-      }
-    });
-  }
-
   /* ---------- 2. Sidebar scroll-spy ------------------------------- */
   function initScrollSpy() {
     var links = [].slice.call(document.querySelectorAll(".site-nav a[href*='#']"));
@@ -177,22 +149,6 @@
     });
   }
 
-  /* ---------- 6. Collapsible news feed ---------------------------- */
-  function initNewsToggle() {
-    var wrap = document.querySelector(".news-collapse");
-    var btn = document.querySelector(".news-toggle");
-    if (!wrap || !btn) return;
-
-    btn.addEventListener("click", function () {
-      var open = wrap.classList.toggle("is-open");
-      btn.setAttribute("aria-expanded", open ? "true" : "false");
-      btn.innerHTML = open
-        ? '<i class="fa-solid fa-chevron-up" aria-hidden="true"></i> Show recent updates only'
-        : '<i class="fa-solid fa-chevron-down" aria-hidden="true"></i> Show the full news archive';
-      if (!open) wrap.scrollIntoView({ block: "start", behavior: "smooth" });
-    });
-  }
-
   /* ---------- 7. Blank table headers ------------------------------ */
   function initTables() {
     var heads = document.querySelectorAll(".content table thead");
@@ -207,12 +163,10 @@
   }
 
   function init() {
-    initTheme();
     initScrollSpy();
     initFloatingControls();
     initAnchors();
     initLightbox();
-    initNewsToggle();
     initTables();
   }
 

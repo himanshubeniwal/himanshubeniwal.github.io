@@ -45,32 +45,6 @@
   --maxw:      1140px;
 }
 
-[data-theme="dark"] {
-  --bg:            #14150f;
-  --bg-grad-a:     #14150f;
-  --bg-grad-b:     #14150f;
-  --surface:       #1b1c16;
-  --surface-2:     #23241d;
-  --surface-3:     #2b2c24;
-  --border:        #343528;
-  --border-strong: #4a4b3b;
-
-  --text:          #ece9e0;
-  --text-soft:     #cfccc1;
-  --muted:         #9b988c;
-
-  --accent:        #7fc2ce;
-  --accent-hover:  #a2d6df;
-  --accent-soft:   #19312f;
-  --accent-ring:   rgba(127, 194, 206, 0.26);
-  --accent-2:      #d59a6e;
-  --accent-2-soft: #2c2115;
-
-  --shadow-sm: none;
-  --shadow:    none;
-  --shadow-lg: 0 2px 12px rgba(0, 0, 0, 0.5);
-}
-
 // ---------------------------------------------------------------------
 //  2. Base
 // ---------------------------------------------------------------------
@@ -402,7 +376,7 @@ blockquote {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
-  padding: 46px 52px 40px;
+  padding: 36px 44px 30px;
 }
 
 // Keep running prose at a readable measure; tables and figures may span.
@@ -413,8 +387,8 @@ blockquote {
 
 .content h2 {
   position: relative;
-  margin: 3rem 0 1.15rem;
-  padding-bottom: 0.42rem;
+  margin: 2.1rem 0 0.95rem;
+  padding-bottom: 0.38rem;
   font-size: 1.4rem;
   font-weight: 600;
   letter-spacing: -0.008em;
@@ -457,8 +431,8 @@ h3:hover .heading-anchor { opacity: 1; }
 // ---------------------------------------------------------------------
 .hero {
   position: relative;
-  margin: 0 0 26px;
-  padding: 0 0 24px;
+  margin: 0 0 20px;
+  padding: 0 0 18px;
   border-bottom: 1px solid var(--border-strong);
 }
 
@@ -530,9 +504,9 @@ h3:hover .heading-anchor { opacity: 1; }
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
-  gap: 7px 24px;
-  margin: 0 0 28px;
-  padding: 0 0 22px;
+  gap: 6px 22px;
+  margin: 0 0 20px;
+  padding: 0 0 16px;
   list-style: none;
   border-bottom: 1px solid var(--border);
 }
@@ -645,8 +619,8 @@ h3:hover .heading-anchor { opacity: 1; }
 
   li {
     position: relative;
-    padding: 9px 14px 9px 15px;
-    margin-bottom: 7px;
+    padding: 7px 13px 7px 14px;
+    margin-bottom: 5px;
     background: var(--surface-2);
     border: 1px solid var(--border);
     border-left: 3px solid var(--accent);
@@ -681,9 +655,9 @@ h3:hover .heading-anchor { opacity: 1; }
 
   > li {
     position: relative;
-    margin: 0 0 11px;
-    padding: 2px 0 2px 4px;
-    font-size: 0.925rem;
+    margin: 0 0 7px;
+    padding: 1px 0 1px 4px;
+    font-size: 0.91rem;
 
     // the node: 11px ring centred on the rail (30 - 26.5 + 11/2 = 9px)
     &::before {
@@ -719,34 +693,6 @@ h3:hover .heading-anchor { opacity: 1; }
   }
 }
 
-.news-collapse {
-  position: relative;
-  max-height: 640px;
-  overflow: hidden;
-  transition: max-height 0.4s ease;
-
-  &.is-open { max-height: none; }
-
-  &:not(.is-open)::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    height: 130px;
-    pointer-events: none;
-    background: linear-gradient(180deg, transparent, var(--surface) 88%);
-  }
-}
-
-.news-toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  margin: 4px 0 8px;
-  cursor: pointer;
-  font-family: var(--font-sans);
-}
 
 // ---------------------------------------------------------------------
 //  9. Publications
@@ -760,8 +706,8 @@ h3:hover .heading-anchor { opacity: 1; }
 
 .pub-list > li {
   position: relative;
-  margin: 0 0 2px;
-  padding: 14px 0 14px 0;
+  margin: 0;
+  padding: 11px 0;
   background: transparent;
   border: 0;
   border-bottom: 1px solid var(--border);
@@ -879,6 +825,57 @@ h3:hover .heading-anchor { opacity: 1; }
   margin-top: 6px;
 }
 
+
+// ---------------------------------------------------------------------
+//  Collapsed sections
+//
+//  The long CV tails (teaching, service, coverage, notebooks, the news
+//  archive) are reference material, so they ship closed and the page
+//  opens short. Native <details> means no JS and it stays keyboard
+//  accessible and findable by in-page search once opened.
+// ---------------------------------------------------------------------
+.more {
+  margin: 0 0 1.1rem;
+}
+
+.more > summary {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+  cursor: pointer;
+  list-style: none;
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--accent);
+  padding: 3px 0;
+
+  &::-webkit-details-marker { display: none; }
+
+  &::before {
+    content: "+";
+    display: inline-block;
+    width: 1em;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  &:hover { color: var(--accent-hover); }
+}
+
+.more[open] > summary {
+  margin-bottom: 0.7rem;
+  color: var(--muted);
+
+  &::before { content: "\2212"; }
+}
+
+.more > summary .more-count {
+  font-weight: 400;
+  color: var(--muted);
+}
+
 // ---------------------------------------------------------------------
 //  9b. CV rows: plain lines on the left, institution mark on the right
 //
@@ -895,17 +892,17 @@ h3:hover .heading-anchor { opacity: 1; }
 .cv-list > li {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 132px;
-  gap: 18px 30px;
+  gap: 14px 28px;
   align-items: start;
-  padding: 0 0 26px;
+  padding: 0 0 18px;
 }
 
 .cv-body { min-width: 0; }
 
 .cv-line {
   margin: 0;
-  font-size: 1rem;
-  line-height: 1.55;
+  font-size: 0.97rem;
+  line-height: 1.48;
   overflow-wrap: break-word;
 
   strong { color: var(--text); font-weight: 600; }
@@ -951,18 +948,11 @@ h3:hover .heading-anchor { opacity: 1; }
   grid-template-columns: minmax(0, 1fr) 132px;
   gap: 12px 30px;
   align-items: center;
-  margin: 2rem 0 0.7rem;
+  margin: 1.4rem 0 0.6rem;
 }
 
 .teach-group + .detail-list { margin-top: 0; }
 
-// Most of these marks are dark ink or saturated colour on transparency,
-// so on the dark theme they need a light plate to stay legible.
-[data-theme="dark"] .cv-marks img {
-  background: #fff;
-  padding: 5px 6px;
-  border-radius: 3px;
-}
 
 @media (max-width: 640px) {
   .cv-list > li,
@@ -1073,8 +1063,8 @@ h3:hover .heading-anchor { opacity: 1; }
 
   > li {
     position: relative;
-    margin: 0 0 8px;
-    padding: 10px 15px 10px 34px;
+    margin: 0 0 5px;
+    padding: 7px 14px 7px 32px;
     background: var(--surface-2);
     border: 1px solid var(--border);
     border-radius: var(--radius-sm);
@@ -1113,8 +1103,8 @@ h3:hover .heading-anchor { opacity: 1; }
 
 .project-list > li,
 .project-list > div {
-  margin: 0 0 20px;
-  padding: 20px 22px;
+  margin: 0 0 16px;
+  padding: 16px 18px;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -1130,8 +1120,12 @@ h3:hover .heading-anchor { opacity: 1; }
   text-align: center;
 }
 
+// These research figures are very tall; cap them so a single one cannot
+// own three screens of scroll. Click still opens the full size.
 .content figure img,
 .content p > img {
+  max-height: 340px;
+  width: auto;
   border-radius: var(--radius-sm);
   border: 1px solid var(--border);
   background: var(--surface-2);
@@ -1248,12 +1242,6 @@ h3:hover .heading-anchor { opacity: 1; }
   &:hover { transform: translateY(-2px); color: var(--accent); border-color: var(--accent-ring); }
 }
 
-.theme-toggle {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  z-index: 120;
-}
 
 .to-top {
   position: fixed;
@@ -1276,10 +1264,6 @@ h3:hover .heading-anchor { opacity: 1; }
   z-index: 120;
 }
 
-[data-theme="dark"] .theme-toggle .fa-sun { display: inline-block; }
-[data-theme="dark"] .theme-toggle .fa-moon { display: none; }
-.theme-toggle .fa-sun { display: none; }
-.theme-toggle .fa-moon { display: inline-block; }
 
 // ---------------------------------------------------------------------
 //  14. Footer
@@ -1366,7 +1350,6 @@ h3:hover .heading-anchor { opacity: 1; }
   }
 
   .nav-fab { display: inline-flex; }
-  .theme-toggle { top: auto; bottom: 20px; right: 20px; }
   .to-top { bottom: 74px; right: 20px; }
 }
 
@@ -1407,7 +1390,7 @@ h3:hover .heading-anchor { opacity: 1; }
 
 @media print {
   body { background: #fff; color: #000; font-size: 11pt; }
-  .sidebar, .theme-toggle, .to-top, .nav-fab, .news-toggle, .site-footer { display: none !important; }
+  .sidebar, .to-top, .nav-fab, .site-footer { display: none !important; }
   .wrapper { display: block; max-width: none; padding: 0; }
   .content-card { border: 0; box-shadow: none; padding: 0; }
   .hero { margin: 0 0 16pt; padding: 0; background: none; border-bottom: 1px solid #ccc; }
@@ -1415,23 +1398,11 @@ h3:hover .heading-anchor { opacity: 1; }
   .card,
   .cv-list > li,
   .project-list > div { break-inside: avoid; box-shadow: none; }
-  .news-collapse { max-height: none !important; overflow: visible !important; }
+  .more[open] > summary, .more > summary { display: none !important; }
+  .more > * { display: revert !important; }
   a { color: #000; }
 }
 
-// ---------------------------------------------------------------------
-//  17. Dark-mode fixes for syntax highlighting + misc
-// ---------------------------------------------------------------------
-[data-theme="dark"] {
-  .highlight, pre.highlight { background: var(--surface-2); }
-  .highlight .c, .highlight .c1, .highlight .cm { color: #7d8b99; }
-  .highlight .k, .highlight .kd, .highlight .kn { color: #ff9ec7; }
-  .highlight .s, .highlight .s1, .highlight .s2 { color: #9bdc9b; }
-  .highlight .nf, .highlight .nc { color: #8fc7ff; }
-  // Give the small inline social bitmaps a light plate so they stay legible,
-  // but never the round profile portrait, which also lives under /socials/.
-  .content img[src*="socials/"] { background: #fff; border-radius: 3px; }
-}
 
 // ---------------------------------------------------------------------
 //  18. Overflow hardening
