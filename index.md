@@ -102,7 +102,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
       <p class="cv-line">Research Student</p>
       <p class="cv-line cv-detail">Deep Q-Learning algorithms for self-driving cars (with <a href="https://doonuniversity.ac.in/index.php/ST_Comp/faculty_details/94">Prof. Narender Kumar Rawal</a>)</p>
     </div>
-    <div class="cv-marks"><span class="cv-wordmark">H.N.B. Garhwal University</span></div>
+    <div class="cv-marks"><img src="./assets/img/logos/hnb-garhwal-university.png" alt="Hemvati Nandan Bahuguna Garhwal University"></div>
   </li>
   <li>
     <div class="cv-body">
@@ -227,7 +227,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
       <p class="cv-line cv-detail">Prime Minister&rsquo;s Research Fellow · Advisor: <a href="https://mayank4490.github.io/">Prof. Mayank Singh</a></p>
       <p class="cv-line cv-detail">Thesis: Assessing Factuality and Toxicity in Large Language Models</p>
     </div>
-    <div class="cv-marks"><span class="cv-wordmark">IIT Gandhinagar</span></div>
+    <div class="cv-marks"><img src="./assets/img/logos/iit-gandhinagar.png" alt="Indian Institute of Technology Gandhinagar"></div>
   </li>
   <li>
     <div class="cv-body">
@@ -236,7 +236,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
       <p class="cv-line cv-detail">Rank 1, Gold Medal · Advisor: <a href="https://cup.edu.in/Dr_Satwinder_Singh.php">Prof. Satwinder Singh</a></p>
       <p class="cv-line cv-detail">Thesis: Assessing Empathetic Capabilities in Conversational Approaches</p>
     </div>
-    <div class="cv-marks"><span class="cv-wordmark">Central University of Punjab</span></div>
+    <div class="cv-marks"><img src="./assets/img/logos/central-university-of-punjab.png" alt="Central University of Punjab"></div>
   </li>
   <li>
     <div class="cv-body">
@@ -245,7 +245,7 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
       <p class="cv-line cv-detail">Rank 1 · Advisor: <a href="https://doonuniversity.ac.in/index.php/ST_Comp/faculty_details/94">Prof. Narender Kumar Rawal</a></p>
       <p class="cv-line cv-detail">Thesis: Autonomous Driving System simulation using Deep Q-Learning in CARLA</p>
     </div>
-    <div class="cv-marks"><span class="cv-wordmark">H.N.B. Garhwal University</span></div>
+    <div class="cv-marks"><img src="./assets/img/logos/hnb-garhwal-university.png" alt="Hemvati Nandan Bahuguna Garhwal University"></div>
   </li>
 </ul>
 
@@ -369,7 +369,7 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 
 <div class="teach-group">
   <p class="cv-line"><strong><a href="https://www.daiict.ac.in/">Dhirubhai Ambani Institute of Information and Communication Technology</a></strong>, Gandhinagar, India (January 2023 — May 2025)</p>
-  <div class="cv-marks"><span class="cv-wordmark">DA-IICT</span></div>
+  <div class="cv-marks"><img src="./assets/img/logos/da-iict.png" alt="Dhirubhai Ambani University, formerly DA-IICT"></div>
 </div>
 
 - _IT549: Deep Learning_, 45+ students, Jan 2025 to May 2025, with [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407).
@@ -381,7 +381,7 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 
 <div class="teach-group">
   <p class="cv-line"><strong><a href="https://iitgn.ac.in/">Indian Institute of Technology Gandhinagar</a></strong>, Gandhinagar, India (August 2021 — December 2025)</p>
-  <div class="cv-marks"><span class="cv-wordmark">IIT Gandhinagar</span></div>
+  <div class="cv-marks"><img src="./assets/img/logos/iit-gandhinagar.png" alt="Indian Institute of Technology Gandhinagar"></div>
 </div>
 
 - _[CS:613 Natural Language Processing](https://sites.google.com/iitgn.ac.in/cs613-2025/home)_, August 2025 to December 2025, with [Prof. Mayank Singh](https://mayank4490.github.io/).
