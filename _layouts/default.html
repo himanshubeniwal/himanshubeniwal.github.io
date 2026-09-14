@@ -1,74 +1,145 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#005f73">
+    {% if site.keywords %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    {% seo %}
+
+
+    {% if site.icon %}
+    <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='.9em'%20font-size='90'%3E{{ site.icon | url_encode }}%3C/text%3E%3C/svg%3E">
+    {% endif %}
+
+    <!-- Inter and Source Serif 4 are served from this repo (see
+         _sass/webfonts.scss); the icon fonts below are pinned with SRI. -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+          integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+          crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css"
+          integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw=="
+          crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
     {% include head-custom.html %}
   </head>
+
   <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+
     <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-<!--         {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %} -->
-
-
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      <footer>
-        <div class="social-icons">
-
-          {% if site.linkedin %}
-          <a href="{{ site.linkedin }}" target="_blank">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
+      <aside class="sidebar">
+        <div class="profile-card">
+          {% if site.logo %}
+          <div class="avatar-frame">
+            <img src="{{ site.logo | relative_url }}" alt="Portrait of {{ site.title }}">
+            <span class="avatar-status" title="Currently in Dresden, Germany">🇩🇪</span>
+          </div>
           {% endif %}
-          {% if site.google_scholar %}
-          <a href="{{ site.google_scholar}}" target="_blank">
-            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
-          </a>
-          {% endif %}
-          {% if site.github_link %}            
-          <a href="{{ site.github_link }}" target="_blank">
-            <i class="fab fa-github"></i>
-          </a>
-          {% endif %}
+
+          <p class="profile-name"><a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></p>
+          <p class="profile-role">{{ site.role | default: 'Postdoctoral Researcher' }}</p>
+          <p class="profile-affiliation">{{ site.affiliation | default: site.description }}</p>
+
+          <ul class="profile-meta">
+            {% if site.location %}
+            <li><i class="fa-solid fa-location-dot" aria-hidden="true"></i><span>{{ site.location }}</span></li>
+            {% endif %}
+            {% if site.email %}
+            <li><i class="fa-solid fa-envelope" aria-hidden="true"></i><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {% endif %}
+            {% if site.research_areas %}
+            <li><i class="fa-solid fa-flask" aria-hidden="true"></i><span>{{ site.research_areas }}</span></li>
+            {% endif %}
+          </ul>
+
+          <div class="social-row">
+            {% if site.google_scholar %}
+            <a href="{{ site.google_scholar }}" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if site.linkedin %}
+            <a href="{{ site.linkedin }}" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if site.github_link %}
+            <a href="{{ site.github_link }}" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if site.twitter %}
+            <a href="{{ site.twitter }}" target="_blank" rel="noopener" title="Twitter / X" aria-label="Twitter"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if site.huggingface %}
+            <a href="{{ site.huggingface }}" target="_blank" rel="noopener" title="Hugging Face" aria-label="Hugging Face"><span aria-hidden="true">🤗</span></a>
+            {% endif %}
+            {% if site.instagram %}
+            <a href="{{ site.instagram }}" target="_blank" rel="noopener" title="Instagram" aria-label="Instagram"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if site.arxiv %}
+            <a href="{{ site.arxiv }}" target="_blank" rel="noopener" title="arXiv" aria-label="arXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a>
+            {% endif %}
+          </div>
         </div>
-        <br>
-        <br>
-        <br>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+
+        {% if site.nav %}
+        <nav class="site-nav" aria-label="Section navigation">
+          <p class="nav-title">Explore</p>
+          <ul>
+            {% for item in site.nav %}
+              {% if item.divider %}
+              <li aria-hidden="true"><span class="nav-divider"></span></li>
+              {% else %}
+              <li>
+                <a href="{% if item.url contains '#' and page.url != '/' %}{{ '/' | relative_url }}{{ item.url }}{% else %}{{ item.url }}{% endif %}">
+                  <i class="{{ item.icon }}" aria-hidden="true"></i>{{ item.name }}
+                </a>
+              </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </nav>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+      </aside>
+
+      <main class="content" id="main">
+        <article class="content-card">
+          {{ content }}
+        </article>
+      </main>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+    <footer class="site-footer">
+      <div class="footer-social">
+        {% if site.google_scholar %}<a href="{{ site.google_scholar }}" target="_blank" rel="noopener" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>{% endif %}
+        {% if site.linkedin %}<a href="{{ site.linkedin }}" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>{% endif %}
+        {% if site.github_link %}<a href="{{ site.github_link }}" target="_blank" rel="noopener" aria-label="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>{% endif %}
+        {% if site.twitter %}<a href="{{ site.twitter }}" target="_blank" rel="noopener" aria-label="Twitter"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a>{% endif %}
+        {% if site.email %}<a href="mailto:{{ site.email }}" aria-label="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>{% endif %}
+      </div>
+      <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}{% if site.affiliation %} &middot; {{ site.affiliation }}{% endif %}</p>
+      <p><small>Built with Jekyll &amp; hosted on GitHub Pages. Made with ☕ and a lot of multilingual text.</small></p>
+    </footer>
+
+    <button class="icon-btn nav-fab" type="button" aria-expanded="false" aria-label="Open section navigation">
+      <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+    <button class="icon-btn to-top" type="button" aria-label="Back to top">
+      <i class="fa-solid fa-arrow-up" aria-hidden="true"></i>
+    </button>
+
+    {% if site.enable_math %}
+    <script>
+      window.MathJax = {
+        tex: { inlineMath: [["\\(", "\\)"]], displayMath: [["$$", "$$"], ["\\[", "\\]"]] },
+        options: { skipHtmlTags: ["script", "noscript", "style", "textarea", "pre", "code"] }
+      };
+    </script>
+    <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js"
+            integrity="sha512-6FaAxxHuKuzaGHWnV00ftWqP3luSBRSopnNAA2RvQH1fOfnF/A1wOfiUWF7cLIOFcfb1dEhXwo5VG3DAisocRw=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    {% endif %}
+
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
   </body>
 </html>
