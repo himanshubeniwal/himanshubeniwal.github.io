@@ -24,8 +24,8 @@ description: >-
 </div>
 
 <ul class="fact-strip">
-  <li><span class="fact-num">21</span><span class="fact-label">Publications</span></li>
-  <li><span class="fact-num">319</span><span class="fact-label">Citations</span></li>
+  <li><span class="fact-num">22</span><span class="fact-label">Publications</span></li>
+  <li><span class="fact-num">300+</span><span class="fact-label">Citations</span></li>
   <li><span class="fact-num">5</span><span class="fact-label">Fellowships &amp; Awards</span></li>
   <li><span class="fact-num">16</span><span class="fact-label">Teaching Assignments</span></li>
   <li><span class="fact-num">5</span><span class="fact-label">Live Projects</span></li>
@@ -289,7 +289,7 @@ Demonstrates backdooring in YOLO (a trigger causes person non-detection) and ana
 {: #publications}
 
 <p class="lead">
-  <span class="badge"><i class="fa-solid fa-quote-left" aria-hidden="true"></i> Citations: 319</span>
+  <span class="badge"><i class="fa-solid fa-quote-left" aria-hidden="true"></i> Citations: 322</span>
   <a class="badge" href="https://scholar.google.com/citations?user=wXkqUU8AAAAJ&hl=en">Google Scholar profile →</a>
 </p>
 
