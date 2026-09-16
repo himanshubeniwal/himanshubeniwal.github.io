@@ -25,9 +25,9 @@ description: >-
 
 <ul class="fact-strip">
   <li><span class="fact-num">22</span><span class="fact-label">Publications</span></li>
-  <li><span class="fact-num">300+</span><span class="fact-label">Citations</span></li>
+  <li><span class="fact-num">320+</span><span class="fact-label">Citations</span></li>
   <li><span class="fact-num">5</span><span class="fact-label">Fellowships &amp; Awards</span></li>
-  <li><span class="fact-num">16</span><span class="fact-label">Teaching Assignments</span></li>
+  <li><span class="fact-num">16</span><span class="fact-label">Teaching Assistantship</span></li>
   <li><span class="fact-num">5</span><span class="fact-label">Live Projects</span></li>
 </ul>
 
