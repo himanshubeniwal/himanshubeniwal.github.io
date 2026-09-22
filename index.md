@@ -144,7 +144,8 @@ _**Fellowships during PhD**_: [Prime Minister's Research Fellowship (PMRF)](http
 ## News 🔊
 {: #news}
 
-- **[September 2026]** Presenting at [ResAI 2026: Resilience and AI Workshop](https://scads.github.io/ResAI/).
+- **[September 2026]** Presenting a workshop at the [Herbstseminar 2026](https://herbstseminar.bioinf.uni-leipzig.de/).
+- **[September 2026]** Presenting a talk at [ResAI 2026: Resilience and AI Workshop](https://scads.github.io/ResAI/).
 - **[September 2026]** Presenting at the Panel at [4th IÖR Conference “Space & Transformation”](https://conference.ioer.info/).
 - **[September 2026]** Attending the [EUTOPIA Impact School 2026](https://tu-dresden.de/ga/qualifizierung/eutopia/eutopia-impact-school-2026-jetzt-bewerben).
 - **[September 2026]** Attending the [Germany-Poland-Czechia Workshop on Neurosymbolic and Trustworthy AI](https://sites.google.com/view/de-pl-cz-workshop).
