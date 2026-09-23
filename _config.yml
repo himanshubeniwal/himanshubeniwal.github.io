@@ -4,23 +4,23 @@
 url: https://himanshubeniwal.github.io
 baseurl: ""
 
-title: Himanshu Beniwal
+title: Dr. Himanshu Beniwal
 role: Postdoctoral Researcher
 tagline: Multilingual NLP · AI Safety · Interpretability
 logo: /socials/mypic.jpeg
 description: >-
-  Postdoctoral Researcher at ScaDS.AI / TU Dresden working on multilingual NLP,
+  Postdoctoral Researcher at ScaDS.AI / TU Dresden, working on multilingual NLP,
   AI safety, and mechanistic interpretability for reliable and truthful LLMs.
 affiliation: ScaDS.AI / Technische Universität Dresden
 location: Dresden, Germany 🇩🇪
-email: himanshu.beniwal@tu-dresden.de
+email: himanshu [dot] beniwal [@] tu-dresden.de
 research_areas: Multilingual NLP · AI Safety · Interpretability
 
 lang: en          # site language (en, fr, cn, ru, ...)
 icon: 👨🏻‍💻        # emoji used as the favicon
 theme: jekyll-theme-minimal
 keywords: >-
-  Himanshu Beniwal, multilingual NLP, AI safety, mechanistic interpretability,
+  Dr. Himanshu Beniwal, multilingual NLP, AI safety, mechanistic interpretability,
   model editing, toxicity mitigation, large language models, ScaDS.AI, TU Dresden,
   IIT Gandhinagar
 
