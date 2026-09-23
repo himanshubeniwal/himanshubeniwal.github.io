@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Himanshu Beniwal
+title: Dr. Himanshu Beniwal
 description: >-
   Postdoctoral Researcher at ScaDS.AI / Technische Universität Dresden, working on multilingual NLP,
   AI safety, and mechanistic interpretability for reliable, truthful, and safe LLMs.
@@ -8,7 +8,7 @@ description: >-
 
 <div class="hero">
   <span class="hero-eyebrow">Multilingual NLP · AI Safety · Interpretability</span>
-  <h1>Namaste, I&rsquo;m Himanshu Beniwal 🙏🏻</h1>
+  <h1>Namaste, I&rsquo;m Dr. Himanshu Beniwal 🙏🏻</h1>
   <p class="hero-tagline">
     Postdoctoral Researcher at <a href="https://scads.ai/">ScaDS.AI</a>,
     <a href="https://tu-dresden.de/">Technische Universität Dresden</a> 🇩🇪 — teaching machines to read the
@@ -19,7 +19,7 @@ description: >-
     <a class="btn" href="#news"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> Latest news</a>
     <a class="btn" href="./another-page4.html"><i class="fa-solid fa-images" aria-hidden="true"></i> Posters / Talks 🤩</a>
     <a class="btn" href="./memories.html"><i class="fa-solid fa-camera-retro" aria-hidden="true"></i> Beautiful memories 🥹</a>
-    <a class="btn" href="mailto:himanshu.beniwal@tu-dresden.de"><i class="fa-solid fa-envelope" aria-hidden="true"></i> Get in touch</a>
+    <a class="btn" href="mailto:.beniwal@tu-dresden.de"><i class="fa-solid fa-envelope" aria-hidden="true"></i> Get in touch</a>
   </div>
 </div>
 
