@@ -1,0 +1,21 @@
+# Google Scholar figures shown in the Publications section.
+#
+# Copy these from the profile page when you want to refresh them:
+#   https://scholar.google.com/citations?user=wXkqUU8AAAAJ&hl=en
+# "by_year" is the bar chart on the right of that page. Scholar leaves a few
+# citations undated, so the bars can add up to slightly less than the total.
+
+retrieved: "November 2026"
+profile: https://scholar.google.com/citations?user=wXkqUU8AAAAJ&hl=en
+citations: 369
+h_index: 9
+i10_index: 9
+
+by_year:
+  - { year: 2020, citations: 2 }
+  - { year: 2021, citations: 3 }
+  - { year: 2022, citations: 11 }
+  - { year: 2023, citations: 29 }
+  - { year: 2024, citations: 53 }
+  - { year: 2025, citations: 79 }
+  - { year: 2026, citations: 189 }

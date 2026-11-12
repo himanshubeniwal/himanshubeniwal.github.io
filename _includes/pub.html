@@ -1,0 +1,11 @@
+{%- assign p = include.p -%}
+<li class="pub">
+  <span class="pub-title">{{ p.title }}</span>
+  <span class="pub-authors">{{ p.authors | replace: "Himanshu Beniwal", "<strong>Himanshu Beniwal</strong>" }}</span>
+  <span class="pub-meta">
+    <span class="pub-venue{% if p.kind == 'preprint' %} is-preprint{% endif %}">{{ p.venue }}</span>
+    {%- if p.rank %}<span class="pub-rank">CORE {{ p.rank }}</span>{% endif %}
+    {%- if p.links %}<span class="pub-links">{% for l in p.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</span>{% endif %}
+  </span>
+  {%- if p.note %}<span class="pub-note">{{ p.note }}</span>{% endif %}
+</li>

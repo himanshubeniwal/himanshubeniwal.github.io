@@ -1,0 +1,24 @@
+# Dates for the career timeline in the Experience section.
+# Months are "YYYY-MM"; leave `end` empty for a position that is ongoing.
+# The same dates appear in the Experience, Education and Teaching lists on
+# the home page, so change both together.
+
+- group: Education
+  items:
+    - { label: "B.Tech., HNB Garhwal University", start: "2015-07", end: "2019-06" }
+    - { label: "M.Tech., Central University of Punjab", start: "2019-07", end: "2021-07" }
+    - { label: "Ph.D., IIT Gandhinagar", start: "2021-07", end: "2026-06" }
+
+- group: Research
+  items:
+    - { label: "Research student, CodeStream, HNBGU", start: "2018-04", end: "2019-05" }
+    - { label: "Research intern, IIT Ropar", start: "2018-05", end: "2018-08" }
+    - { label: "PhD research intern, University of Virginia", start: "2024-08", end: "2025-01" }
+    - { label: "PhD research intern, Microsoft Research India", start: "2026-02", end: "2026-05" }
+    - { label: "Postdoc, ScaDS.AI, TU Dresden", start: "2026-07", end: "" }
+
+- group: Teaching
+  items:
+    - { label: "Teaching assistant, IIT Gandhinagar", start: "2021-08", end: "2025-12" }
+    - { label: "Teaching assistant, DA-IICT", start: "2023-01", end: "2025-05" }
+    - { label: "Teaching assistant, Tula's Institute", start: "2026-01", end: "2026-05" }
