@@ -23,12 +23,7 @@
   --link: #1c5cab;
   --link-hover: #0d366b;
 
-  // Chart series (validated: blue, orange, aqua on #ffffff).
-  --series-1: #2a78d6;
-  --series-2: #eb6834;
-  --series-3: #1baf7a;
-  --grid: #ecebe7;
-  --axis: #c3c2b7;
+  --accent: #2a78d6;
 
   --serif: "Source Serif 4", "Source Serif Pro", Georgia, "Times New Roman", serif;
   --sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -197,8 +192,27 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: 2rem 0; }
 .site-nav a.is-active { color: var(--ink); }
 .site-nav a.is-active::after { transform: scaleX(1); }
 
-@media (max-width: 900px) {
-  :root { --head-h: 92px; }
+// Talks and Memories: the two gallery pages, set apart as filled pills.
+.site-nav ul { align-items: center; }
+.site-nav li:not(.nav-highlight) + .nav-highlight { margin-left: .35rem; }
+.site-nav .nav-highlight a {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .3rem .75rem;
+  border-radius: 999px;
+  background: #eaf2fc;
+  color: var(--link);
+  font-weight: 600;
+  transition: background-color .2s ease, color .2s ease, transform .2s var(--ease);
+}
+.site-nav .nav-highlight a::after { display: none; }
+.site-nav .nav-highlight a i { font-size: .8em; }
+.site-nav .nav-highlight a:hover { background: #d7e6f8; color: var(--link-hover); transform: translateY(-1px); }
+.site-nav .nav-highlight a[aria-current="page"] { background: var(--link); color: #fff; }
+
+@media (max-width: 1080px) {
+  :root { --head-h: 96px; }
   .header-inner {
     flex-direction: column;
     align-items: stretch;
@@ -215,7 +229,10 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: 2rem 0; }
     mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent);
   }
   .site-nav::-webkit-scrollbar { display: none; }
-  .site-nav ul { gap: 1.1rem; padding-right: 28px; }
+  .site-nav ul { gap: 1.1rem; padding: .1rem 28px .2rem 0; }
+  .site-nav .nav-highlight { order: -1; }
+  .site-nav li:not(.nav-highlight) + .nav-highlight { margin-left: 0; }
+  .site-nav .nav-highlight:last-child { margin-right: .3rem; }
 }
 
 // ---------------------------------------------------------------------------
@@ -268,8 +285,7 @@ h3.sub {
   color: var(--muted);
   margin: 2rem 0 .8rem;
 }
-.section-body > h3.sub:first-child,
-.section-body > .figures + h3.sub { margin-top: 0; }
+.section-body > h3.sub:first-child { margin-top: 0; }
 
 // ---------------------------------------------------------------------------
 // Intro
@@ -364,7 +380,7 @@ h3.sub {
   .intro-photo figcaption { justify-content: flex-start; }
 }
 
-// Fellowships, interests and the personal notes under the bio.
+// Fellowships and interests under the bio; personal notes in their own section.
 
 .facts {
   display: grid;
@@ -407,31 +423,8 @@ h3.sub {
   color: var(--ink-2);
 }
 
-.notes {
-  list-style: none;
-  margin-top: 1.4rem;
-  font-size: .9375rem;
-  color: var(--ink-2);
-}
-.notes li { padding: .15rem 0; }
-
-// Figures in a row of numbers ("22 publications · 369 citations ...").
-.metrics {
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  gap: .4rem 2.2rem;
-  margin: 0 0 1.6rem;
-}
-.metrics li { display: flex; flex-direction: column; }
-.metrics .num {
-  font-size: 1.6rem;
-  font-weight: 600;
-  line-height: 1.15;
-  letter-spacing: -.01em;
-  color: var(--ink);
-}
-.metrics .lbl { font-size: .8125rem; color: var(--muted); }
+.notes { list-style: none; font-size: 1rem; color: var(--ink-2); }
+.notes li { padding: .2rem 0; }
 
 // ---------------------------------------------------------------------------
 // News
@@ -499,162 +492,6 @@ details.more[open] > :not(summary) { animation: unfold .35s var(--ease); }
   from { opacity: 0; transform: translateY(-4px); }
   to { opacity: 1; transform: none; }
 }
-
-// ---------------------------------------------------------------------------
-// Figures (charts)
-// ---------------------------------------------------------------------------
-
-.figures {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 2rem 2.4rem;
-  margin: 0 0 2.4rem;
-}
-@media (max-width: 720px) {
-  .figures { grid-template-columns: minmax(0, 1fr); }
-}
-
-.viz { margin: 0; position: relative; min-width: 0; }
-.viz-title {
-  font-family: var(--sans);
-  font-size: .9375rem;
-  font-weight: 600;
-  color: var(--ink);
-  margin: 0 0 .1rem;
-}
-.viz-sub {
-  font-size: .8125rem;
-  color: var(--muted);
-  margin: 0 0 .6rem;
-}
-.viz-legend {
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  gap: .25rem 1rem;
-  margin: 0 0 .5rem;
-  font-size: .8125rem;
-  color: var(--ink-2);
-}
-.viz-legend li { display: inline-flex; align-items: center; gap: .4rem; }
-.viz-legend .key {
-  width: 10px;
-  height: 10px;
-  border-radius: 2px;
-  background: var(--k);
-}
-.viz-canvas { position: relative; }
-.viz-canvas svg { display: block; width: 100%; height: auto; overflow: visible; }
-.viz figcaption {
-  margin-top: .55rem;
-  font-size: .78rem;
-  line-height: 1.5;
-  color: var(--muted);
-}
-.viz figcaption b { color: var(--ink-2); font-weight: 600; }
-
-.viz svg text {
-  font-family: var(--sans);
-  font-size: 11px;
-  fill: var(--muted);
-  font-variant-numeric: tabular-nums;
-}
-.viz svg .val { fill: var(--ink); font-weight: 600; font-size: 12px; }
-.viz svg .row-label { fill: var(--ink-2); font-size: 11.5px; }
-.viz svg .row-label, .viz svg .group-label { paint-order: stroke; stroke: #fff; stroke-width: 4px; stroke-linejoin: round; }
-.viz svg .group-label {
-  fill: var(--muted);
-  font-size: 10px;
-  font-weight: 600;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-}
-.viz svg .grid { stroke: var(--grid); stroke-width: 1; shape-rendering: crispEdges; }
-.viz svg .baseline { stroke: var(--axis); stroke-width: 1; shape-rendering: crispEdges; }
-.viz svg .now line { stroke: var(--ink-2); stroke-width: 1; }
-.viz svg .now text { fill: var(--ink-2); font-size: 10.5px; }
-
-.viz svg .s1 { fill: var(--series-1); }
-.viz svg .s2 { fill: var(--series-2); }
-.viz svg .s3 { fill: var(--series-3); }
-
-.viz svg .hit { fill: transparent; cursor: default; outline: none; }
-.viz svg .mark { transition: opacity .15s ease; }
-.viz svg .col.is-hot .mark, .viz svg .bar.is-hot { opacity: .78; }
-.viz svg .hit:focus-visible + .focus-ring,
-.viz svg .focus-ring.is-on { opacity: 1; }
-.viz svg .focus-ring {
-  fill: none;
-  stroke: var(--link);
-  stroke-width: 1.5;
-  opacity: 0;
-  pointer-events: none;
-}
-
-// Draw-in animation. The script adds .is-armed before the chart is in view
-// and .is-drawn once it is; without the script (or with reduced motion) the
-// marks are simply there.
-.viz .col, .viz .bar {
-  transition: transform .9s var(--ease);
-  transition-delay: var(--d, 0s);
-}
-.viz .is-armed .col { transform: scaleY(0); }
-.viz .is-armed .bar { transform: scaleX(0); }
-.viz .is-drawn .col { transform: none; }
-.viz .is-drawn .bar { transform: none; }
-.viz .lbl-fade { transition: opacity .5s ease; transition-delay: calc(var(--d, 0s) + .45s); }
-.viz .is-armed .lbl-fade { opacity: 0; }
-.viz .is-drawn .lbl-fade { opacity: 1; }
-
-.viz-tip {
-  position: absolute;
-  z-index: 5;
-  left: 0;
-  top: 0;
-  min-width: 7.5rem;
-  max-width: 15rem;
-  padding: .45rem .6rem;
-  background: #fff;
-  border: 1px solid var(--rule-2);
-  border-radius: 6px;
-  box-shadow: 0 6px 20px rgba(20, 20, 20, .08);
-  font-size: .78rem;
-  line-height: 1.4;
-  color: var(--ink-2);
-  pointer-events: none;
-  opacity: 0;
-  transform: translateY(4px);
-  transition: opacity .12s ease, transform .12s ease;
-}
-.viz-tip.is-on { opacity: 1; transform: none; }
-.viz-tip .tip-head { color: var(--muted); margin-bottom: .15rem; }
-.viz-tip .tip-row { display: flex; align-items: center; gap: .45rem; }
-.viz-tip .tip-row .v { color: var(--ink); font-weight: 600; font-variant-numeric: tabular-nums; }
-.viz-tip .tip-key { width: 12px; height: 2px; border-radius: 1px; background: var(--k); flex: none; }
-
-.viz-data { margin-top: .4rem; }
-.viz-data > summary {
-  cursor: pointer;
-  font-size: .75rem;
-  color: var(--muted);
-  list-style-position: inside;
-}
-.viz-data table {
-  width: 100%;
-  margin-top: .4rem;
-  border-collapse: collapse;
-  font-size: .8125rem;
-  font-variant-numeric: tabular-nums;
-}
-.viz-data th, .viz-data td {
-  text-align: left;
-  padding: .25rem .5rem .25rem 0;
-  border-bottom: 1px solid var(--rule);
-}
-.viz-data th { font-weight: 600; color: var(--ink-2); }
-.viz-data td { color: var(--ink-2); }
-
-.viz-wide { margin: 0 0 2.2rem; }
 
 // ---------------------------------------------------------------------------
 // Publications
@@ -751,7 +588,7 @@ details.more[open] > :not(summary) { animation: unfold .35s var(--ease); }
 .project-card {
   padding: 1rem 1.1rem;
   border: 1px solid var(--rule);
-  border-left: 3px solid var(--series-1);
+  border-left: 3px solid var(--accent);
   border-radius: 4px;
 }
 .project-card .work { display: block; margin-bottom: .45rem; }
@@ -779,6 +616,24 @@ details.more[open] > :not(summary) { animation: unfold .35s var(--ease); }
 .cv-line strong { color: var(--ink); }
 .cv-line.cv-role { color: var(--ink); }
 .cv-line.cv-detail { font-size: .875rem; color: var(--muted); }
+.honor {
+  display: inline-block;
+  margin-right: .45rem;
+  padding: .05rem .5rem;
+  border-radius: 4px;
+  background: #fdf1d3;
+  color: #6b4700;
+  font-weight: 600;
+  font-size: .8125rem;
+  white-space: nowrap;
+}
+.honor::before {
+  content: "\f5a2";            // Font Awesome "medal"
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  margin-right: .35rem;
+  color: #b07800;
+}
 .cv-when { color: var(--muted); white-space: nowrap; }
 
 .cv-marks {
@@ -957,15 +812,12 @@ body:not(.home) .page thead.is-blank { display: none; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .js .reveal { opacity: 1; transform: none; transition: none; }
-  .viz .col, .viz .bar, .viz .lbl-fade { transition: none !important; }
-  .viz .is-armed .col, .viz .is-armed .bar { transform: none; }
-  .viz .is-armed .lbl-fade { opacity: 1; }
   details.more[open] > :not(summary), .lightbox { animation: none; }
   .site-nav a::after { transition: none; }
 }
 
 @media print {
-  .site-header, .skip-link, .viz-tip { display: none !important; }
+  .site-header, .skip-link { display: none !important; }
   .js .reveal { opacity: 1 !important; transform: none !important; }
   .section { display: block; }
   a { color: inherit; text-decoration: none; }

@@ -44,16 +44,23 @@ nav:
     url: "#news"
   - name: Publications
     url: "#publications"
-  - name: Mentoring
-    url: "#mentoring"
   - name: Experience
     url: "#experience"
   - name: Education
     url: "#education"
   - name: Teaching
     url: "#teaching"
+  - name: Mentoring
+    url: "#mentoring"
+  # Highlighted links to the gallery pages
   - name: Talks
-    url: "#talks"
+    url: "/another-page4.html"
+    highlight: true
+    icon: "fa-solid fa-microphone-lines"
+  - name: Memories
+    url: "/memories.html"
+    highlight: true
+    icon: "fa-solid fa-camera-retro"
 
 # Extra pages linked from the footer
 footer_pages:

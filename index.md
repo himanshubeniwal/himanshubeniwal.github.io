@@ -8,9 +8,8 @@ description: >-
 
 {% comment %}
   Where things live:
-  - Publications:            _data/publications.yml  (list + "papers per year" chart)
-  - Google Scholar numbers:  _data/scholar.yml       (metrics + "citations per year" chart)
-  - Career timeline dates:   _data/career.yml
+  - Publications:            _data/publications.yml
+  - Google Scholar numbers:  _data/scholar.yml
   Everything else is written out below.
 {% endcomment %}
 
@@ -64,13 +63,19 @@ description: >-
       <dt>Machine Learning</dt>
       <dd>Adversarial attacks; poisoning attacks; data and embedding poisoning</dd>
     </dl>
-    <ul class="notes">
-      <li>Currently working on how an AI reads and understands language.</li>
-      <li>Favourite equation: Euler&rsquo;s identity, \(e^{i \pi} + 1 = 0\).</li>
-      <li>Travelling the world for espresso, and crazy about computers.</li>
-    </ul>
   </div>
 </div>
+
+<section class="section" id="more-about-me">
+<div class="section-head"><h2>More about me</h2></div>
+<div class="section-body">
+  <ul class="notes">
+    <li>Currently working on how an AI reads and understands language.</li>
+    <li>Favourite equation: Euler&rsquo;s identity, \(e^{i \pi} + 1 = 0\).</li>
+    <li>Travelling the world for espresso, and crazy about computers.</li>
+  </ul>
+</div>
+</section>
 
 <section class="section" id="news">
 <div class="section-head"><h2>News</h2></div>
@@ -153,59 +158,9 @@ description: >-
 <section class="section" id="publications">
 <div class="section-head">
   <h2>Publications</h2>
-  <p class="section-sub"><a href="{{ scholar.profile }}">Google Scholar profile</a></p>
+  <p class="section-sub">{{ scholar.citations }} citations on <a href="{{ scholar.profile }}">Google Scholar</a></p>
 </div>
 <div class="section-body">
-
-  <ul class="metrics">
-    <li><span class="num">22</span><span class="lbl">publications</span></li>
-    <li><span class="num">{{ scholar.citations }}</span><span class="lbl">citations</span></li>
-    <li><span class="num">{{ scholar.h_index }}</span><span class="lbl">h-index</span></li>
-    <li><span class="num">{{ scholar.i10_index }}</span><span class="lbl">i10-index</span></li>
-  </ul>
-
-  <div class="figures">
-    <figure class="viz" data-chart="columns" data-unit="citations" data-height="170"
-            data-label="Column chart: citations per year, {{ scholar.by_year.first.year }} to {{ scholar.by_year.last.year }}">
-      <p class="viz-title">Citations per year</p>
-      <p class="viz-sub">Google Scholar, as of {{ scholar.retrieved }}</p>
-      <div class="viz-canvas"></div>
-      <figcaption><b>Figure 1.</b> {{ scholar.by_year.last.year }} is a partial year. Scholar leaves a few citations undated, so the columns add up to slightly less than the total of {{ scholar.citations }}.</figcaption>
-      <details class="viz-data" open>
-        <summary>Data table</summary>
-        <table>
-          <thead><tr><th scope="col">Year</th><th scope="col">Citations</th></tr></thead>
-          <tbody>
-            {% for r in scholar.by_year %}<tr><th scope="row">{{ r.year }}</th><td>{{ r.citations }}</td></tr>{% endfor %}
-          </tbody>
-        </table>
-      </details>
-    </figure>
-
-    {% assign pub_years = site.data.publications | map: "year" | sort %}
-    {% assign y_first = pub_years.first %}
-    {% assign y_last = pub_years.last %}
-    <figure class="viz" data-chart="columns" data-height="170"
-            data-label="Stacked column chart: papers listed on this page per year, {{ y_first }} to {{ y_last }}, peer-reviewed and preprints">
-      <p class="viz-title">Papers per year</p>
-      <p class="viz-sub">Papers listed below, n = {{ site.data.publications | size }}</p>
-      <ul class="viz-legend" aria-hidden="true">
-        <li><span class="key" style="--k: var(--series-1)"></span>Peer-reviewed</li>
-        <li><span class="key" style="--k: var(--series-2)"></span>Preprint</li>
-      </ul>
-      <div class="viz-canvas"></div>
-      <figcaption><b>Figure 2.</b> Conference, journal and workshop papers, with preprints stacked on top.</figcaption>
-      <details class="viz-data" open>
-        <summary>Data table</summary>
-        <table>
-          <thead><tr><th scope="col">Year</th><th scope="col">Peer-reviewed</th><th scope="col">Preprint</th></tr></thead>
-          <tbody>
-            {% for y in (y_first..y_last) %}{% assign in_year = site.data.publications | where: "year", y %}{% assign n_peer = in_year | where: "kind", "peer" | size %}{% assign n_pre = in_year | where: "kind", "preprint" | size %}<tr><th scope="row">{{ y }}</th><td>{{ n_peer }}</td><td>{{ n_pre }}</td></tr>{% endfor %}
-          </tbody>
-        </table>
-      </details>
-    </figure>
-  </div>
 
   {% assign by_year = site.data.publications | group_by: "year" %}
   {% assign newest = by_year | first %}
@@ -232,59 +187,9 @@ description: >-
 </div>
 </section>
 
-<section class="section" id="mentoring">
-<div class="section-head">
-  <h2>Mentoring</h2>
-  <p class="section-sub">Students I currently mentor</p>
-</div>
-<div class="section-body">
-
-  <h3 class="sub">Master&rsquo;s theses</h3>
-  <ul class="people">
-    <li><span class="person">Ayodele Fagbami</span><span class="work">Strategy Matters: Evaluating AI Moderation Techniques in LLM-Simulated Political Debates</span></li>
-    <li><span class="person">Shivam Gupta</span><span class="work">Improving Epistemic Quality in Multi-Agent Political Debates through AI Moderation</span></li>
-    <li><span class="person">Jeewan Dhamala</span><span class="work">Robustness of AI-Text Detectors Under Paraphrase and Evasion Attacks</span></li>
-    <li><span class="person">Klemens Stuckrad</span><span class="work">What Makes AI-Generated Text Detectable? A Mechanistic and Feature-Level Analysis</span></li>
-    <li><span class="person">Nisarga Madhu Venkatesh</span><span class="work">Post-Training Interpretable Steering for Cross-Lingual Cultural Alignment in LLMs</span></li>
-    <li><span class="person">Areeba Ahmad<small>Enrolled at Aalto University, Finland</small></span><span class="work">Multilingual Prompt Injection Attacks and Defences for Tool-Using AI Agents in Communication Networks</span></li>
-  </ul>
-
-  <h3 class="sub">Student project</h3>
-  <div class="project-card">
-    <span class="work">BabelDojo: Do Prompt-Injection Defenses for LLM Agents Survive Outside English?</span>
-    <p class="team"><strong>Yanka Raíssa Ribeiro da Silva</strong>, <strong>Priyanshu Sankhala</strong> and <strong>Le Hoang Minh Vu</strong></p>
-  </div>
-
-  <h3 class="sub">Previously mentored</h3>
-  <p class="inline-names">Kajal Chanchlani, Avinash Karhana, Jivitesh Soneji, Mihika Jadhav, Dishant Patel, Hritik Ladia, Vamsi Srivathsa, Venkata Sriman, Zeeshan Snehil Bhagat, Kowsik Nandagopan D, and many more.</p>
-
-</div>
-</section>
-
 <section class="section" id="experience">
 <div class="section-head"><h2>Experience</h2></div>
 <div class="section-body">
-
-  <figure class="viz viz-wide" data-chart="timeline" data-now="2026-11"
-          data-label="Timeline of education, research positions and teaching, 2015 to 2026">
-    <p class="viz-title">Career timeline</p>
-    <ul class="viz-legend" aria-hidden="true">
-      <li><span class="key" style="--k: var(--series-1)"></span>Education</li>
-      <li><span class="key" style="--k: var(--series-2)"></span>Research</li>
-      <li><span class="key" style="--k: var(--series-3)"></span>Teaching</li>
-    </ul>
-    <div class="viz-canvas"></div>
-    <figcaption><b>Figure 3.</b> Degrees, research positions and teaching appointments, from the lists on this page. Hover or focus a bar for its dates.</figcaption>
-    <details class="viz-data" open>
-      <summary>Data table</summary>
-      <table>
-        <thead><tr><th scope="col">Area</th><th scope="col">Role</th><th scope="col">From</th><th scope="col">To</th></tr></thead>
-        <tbody>
-          {% for g in site.data.career %}{% for it in g.items %}<tr><td>{{ g.group }}</td><td>{{ it.label }}</td><td>{{ it.start }}</td><td>{{ it.end }}</td></tr>{% endfor %}{% endfor %}
-        </tbody>
-      </table>
-    </details>
-  </figure>
 
   <ul class="cv">
     <li>
@@ -355,7 +260,7 @@ description: >-
       <div class="cv-body">
         <p class="cv-line"><strong>Central University of Punjab</strong>, Bathinda, India <span class="cv-when">(July 2019 – July 2021)</span></p>
         <p class="cv-line cv-role">M.Tech. in Computer Science &amp; Technology, CGPA 8.02/10</p>
-        <p class="cv-line cv-detail">Rank 1, Gold Medal · Advisor: <a href="https://cup.edu.in/Dr_Satwinder_Singh.php">Prof. Satwinder Singh</a></p>
+        <p class="cv-line cv-detail"><span class="honor">Rank 1, Gold Medal</span> Advisor: <a href="https://cup.edu.in/Dr_Satwinder_Singh.php">Prof. Satwinder Singh</a></p>
         <p class="cv-line cv-detail">Thesis: Assessing Empathetic Capabilities in Conversational Approaches</p>
       </div>
       <div class="cv-marks"><img src="./assets/img/logos/central-university-of-punjab.png" alt="Central University of Punjab"></div>
@@ -364,7 +269,7 @@ description: >-
       <div class="cv-body">
         <p class="cv-line"><strong>Hemvati Nandan Bahuguna Garhwal University</strong>, Srinagar Garhwal, India <span class="cv-when">(July 2015 – June 2019)</span></p>
         <p class="cv-line cv-role">B.Tech. in Computer Science &amp; Engineering, CGPA 8.37/10</p>
-        <p class="cv-line cv-detail">Rank 1 · Advisor: <a href="https://doonuniversity.ac.in/index.php/ST_Comp/faculty_details/94">Prof. Narender Kumar Rawal</a></p>
+        <p class="cv-line cv-detail"><span class="honor">Rank 1</span> Advisor: <a href="https://doonuniversity.ac.in/index.php/ST_Comp/faculty_details/94">Prof. Narender Kumar Rawal</a></p>
         <p class="cv-line cv-detail">Thesis: Autonomous Driving System simulation using Deep Q-Learning in CARLA</p>
       </div>
       <div class="cv-marks"><img src="./assets/img/logos/hnb-garhwal-university.png" alt="Hemvati Nandan Bahuguna Garhwal University"></div>
@@ -607,7 +512,36 @@ description: >-
     </details>
   </div>
 
-  <p class="page-foot">Last updated: November 12, 2026 · <a href="./another-page3.html">Photo gallery</a> · <a href="./memories.html">Memories</a></p>
+</div>
+</section>
+
+<section class="section" id="mentoring">
+<div class="section-head">
+  <h2>Mentoring</h2>
+  <p class="section-sub">Students I currently mentor</p>
+</div>
+<div class="section-body">
+
+  <h3 class="sub">Master&rsquo;s theses</h3>
+  <ul class="people">
+    <li><span class="person">Ayodele Fagbami</span><span class="work">Strategy Matters: Evaluating AI Moderation Techniques in LLM-Simulated Political Debates</span></li>
+    <li><span class="person">Shivam Gupta</span><span class="work">Improving Epistemic Quality in Multi-Agent Political Debates through AI Moderation</span></li>
+    <li><span class="person">Jeewan Dhamala</span><span class="work">Robustness of AI-Text Detectors Under Paraphrase and Evasion Attacks</span></li>
+    <li><span class="person">Klemens Stuckrad</span><span class="work">What Makes AI-Generated Text Detectable? A Mechanistic and Feature-Level Analysis</span></li>
+    <li><span class="person">Nisarga Madhu Venkatesh</span><span class="work">Post-Training Interpretable Steering for Cross-Lingual Cultural Alignment in LLMs</span></li>
+    <li><span class="person">Areeba Ahmad<small>Enrolled at Aalto University, Finland</small></span><span class="work">Multilingual Prompt Injection Attacks and Defences for Tool-Using AI Agents in Communication Networks</span></li>
+  </ul>
+
+  <h3 class="sub">Student project</h3>
+  <div class="project-card">
+    <span class="work">BabelDojo: Do Prompt-Injection Defenses for LLM Agents Survive Outside English?</span>
+    <p class="team"><strong>Yanka Raíssa Ribeiro da Silva</strong>, <strong>Priyanshu Sankhala</strong> and <strong>Le Hoang Minh Vu</strong></p>
+  </div>
+
+  <h3 class="sub">Previously mentored</h3>
+  <p class="inline-names">Kajal Chanchlani, Avinash Karhana, Jivitesh Soneji, Mihika Jadhav, Dishant Patel, Hritik Ladia, Vamsi Srivathsa, Venkata Sriman, Zeeshan Snehil Bhagat, Kowsik Nandagopan D, and many more.</p>
 
 </div>
 </section>
+
+<p class="page-foot">Last updated: November 12, 2026 · <a href="./another-page4.html">Posters &amp; talks</a> · <a href="./memories.html">Memories</a> · <a href="./another-page3.html">Photo gallery</a></p>

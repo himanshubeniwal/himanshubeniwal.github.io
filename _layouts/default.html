@@ -38,7 +38,7 @@
           <ul>
             {% for item in site.nav %}
             {% assign first = item.url | slice: 0 %}
-            <li><a href="{% if first == '#' %}{% if page.url != '/' %}{{ '/' | relative_url }}{% endif %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.name }}</a></li>
+            <li{% if item.highlight %} class="nav-highlight"{% endif %}><a href="{% if first == '#' %}{% if page.url != '/' %}{{ '/' | relative_url }}{% endif %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if item.highlight and page.url == item.url %} aria-current="page"{% endif %}>{% if item.icon %}<i class="{{ item.icon }}" aria-hidden="true"></i>{% endif %}{{ item.name }}</a></li>
             {% endfor %}
           </ul>
         </nav>
