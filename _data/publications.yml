@@ -1,0 +1,214 @@
+# Publications, newest first. The list in the Publications section is built
+# from this file.
+#
+#   kind:  peer      peer-reviewed (conference, journal or workshop)
+#          preprint  not yet peer-reviewed
+#   flag:  country flag of the conference venue, if any
+#   rank:  CORE rank, if any (shown as "CORE A*")
+#   note:  optional extra line (journal name, pages, impact factor)
+
+- title: "From Universal Knowledge Graphs to Contextual Semantic Contracts"
+  authors: "Himanshu Beniwal, Michael Faerber"
+  year: 2026
+  kind: peer
+  venue: "ISWC 2026"
+  flag: "🇮🇹"
+  rank: "A"
+  note: "The Semantic Web – ISWC 2026, Lecture Notes in Computer Science, pp. 510–517"
+  links:
+    - { label: "Springer", url: "https://link.springer.com/chapter/10.1007/978-3-032-42029-9_28" }
+    - { label: "DOI", url: "https://doi.org/10.1007/978-3-032-42029-9_28" }
+
+- title: "DEPART: DEcomposing PARiTy across Multilingual LLMs"
+  authors: "Manan Uppadhyay, Prashant Kodali, Pranjal Chitale, Reshma Ramaprasad, Himanshu Beniwal, Sunayana Sitaram"
+  year: 2026
+  kind: peer
+  venue: "EMNLP 2026 · Findings"
+  flag: "🇭🇺"
+  rank: "A*"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2605.28163" }
+
+- title: "Sycophancy as a Multilingual Alignment Failure: How Safety Degrades Across Languages, Topics, and Models"
+  authors: "Arya Shah, Himanshu Beniwal, Mayank Singh, Chaklam Silpasuwanchai"
+  year: 2026
+  kind: preprint
+  venue: "Preprint · May 2026"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2606.08451" }
+
+- title: "Where Does Toxicity Live? Mechanistic Localization and Targeted Suppression in Language Models"
+  authors: "Himanshu Beniwal, Mayank Singh"
+  year: 2026
+  kind: preprint
+  venue: "Preprint · May 2026"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2605.27997" }
+
+- title: "The State and Fate of Multilingual, Contextual Evaluation in the NLP World"
+  authors: "Manan Uppadhyay, Himanshu Beniwal, Prashant Kodali, Sunayana Sitaram"
+  year: 2026
+  kind: peer
+  venue: "COLM 2026"
+  flag: "🇺🇸"
+  links:
+    - { label: "Paper", url: "https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2610.36990" }
+
+- title: "One Instruction Does Not Fit All: How Well Do Embeddings Align Personas and Instructions in Low-Resource Indian Languages?"
+  authors: "Arya Shah, Himanshu Beniwal, Mayank Singh"
+  year: 2026
+  kind: preprint
+  venue: "arXiv · January 2026"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2601.10205" }
+
+- title: "A Survey of Toxicity Detection and Mitigation Strategies for Multilingual Language Models"
+  authors: "Soham Dan, Himanshu Beniwal, Thomas Hartvigsen"
+  year: 2026
+  kind: peer
+  venue: "ACL 2026 · Findings"
+  flag: "🇺🇸"
+  rank: "A*"
+  links:
+    - { label: "ACL Anthology", url: "https://aclanthology.org/2026.findings-acl.1780/" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2606.25380" }
+
+- title: "Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models"
+  authors: "Rajvee Sheth, Samridhi Raj Sinha, Mahavir Patil, Himanshu Beniwal, Mayank Singh"
+  year: 2026
+  kind: peer
+  venue: "ACL 2026 · Main"
+  flag: "🇺🇸"
+  rank: "A*"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2510.07037" }
+
+- title: "Decoding the Rule Book: Extracting Hidden Moderation Criteria from Reddit Communities"
+  authors: "Youngwoo Kim, Himanshu Beniwal, Steven L. Johnson, Thomas Hartvigsen"
+  year: 2025
+  kind: peer
+  venue: "EMNLP 2025 · Main"
+  flag: "🇨🇳"
+  rank: "A*"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2509.02926" }
+
+- title: "COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing"
+  authors: "Rajvee Sheth, Himanshu Beniwal, Mayank Singh"
+  year: 2025
+  kind: peer
+  venue: "EMNLP 2025 · Findings"
+  flag: "🇨🇳"
+  rank: "A*"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2503.21670" }
+
+- title: "UNITYAI-GUARD: Pioneering Toxicity Detection Across Low-Resource Indian Languages"
+  authors: "Himanshu Beniwal, Reddybathuni Venkat, Rohit Kumar, Birudugadda Srivibhav, Daksh Jain, Pavan Deekshith Doddi, Eshwar Dhande, Adithya Ananth, Kuldeep, Mayank Singh"
+  year: 2025
+  kind: peer
+  venue: "EMNLP 2025 · Demo"
+  flag: "🇨🇳"
+  rank: "A*"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2503.23088" }
+    - { label: "Demo", url: "https://lingo.iitgn.ac.in/unityai-guard/" }
+
+- title: "Char-mander Use mBackdoor! A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs"
+  authors: "Himanshu Beniwal, Sailesh Panda, Birudugadda Srivibhav, Mayank Singh"
+  year: 2025
+  kind: peer
+  venue: "BlackboxNLP @ EMNLP 2025"
+  flag: "🇨🇳"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2502.16901" }
+
+- title: "Breaking mBad! Supervised Fine-tuning for Cross-Lingual Detoxification"
+  authors: "Himanshu Beniwal, Youngwoo Kim, Maarten Sap, Soham Dan, Thomas Hartvigsen"
+  year: 2025
+  kind: peer
+  venue: "MELT @ COLM 2025"
+  flag: "🇨🇦"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2505.16722" }
+
+- title: "PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages"
+  authors: "Priyanshu Kumar, Devansh Jain, Akhila Yerukola, Liwei Jiang, Himanshu Beniwal, Thomas Hartvigsen, Maarten Sap"
+  year: 2025
+  kind: peer
+  venue: "COLM 2025"
+  flag: "🇨🇦"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2504.04377" }
+
+- title: "COMMENTATOR: A Code-mixed Multilingual Text Annotation Framework"
+  authors: "Rajvee Sheth, Shubh Nisar, Heenaben Prajapati, Himanshu Beniwal, Mayank Singh"
+  year: 2024
+  kind: peer
+  venue: "EMNLP 2024 · Demo"
+  flag: "🇺🇸"
+  rank: "A*"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2408.03125" }
+    - { label: "Website", url: "https://lingo.iitgn.ac.in/codemixing/" }
+
+- title: "PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLMs"
+  authors: "Ankit Yadav, Himanshu Beniwal, Mayank Singh"
+  year: 2024
+  kind: peer
+  venue: "EMNLP 2024"
+  flag: "🇺🇸"
+  rank: "A*"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2401.03855" }
+
+- title: "Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models"
+  authors: "Himanshu Beniwal, Dishant Patel, Kowsik Nandagopan D, Hritik Ladia, Ankit Yadav, Mayank Singh"
+  year: 2024
+  kind: peer
+  venue: "EMNLP 2024"
+  flag: "🇺🇸"
+  rank: "A*"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2402.11997" }
+    - { label: "Website", url: "./TempUN/TempUN.html" }
+
+- title: "Cross-lingual Editing in Multilingual Language Models"
+  authors: "Himanshu Beniwal, Kowsik Nandagopan D, Mayank Singh"
+  year: 2024
+  kind: peer
+  venue: "EACL 2024"
+  flag: "🇲🇹"
+  rank: "A"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2401.10521" }
+    - { label: "Website", url: "./XME/XME.html" }
+
+- title: "Explainable Transformer-based Anomaly Detection for IoT Security"
+  authors: "Aamir Saghir, Himanshu Beniwal, Kim Duc Tran, Ali Raza, Ludovic Koehl, Xianyi Zeng, Kim Phuc Tran"
+  year: 2023
+  kind: peer
+  venue: "EAI SaSeIoT 2023"
+  note: "International Conference on Safety and Security in IoT, pp. 83–109, Springer Nature Switzerland"
+  links:
+    - { label: "Springer", url: "https://link.springer.com/chapter/10.1007/978-3-031-53028-9_6" }
+
+- title: "A survey on near-human conversational agents"
+  authors: "Satwinder Singh, Himanshu Beniwal"
+  year: 2021
+  kind: peer
+  venue: "JKSU-CIS 2021"
+  note: "Journal of King Saud University – Computer and Information Sciences, 1319-1578, 2021 · IF 13.473 (2021)"
+  links:
+    - { label: "DOI", url: "https://doi.org/10.1016/j.jksuci.2021.10.013" }
+
+- title: "Handwritten Digit Recognition using Machine Learning"
+  authors: "Narender Kumar, Himanshu Beniwal"
+  year: 2018
+  kind: peer
+  venue: "IJCSE 2018"
+  note: "International Journal of Computer Sciences and Engineering, Vol. 06, Issue 05, pp. 96–100, 2018 · IF 3.218 (2018)"
+  links:
+    - { label: "PDF", url: "https://www.ijcseonline.org/full_spl_paper_view.php?paper_id=429" }
+    - { label: "Archived", url: "https://web.archive.org/web/20240905082051/https://www.ijcseonline.org/full_spl_paper_view.php?paper_id=429" }
