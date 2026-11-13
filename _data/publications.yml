@@ -3,6 +3,7 @@
 #
 #   kind:  peer      peer-reviewed (conference, journal or workshop)
 #          preprint  not yet peer-reviewed
+#   flag:  country flag of the conference venue, if any
 #   rank:  CORE rank, if any (shown as "CORE A*")
 #   note:  optional extra line (journal name, pages, impact factor)
 
@@ -11,6 +12,7 @@
   year: 2026
   kind: peer
   venue: "ISWC 2026"
+  flag: "🇮🇹"
   rank: "A"
   note: "The Semantic Web – ISWC 2026, Lecture Notes in Computer Science, pp. 510–517"
   links:
@@ -22,6 +24,7 @@
   year: 2026
   kind: peer
   venue: "EMNLP 2026 · Findings"
+  flag: "🇭🇺"
   rank: "A*"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2605.28163" }
@@ -47,6 +50,7 @@
   year: 2026
   kind: peer
   venue: "COLM 2026"
+  flag: "🇺🇸"
   links:
     - { label: "Paper", url: "https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/" }
     - { label: "arXiv", url: "https://arxiv.org/abs/2610.36990" }
@@ -64,6 +68,7 @@
   year: 2026
   kind: peer
   venue: "ACL 2026 · Findings"
+  flag: "🇺🇸"
   rank: "A*"
   links:
     - { label: "ACL Anthology", url: "https://aclanthology.org/2026.findings-acl.1780/" }
@@ -74,6 +79,7 @@
   year: 2026
   kind: peer
   venue: "ACL 2026 · Main"
+  flag: "🇺🇸"
   rank: "A*"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2510.07037" }
@@ -83,6 +89,7 @@
   year: 2025
   kind: peer
   venue: "EMNLP 2025 · Main"
+  flag: "🇨🇳"
   rank: "A*"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2509.02926" }
@@ -92,6 +99,7 @@
   year: 2025
   kind: peer
   venue: "EMNLP 2025 · Findings"
+  flag: "🇨🇳"
   rank: "A*"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2503.21670" }
@@ -101,6 +109,7 @@
   year: 2025
   kind: peer
   venue: "EMNLP 2025 · Demo"
+  flag: "🇨🇳"
   rank: "A*"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2503.23088" }
@@ -111,6 +120,7 @@
   year: 2025
   kind: peer
   venue: "BlackboxNLP @ EMNLP 2025"
+  flag: "🇨🇳"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2502.16901" }
 
@@ -119,6 +129,7 @@
   year: 2025
   kind: peer
   venue: "MELT @ COLM 2025"
+  flag: "🇨🇦"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2505.16722" }
 
@@ -127,6 +138,7 @@
   year: 2025
   kind: peer
   venue: "COLM 2025"
+  flag: "🇨🇦"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2504.04377" }
 
@@ -135,6 +147,7 @@
   year: 2024
   kind: peer
   venue: "EMNLP 2024 · Demo"
+  flag: "🇺🇸"
   rank: "A*"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2408.03125" }
@@ -145,6 +158,7 @@
   year: 2024
   kind: peer
   venue: "EMNLP 2024"
+  flag: "🇺🇸"
   rank: "A*"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2401.03855" }
@@ -154,6 +168,7 @@
   year: 2024
   kind: peer
   venue: "EMNLP 2024"
+  flag: "🇺🇸"
   rank: "A*"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2402.11997" }
@@ -164,6 +179,7 @@
   year: 2024
   kind: peer
   venue: "EACL 2024"
+  flag: "🇲🇹"
   rank: "A"
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2401.10521" }
