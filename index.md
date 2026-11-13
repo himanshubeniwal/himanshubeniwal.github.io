@@ -30,7 +30,7 @@ description: >-
     </ul>
     <div class="about">
       <p>I am a <strong>Postdoctoral Researcher</strong> at <a href="https://scads.ai/"><strong>ScaDS.AI</strong></a>, <a href="https://tu-dresden.de/"><strong>Technische Universität Dresden</strong></a>, working with <a href="https://faerber-lab.github.io/">Prof. Michael Färber</a>. My research is on multilingual NLP, AI safety, and mechanistic interpretability, with the goal of building LLMs that stay reliable, truthful, and safe across languages.</p>
-      <p>I completed my Ph.D. at <a href="https://iitgn.ac.in/"><strong>IIT Gandhinagar</strong></a> with <a href="https://mayank4490.github.io/">Prof. Mayank Singh</a>, on assessing factuality, toxicity, and safety in LLMs. During the Ph.D. I did a PhD internship at the <a href="https://www.virginia.edu/"><strong>University of Virginia</strong></a> with <a href="https://www.tomhartvigsen.com/">Prof. Thomas Hartvigsen</a>, on multilingual and interpretable content moderation, showing that English-only safety systems fail to generalize, and a PhD internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/"><strong>Microsoft Research India</strong></a> with <a href="https://www.microsoft.com/en-us/research/people/susitara/">Dr. Sunayana Sitaram</a>, on why multilingual benchmarks hide performance disparities.</p>
+      <p>I completed my Ph.D. at <a href="https://iitgn.ac.in/"><strong>IIT Gandhinagar</strong></a> with <a href="https://mayank4490.github.io/">Prof. Mayank Singh</a>, on assessing factuality, toxicity, and safety in LLMs. During the Ph.D. I did a PhD Research Internship at the <a href="https://www.virginia.edu/"><strong>University of Virginia</strong></a> with <a href="https://www.tomhartvigsen.com/">Prof. Thomas Hartvigsen</a>, on multilingual and interpretable content moderation, showing that English-only safety systems fail to generalize, and a PhD Research Internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/"><strong>Microsoft Research India</strong></a> with <a href="https://www.microsoft.com/en-us/research/people/susitara/">Dr. Sunayana Sitaram</a>, on why multilingual benchmarks hide performance disparities.</p>
     </div>
   </div>
   <figure class="intro-photo">
@@ -105,7 +105,7 @@ description: >-
 - **Feb 2026** Talk on using AI for social intelligence through Arbiter at the India AI Impact Summit 2026. [Post](https://www.linkedin.com/posts/swapneelm_indiaaiimpactsummit-ugcPost-7431414040721141760-ZycF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACIkwNcBDUozMM8fdKBUCjo-sRDZ-PbQbKU).
 - **Feb 2026** [UnityAI-Guard](https://aclanthology.org/2025.emnlp-demos.33/) was selected for the Global South Research & Posters Showcase at the Research Symposium on AI and its Impact, part of the India AI Impact Summit 2026.
 - **Feb 2026** [TempUN](https://aclanthology.org/2024.findings-emnlp.953/) was accepted for presentation at ACM India ARCS 2026.
-- **Feb 2026** Started my PhD internship at Microsoft Research India, Bangalore.
+- **Feb 2026** Started my PhD Research Internship at Microsoft Research India, Bangalore.
 - **Jan 2026** Submitted my PhD thesis.
 - **Nov 2025** COMI-LINGUA was featured in "9 Indian AI Research Papers From 2025 That Deserve More Attention", [Analytics India Mag](https://analyticsindiamag.com/ai-trends/9-indian-ai-research-papers-that-deserve-more-attention-in-2025/).
 - **Sep 2025** Four papers at EMNLP 2025, one each at Main, Findings, Demo and a workshop: [Decoding the Rule Book](https://arxiv.org/abs/2509.02926), [COMI-LINGUA](https://arxiv.org/abs/2503.21670), [UnityAI-Guard](https://lingo.iitgn.ac.in/unityai-guard/) and [Char-mander](https://arxiv.org/abs/2502.16901).
@@ -122,7 +122,7 @@ description: >-
 - **Jan 2025** Attended the [Google DeepMind Research Symposium 2025](https://rsvp.withgoogle.com/events/researchsymposium25), Bangalore.
 - **Sep 2024** Three papers at EMNLP 2024: [TempUN](https://github.com/lingoiitgn/TempUN), [PythonSaga](https://arxiv.org/abs/2401.03855) and [COMMENTATOR](https://arxiv.org/abs/2408.03125).
 - **Aug 2024** Talk on "[Editing Large Language Models](https://x.com/MilaNLProc/status/1834180550107537637)" at MilaNLP, Italy.
-- **Aug 2024** Started my PhD internship at the [University of Virginia](https://www.virginia.edu/) with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/), on interpretable and multilingual NLP.
+- **Aug 2024** Started my PhD Research Internship at the [University of Virginia](https://www.virginia.edu/) with [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/), on interpretable and multilingual NLP.
 - **Aug 2024** Attended [ACL 2024](https://2024.aclweb.org/) in Bangkok, Thailand.
 - **Jul 2024** Released the [Ganga-1B](https://huggingface.co/LingoIITGN/ganga-1b) model, which outperforms existing open-source models that support **Indian languages**, even at sizes of up to **7 billion parameters**.
 - **Jun 2024** Talk at the [ACM Summer School on Generative AI for Text](https://labs.iitgn.ac.in/lingo/acmsummerschool2024/) on "Instruction fine-tuning, FLAN-T5, and Quantisation". [Recording](https://youtu.be/W9zdi2hMqyo).
